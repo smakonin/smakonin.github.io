@@ -163,7 +163,7 @@ ul li
     padding: .2em 1em .2em 1em;
     box-sizing: border-box;
     display: inline-block;
-    vertical-align: text-top;
+    vertical-align: top;
 }
 
 .events .descr
