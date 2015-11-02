@@ -135,7 +135,24 @@ ul li
     display: block !important;
 }
 
-.label
+.label-journal
+{
+    display: inline;
+    padding: .2em .6em .3em;
+    font-size: .5em;
+    font-weight: bold;
+    line-height: 1;
+    color: #ffffff;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: baseline;
+    border-radius: .25em;
+    background-color: #515151;
+    vertical-align: middle;
+    margin: auto 0 auto 0; 
+}
+
+.label-open
 {
     display: inline;
     padding: .2em .6em .3em;
