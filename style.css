@@ -120,13 +120,29 @@ ul li
     padding: 0 2rem 0 2rem;
     box-sizing: border-box;
 }
+
+/*.portrate 
+{
+  background-image: url(images/smakonin.jpg);
+  width: 125px;
+  height: 125px;
+  margin: 0 auto;
+  border-radius: 50%;
+
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+    
+    display: block !important;
+}*/
+
 .portrate 
 {
-	background-image: url(images/smakonin.jpg);
+	background-image: url(images/smakonin.png);
 	width: 125px;
-	height: 125px;
+  height: 140px;
 	margin: 0 auto;
-	border-radius: 50%;
+	border-radius: 25px;
 
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
