@@ -1,4 +1,4 @@
-html, body 
+html, body
 {
   margin: 0;
   padding: 0;
@@ -9,7 +9,7 @@ html
     font-family: 'Open Sans', Arial, sans-serif;
     line-height: 1.2;
     font-size: 16px;
-    font-weight: normal;
+    font-weight: 300;
     color: #515151;
     background-color: #FFF;
 }
@@ -65,7 +65,7 @@ a:hover, a:focus
     text-decoration: underline;
 }
 
-ul, ol 
+ul, ol
 {
   margin-top: 0;
   margin-bottom: 1rem;
@@ -121,7 +121,7 @@ ul li
     box-sizing: border-box;
 }
 
-/*.portrate 
+/*.portrate
 {
   background-image: url(images/smakonin.jpg);
   width: 125px;
@@ -132,11 +132,11 @@ ul li
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
-    
+
     display: block !important;
 }*/
 
-.portrate 
+.portrate
 {
 	background-image: url(images/smakonin.png);
 	width: 125px;
@@ -147,7 +147,7 @@ ul li
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	background-size: cover;
-    
+
     display: block !important;
 }
 
@@ -165,7 +165,7 @@ ul li
     border-radius: .25em;
     background-color: #515151;
     vertical-align: middle;
-    margin: auto 0 auto 0; 
+    margin: auto 0 auto 0;
 }
 
 .label-open
@@ -182,7 +182,7 @@ ul li
     border-radius: .25em;
     background-color: #515151;
     vertical-align: middle;
-    margin: auto 0 auto 0; 
+    margin: auto 0 auto 0;
 }
 
 .events
