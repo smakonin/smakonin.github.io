@@ -121,6 +121,8 @@ ul li
     margin: 2rem;
     padding: 0 2rem 0 2rem;
     box-sizing: border-box;
+    max-width: 888px;
+    background-color: #FFF;
 }
 
 .portrate
