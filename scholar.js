@@ -1,6 +1,6 @@
 var sdata = {
     agg: {
-        "Citations": 686,
+        "Citations": 687,
         "h-index": 13,
         "i10-index": 18
     },
@@ -303,7 +303,7 @@ var sdata = {
             title: "Nonintrusive load monitoring (NILM) performance evaluation"
         },
         "cneuo_UAAAAJ:zYLM7Y9cAGgC": {
-            citations: 168,
+            citations: 169,
             id: "cneuo_UAAAAJ:zYLM7Y9cAGgC",
             impact_factor: "",
             is_book: false,
