@@ -1,6 +1,6 @@
 var sdata = {
     agg: {
-        "Citations": 694,
+        "Citations": 695,
         "h-index": 13,
         "i10-index": 19
     },
@@ -77,15 +77,6 @@ var sdata = {
             is_journal: false,
             title: "CarbonKit: Designing A Personal Carbon Tracking Platform"
         },
-        "cneuo_UAAAAJ:MXK_kJrjxJIC": {
-            citations: 0,
-            id: "cneuo_UAAAAJ:MXK_kJrjxJIC",
-            impact_factor: "",
-            is_book: false,
-            is_conference: true,
-            is_journal: false,
-            title: "ODDs: Occupancy Detection Dataset"
-        },
         "cneuo_UAAAAJ:NMxIlDl6LWMC": {
             citations: 0,
             id: "cneuo_UAAAAJ:NMxIlDl6LWMC",
@@ -94,15 +85,6 @@ var sdata = {
             is_conference: false,
             is_journal: true,
             title: "HUE: The Hourly Usage of Energy Dataset for Buildings in British Columbia"
-        },
-        "cneuo_UAAAAJ:QIV2ME_5wuYC": {
-            citations: 0,
-            id: "cneuo_UAAAAJ:QIV2ME_5wuYC",
-            impact_factor: "",
-            is_book: false,
-            is_conference: true,
-            is_journal: false,
-            title: "Understanding Appliance Power Consumption Without Sensors"
         },
         "cneuo_UAAAAJ:Se3iqnhoufwC": {
             citations: 4,
@@ -303,7 +285,7 @@ var sdata = {
             title: "Nonintrusive load monitoring (NILM) performance evaluation"
         },
         "cneuo_UAAAAJ:zYLM7Y9cAGgC": {
-            citations: 171,
+            citations: 172,
             id: "cneuo_UAAAAJ:zYLM7Y9cAGgC",
             impact_factor: "",
             is_book: false,
