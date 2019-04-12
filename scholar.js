@@ -1,7 +1,7 @@
 var sdata = {
     agg: {
-        "Citations": 696,
-        "h-index": 13,
+        "Citations": 695,
+        "h-index": 12,
         "i10-index": 19
     },
     papers: {
@@ -15,7 +15,7 @@ var sdata = {
             title: "Appliance Water Disaggregation via Non-Intrusive Load Monitoring (NILM)"
         },
         "cneuo_UAAAAJ:2osOgNQ5qMEC": {
-            citations: 54,
+            citations: 53,
             id: "cneuo_UAAAAJ:2osOgNQ5qMEC",
             impact_factor: 3.022,
             is_book: false,
@@ -42,7 +42,7 @@ var sdata = {
             title: "Incorporating Time-Of-Day Usage Patterns Into Non-Intrusive Load Monitoring"
         },
         "cneuo_UAAAAJ:9yKSN-GCB0IC": {
-            citations: 19,
+            citations: 18,
             id: "cneuo_UAAAAJ:9yKSN-GCB0IC",
             impact_factor: "",
             is_book: false,
@@ -96,7 +96,7 @@ var sdata = {
             title: "Cognitive Radio Technology: System Evolution"
         },
         "cneuo_UAAAAJ:Tyk-4Ss8FVUC": {
-            citations: 11,
+            citations: 10,
             id: "cneuo_UAAAAJ:Tyk-4Ss8FVUC",
             impact_factor: "",
             is_book: false,
@@ -177,7 +177,7 @@ var sdata = {
             title: "Efficient Sparse Matrix Processing for Nonintrusive Load Monitoring (NILM)"
         },
         "cneuo_UAAAAJ:Zph67rFs4hoC": {
-            citations: 58,
+            citations: 57,
             id: "cneuo_UAAAAJ:Zph67rFs4hoC",
             impact_factor: 4.836,
             is_book: false,
@@ -213,7 +213,7 @@ var sdata = {
             title: "Home Occupancy Agent: Occupancy and Sleep Detection"
         },
         "cneuo_UAAAAJ:eQOLeE2rZwMC": {
-            citations: 13,
+            citations: 12,
             id: "cneuo_UAAAAJ:eQOLeE2rZwMC",
             impact_factor: "",
             is_book: false,
@@ -240,7 +240,7 @@ var sdata = {
             title: "Mixed-Initiative for Big Data: The Intersection of Human + Visual Analytics + Prediction"
         },
         "cneuo_UAAAAJ:kNdYIx-mwKoC": {
-            citations: 86,
+            citations: 89,
             id: "cneuo_UAAAAJ:kNdYIx-mwKoC",
             impact_factor: 7.364,
             is_book: false,
@@ -258,7 +258,7 @@ var sdata = {
             title: "RAE: The Rainforest Automation Energy Dataset for Smart Grid Meter Data Analysis"
         },
         "cneuo_UAAAAJ:u-x6o8ySG0sC": {
-            citations: 18,
+            citations: 17,
             id: "cneuo_UAAAAJ:u-x6o8ySG0sC",
             impact_factor: "",
             is_book: false,
@@ -285,7 +285,7 @@ var sdata = {
             title: "Nonintrusive load monitoring (NILM) performance evaluation"
         },
         "cneuo_UAAAAJ:zYLM7Y9cAGgC": {
-            citations: 172,
+            citations: 174,
             id: "cneuo_UAAAAJ:zYLM7Y9cAGgC",
             impact_factor: "",
             is_book: false,
