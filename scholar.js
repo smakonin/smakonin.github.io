@@ -1,6 +1,6 @@
 var sdata = {
     agg: {
-        "Citations": 695,
+        "Citations": 696,
         "h-index": 12,
         "i10-index": 19
     },
@@ -168,7 +168,7 @@ var sdata = {
             title: "Start-Up Creation: The Smart Eco-efficient Built Environment"
         },
         "cneuo_UAAAAJ:YsMSGLbcyi4C": {
-            citations: 19,
+            citations: 20,
             id: "cneuo_UAAAAJ:YsMSGLbcyi4C",
             impact_factor: "",
             is_book: false,
