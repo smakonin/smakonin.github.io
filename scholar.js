@@ -1,6 +1,6 @@
 var sdata = {
     agg: {
-        "Citations": 697,
+        "Citations": 699,
         "h-index": 12,
         "i10-index": 19
     },
@@ -240,7 +240,7 @@ var sdata = {
             title: "Mixed-Initiative for Big Data: The Intersection of Human + Visual Analytics + Prediction"
         },
         "cneuo_UAAAAJ:kNdYIx-mwKoC": {
-            citations: 89,
+            citations: 90,
             id: "cneuo_UAAAAJ:kNdYIx-mwKoC",
             impact_factor: 7.364,
             is_book: false,
@@ -285,7 +285,7 @@ var sdata = {
             title: "Nonintrusive load monitoring (NILM) performance evaluation"
         },
         "cneuo_UAAAAJ:zYLM7Y9cAGgC": {
-            citations: 174,
+            citations: 175,
             id: "cneuo_UAAAAJ:zYLM7Y9cAGgC",
             impact_factor: "",
             is_book: false,
