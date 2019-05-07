@@ -257,6 +257,15 @@ var sdata = {
             is_journal: true,
             title: "RAE: The Rainforest Automation Energy Dataset for Smart Grid Meter Data Analysis"
         },
+        "cneuo_UAAAAJ:ns9cj8rnVeAC": {
+            citations: 0,
+            id: "cneuo_UAAAAJ:ns9cj8rnVeAC",
+            impact_factor: 3.557,
+            is_book: false,
+            is_conference: false,
+            is_journal: true,
+            title: "Performance evaluation of techniques for identifying abnormal energy consumption in buildings"
+        },
         "cneuo_UAAAAJ:u-x6o8ySG0sC": {
             citations: 17,
             id: "cneuo_UAAAAJ:u-x6o8ySG0sC",
