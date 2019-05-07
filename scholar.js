@@ -1,6 +1,6 @@
 var sdata = {
     agg: {
-        "Citations": 706,
+        "Citations": 710,
         "h-index": 12,
         "i10-index": 19
     },
@@ -105,7 +105,7 @@ var sdata = {
             title: "Inspiring energy conservation through open source power monitoring and in-home display"
         },
         "cneuo_UAAAAJ:ULOm3_A8WrAC": {
-            citations: 10,
+            citations: 11,
             id: "cneuo_UAAAAJ:ULOm3_A8WrAC",
             impact_factor: "",
             is_book: false,
@@ -240,7 +240,7 @@ var sdata = {
             title: "Mixed-Initiative for Big Data: The Intersection of Human + Visual Analytics + Prediction"
         },
         "cneuo_UAAAAJ:kNdYIx-mwKoC": {
-            citations: 93,
+            citations: 95,
             id: "cneuo_UAAAAJ:kNdYIx-mwKoC",
             impact_factor: 7.364,
             is_book: false,
@@ -276,7 +276,7 @@ var sdata = {
             title: "An intelligent agent for determining home occupancy using power monitors and light sensors"
         },
         "cneuo_UAAAAJ:ufrVoPGSRksC": {
-            citations: 65,
+            citations: 66,
             id: "cneuo_UAAAAJ:ufrVoPGSRksC",
             impact_factor: 1.634,
             is_book: false,
