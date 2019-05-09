@@ -1,6 +1,6 @@
 var sdata = {
     agg: {
-        "Citations": 710,
+        "Citations": 713,
         "h-index": 12,
         "i10-index": 19
     },
@@ -33,7 +33,7 @@ var sdata = {
             title: "Chapter 18: App programming and its use in smart buildings"
         },
         "cneuo_UAAAAJ:7PzlFSSx8tAC": {
-            citations: 5,
+            citations: 6,
             id: "cneuo_UAAAAJ:7PzlFSSx8tAC",
             impact_factor: "",
             is_book: false,
@@ -294,7 +294,7 @@ var sdata = {
             title: "Nonintrusive load monitoring (NILM) performance evaluation"
         },
         "cneuo_UAAAAJ:zYLM7Y9cAGgC": {
-            citations: 177,
+            citations: 179,
             id: "cneuo_UAAAAJ:zYLM7Y9cAGgC",
             impact_factor: "",
             is_book: false,
