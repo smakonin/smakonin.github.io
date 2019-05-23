@@ -103,7 +103,7 @@
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://makonin.com/doc/DIB_23(103744).pdf</loc>
+  <loc>http://makonin.com/doc/DIB_2019.pdf</loc>
   <lastmod>2019-03-20T21:59:43+00:00</lastmod>
   <priority>0.80</priority>
 </url>
@@ -165,6 +165,11 @@
 <url>
   <loc>http://makonin.com/doc/WECON_2015.pdf</loc>
   <lastmod>2019-03-20T21:59:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://makonin.com/doc/Access_2019.pdf</loc>
+  <lastmod>2019-05-23T21:59:43+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
