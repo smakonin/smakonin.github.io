@@ -1,6 +1,6 @@
 var sdata = {
     agg: {
-        "Citations": 720,
+        "Citations": 724,
         "h-index": 12,
         "i10-index": 19
     },
@@ -42,7 +42,7 @@ var sdata = {
             title: "Incorporating Time-Of-Day Usage Patterns Into Non-Intrusive Load Monitoring"
         },
         "cneuo_UAAAAJ:9yKSN-GCB0IC": {
-            citations: 18,
+            citations: 19,
             id: "cneuo_UAAAAJ:9yKSN-GCB0IC",
             impact_factor: "",
             is_book: false,
@@ -177,7 +177,7 @@ var sdata = {
             title: "Efficient Sparse Matrix Processing for Nonintrusive Load Monitoring (NILM)"
         },
         "cneuo_UAAAAJ:Zph67rFs4hoC": {
-            citations: 57,
+            citations: 58,
             id: "cneuo_UAAAAJ:Zph67rFs4hoC",
             impact_factor: 4.836,
             is_book: false,
@@ -240,7 +240,7 @@ var sdata = {
             title: "Mixed-Initiative for Big Data: The Intersection of Human + Visual Analytics + Prediction"
         },
         "cneuo_UAAAAJ:kNdYIx-mwKoC": {
-            citations: 96,
+            citations: 97,
             id: "cneuo_UAAAAJ:kNdYIx-mwKoC",
             impact_factor: 7.364,
             is_book: false,
@@ -285,7 +285,7 @@ var sdata = {
             title: "An intelligent agent for determining home occupancy using power monitors and light sensors"
         },
         "cneuo_UAAAAJ:ufrVoPGSRksC": {
-            citations: 67,
+            citations: 68,
             id: "cneuo_UAAAAJ:ufrVoPGSRksC",
             impact_factor: 1.634,
             is_book: false,
