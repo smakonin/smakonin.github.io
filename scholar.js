@@ -1,6 +1,6 @@
 var sdata = {
     agg: {
-        "Citations": 724,
+        "Citations": 726,
         "h-index": 12,
         "i10-index": 19
     },
@@ -42,7 +42,7 @@ var sdata = {
             title: "Incorporating Time-Of-Day Usage Patterns Into Non-Intrusive Load Monitoring"
         },
         "cneuo_UAAAAJ:9yKSN-GCB0IC": {
-            citations: 19,
+            citations: 20,
             id: "cneuo_UAAAAJ:9yKSN-GCB0IC",
             impact_factor: "",
             is_book: false,
@@ -177,7 +177,7 @@ var sdata = {
             title: "Efficient Sparse Matrix Processing for Nonintrusive Load Monitoring (NILM)"
         },
         "cneuo_UAAAAJ:Zph67rFs4hoC": {
-            citations: 58,
+            citations: 59,
             id: "cneuo_UAAAAJ:Zph67rFs4hoC",
             impact_factor: 4.836,
             is_book: false,
