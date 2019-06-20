@@ -1,6 +1,6 @@
 var sdata = {
     agg: {
-        "Citations": 726,
+        "Citations": 732,
         "h-index": 12,
         "i10-index": 19
     },
@@ -132,7 +132,7 @@ var sdata = {
             title: "Inspiring energy conservation through open source metering hardware and embedded real-time load disaggregation"
         },
         "cneuo_UAAAAJ:WF5omc3nYNoC": {
-            citations: 18,
+            citations: 19,
             id: "cneuo_UAAAAJ:WF5omc3nYNoC",
             impact_factor: "",
             is_book: false,
@@ -177,7 +177,7 @@ var sdata = {
             title: "Efficient Sparse Matrix Processing for Nonintrusive Load Monitoring (NILM)"
         },
         "cneuo_UAAAAJ:Zph67rFs4hoC": {
-            citations: 59,
+            citations: 61,
             id: "cneuo_UAAAAJ:Zph67rFs4hoC",
             impact_factor: 4.836,
             is_book: false,
@@ -285,7 +285,7 @@ var sdata = {
             title: "An intelligent agent for determining home occupancy using power monitors and light sensors"
         },
         "cneuo_UAAAAJ:ufrVoPGSRksC": {
-            citations: 68,
+            citations: 69,
             id: "cneuo_UAAAAJ:ufrVoPGSRksC",
             impact_factor: 1.634,
             is_book: false,
@@ -294,7 +294,7 @@ var sdata = {
             title: "Nonintrusive load monitoring (NILM) performance evaluation"
         },
         "cneuo_UAAAAJ:zYLM7Y9cAGgC": {
-            citations: 182,
+            citations: 184,
             id: "cneuo_UAAAAJ:zYLM7Y9cAGgC",
             impact_factor: "",
             is_book: false,
