@@ -1,6 +1,6 @@
 var sdata = {
     agg: {
-        "Citations": 738,
+        "Citations": 739,
         "h-index": 12,
         "i10-index": 19
     },
@@ -177,7 +177,7 @@ var sdata = {
             title: "Efficient Sparse Matrix Processing for Nonintrusive Load Monitoring (NILM)"
         },
         "cneuo_UAAAAJ:Zph67rFs4hoC": {
-            citations: 62,
+            citations: 63,
             id: "cneuo_UAAAAJ:Zph67rFs4hoC",
             impact_factor: 4.836,
             is_book: false,
