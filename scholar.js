@@ -152,7 +152,7 @@ var sdata = {
         "cneuo_UAAAAJ:YFjsv_pBGBYC": {
             citations: 0,
             id: "cneuo_UAAAAJ:YFjsv_pBGBYC",
-            impact_factor: 2.45,
+            impact_factor: 3.25,
             is_book: false,
             is_conference: false,
             is_journal: true,
@@ -179,7 +179,7 @@ var sdata = {
         "cneuo_UAAAAJ:Zph67rFs4hoC": {
             citations: 65,
             id: "cneuo_UAAAAJ:Zph67rFs4hoC",
-            impact_factor: 4.836,
+            impact_factor: 6.776,
             is_book: false,
             is_conference: false,
             is_journal: true,
@@ -197,7 +197,7 @@ var sdata = {
         "cneuo_UAAAAJ:_kc_bZDykSQC": {
             citations: 18,
             id: "cneuo_UAAAAJ:_kc_bZDykSQC",
-            impact_factor: 2.45,
+            impact_factor: 3.25,
             is_book: false,
             is_conference: false,
             is_journal: true,
@@ -242,7 +242,7 @@ var sdata = {
         "cneuo_UAAAAJ:kNdYIx-mwKoC": {
             citations: 101,
             id: "cneuo_UAAAAJ:kNdYIx-mwKoC",
-            impact_factor: 7.364,
+            impact_factor: 10.486,
             is_book: false,
             is_conference: false,
             is_journal: true,
@@ -260,7 +260,7 @@ var sdata = {
         "cneuo_UAAAAJ:ns9cj8rnVeAC": {
             citations: 0,
             id: "cneuo_UAAAAJ:ns9cj8rnVeAC",
-            impact_factor: 3.557,
+            impact_factor: 4.098,
             is_book: false,
             is_conference: false,
             is_journal: true,
@@ -287,7 +287,7 @@ var sdata = {
         "cneuo_UAAAAJ:ufrVoPGSRksC": {
             citations: 70,
             id: "cneuo_UAAAAJ:ufrVoPGSRksC",
-            impact_factor: 1.634,
+            impact_factor: 1.961,
             is_book: false,
             is_conference: false,
             is_journal: true,
