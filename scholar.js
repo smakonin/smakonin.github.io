@@ -1,12 +1,12 @@
 var sdata = {
     agg: {
-        "Citations": 754,
+        "Citations": 759,
         "h-index": 12,
         "i10-index": 20
     },
     papers: {
         "cneuo_UAAAAJ:0EnyYjriUFMC": {
-            citations: 7,
+            citations: 8,
             id: "cneuo_UAAAAJ:0EnyYjriUFMC",
             impact_factor: "",
             is_book: false,
@@ -85,6 +85,15 @@ var sdata = {
             is_conference: false,
             is_journal: true,
             title: "HUE: The Hourly Usage of Energy Dataset for Buildings in British Columbia"
+        },
+        "cneuo_UAAAAJ:RGFaLdJalmkC": {
+            citations: 0,
+            id: "cneuo_UAAAAJ:RGFaLdJalmkC",
+            impact_factor: "",
+            is_book: false,
+            is_conference: true,
+            is_journal: false,
+            title: "Universal Non-Intrusive Load Monitoring (NILM) Using Filter Pipelines, Probabilistic Knapsack, and Labelled Partition Maps"
         },
         "cneuo_UAAAAJ:Se3iqnhoufwC": {
             citations: 3,
@@ -177,7 +186,7 @@ var sdata = {
             title: "Efficient Sparse Matrix Processing for Nonintrusive Load Monitoring (NILM)"
         },
         "cneuo_UAAAAJ:Zph67rFs4hoC": {
-            citations: 66,
+            citations: 68,
             id: "cneuo_UAAAAJ:Zph67rFs4hoC",
             impact_factor: 6.776,
             is_book: false,
@@ -240,7 +249,7 @@ var sdata = {
             title: "Mixed-Initiative for Big Data: The Intersection of Human + Visual Analytics + Prediction"
         },
         "cneuo_UAAAAJ:kNdYIx-mwKoC": {
-            citations: 102,
+            citations: 103,
             id: "cneuo_UAAAAJ:kNdYIx-mwKoC",
             impact_factor: 10.486,
             is_book: false,
@@ -249,7 +258,7 @@ var sdata = {
             title: "Exploiting HMM Sparsity to Perform Online Real-Time Nonintrusive Load Monitoring"
         },
         "cneuo_UAAAAJ:mVmsd5A6BfQC": {
-            citations: 10,
+            citations: 11,
             id: "cneuo_UAAAAJ:mVmsd5A6BfQC",
             impact_factor: "tbd",
             is_book: false,
