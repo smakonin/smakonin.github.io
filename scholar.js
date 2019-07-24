@@ -1,6 +1,6 @@
 var sdata = {
     agg: {
-        "Citations": 759,
+        "Citations": 760,
         "h-index": 12,
         "i10-index": 20
     },
@@ -240,7 +240,7 @@ var sdata = {
             title: "A Recurrent Neural Network for Multisensory Non-Intrusive Load Monitoring on a Raspberry Pi"
         },
         "cneuo_UAAAAJ:hqOjcs7Dif8C": {
-            citations: 11,
+            citations: 12,
             id: "cneuo_UAAAAJ:hqOjcs7Dif8C",
             impact_factor: "",
             is_book: false,
