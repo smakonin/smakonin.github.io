@@ -1,6 +1,6 @@
 var sdata = {
     agg: {
-        "Citations": 760,
+        "Citations": 764,
         "h-index": 12,
         "i10-index": 20
     },
@@ -93,7 +93,7 @@ var sdata = {
             is_book: false,
             is_conference: true,
             is_journal: false,
-            title: "Universal Non-Intrusive Load Monitoring (NILM) Using Filter Pipelines, Probabilistic Knapsack, and Labelled Partition Maps"
+            title: "Universal Non-Intrusive Load Monitoring (UNILM) Using Filter Pipelines, Probabilistic Knapsack, and Labelled Partition Maps"
         },
         "cneuo_UAAAAJ:Se3iqnhoufwC": {
             citations: 3,
@@ -177,7 +177,7 @@ var sdata = {
             title: "Start-Up Creation: The Smart Eco-efficient Built Environment"
         },
         "cneuo_UAAAAJ:YsMSGLbcyi4C": {
-            citations: 21,
+            citations: 22,
             id: "cneuo_UAAAAJ:YsMSGLbcyi4C",
             impact_factor: "",
             is_book: false,
@@ -195,7 +195,7 @@ var sdata = {
             title: "Electricity, water, and natural gas consumption of a residential house in Canada from 2012 to 2014"
         },
         "cneuo_UAAAAJ:_FxGoFyzp5QC": {
-            citations: 10,
+            citations: 11,
             id: "cneuo_UAAAAJ:_FxGoFyzp5QC",
             impact_factor: "",
             is_book: false,
@@ -204,7 +204,7 @@ var sdata = {
             title: "Approaches to Non-Intrusive Load Monitoring (NILM) in the Home"
         },
         "cneuo_UAAAAJ:_kc_bZDykSQC": {
-            citations: 18,
+            citations: 19,
             id: "cneuo_UAAAAJ:_kc_bZDykSQC",
             impact_factor: 3.25,
             is_book: false,
@@ -303,7 +303,7 @@ var sdata = {
             title: "Nonintrusive load monitoring (NILM) performance evaluation"
         },
         "cneuo_UAAAAJ:zYLM7Y9cAGgC": {
-            citations: 189,
+            citations: 190,
             id: "cneuo_UAAAAJ:zYLM7Y9cAGgC",
             impact_factor: "",
             is_book: false,
