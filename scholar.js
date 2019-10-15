@@ -1,6 +1,6 @@
 var sdata = {
     agg: {
-        "Citations": 808,
+        "Citations": 815,
         "h-index": 13,
         "i10-index": 20
     },
@@ -86,6 +86,15 @@ var sdata = {
             is_journal: true,
             title: "HUE: The Hourly Usage of Energy Dataset for Buildings in British Columbia"
         },
+        "cneuo_UAAAAJ:NaGl4SEjCO4C": {
+            citations: 0,
+            id: "cneuo_UAAAAJ:NaGl4SEjCO4C",
+            impact_factor: "",
+            is_book: false,
+            is_conference: true,
+            is_journal: false,
+            title: "Electricity Consumption Data Sets: Pitfalls and Opportunities"
+        },
         "cneuo_UAAAAJ:RGFaLdJalmkC": {
             citations: 0,
             id: "cneuo_UAAAAJ:RGFaLdJalmkC",
@@ -150,7 +159,7 @@ var sdata = {
             title: "Real-time embedded low-frequency load disaggregation"
         },
         "cneuo_UAAAAJ:Y0pCki6q_DkC": {
-            citations: 25,
+            citations: 26,
             id: "cneuo_UAAAAJ:Y0pCki6q_DkC",
             impact_factor: "",
             is_book: false,
@@ -186,7 +195,7 @@ var sdata = {
             title: "Efficient Sparse Matrix Processing for Nonintrusive Load Monitoring (NILM)"
         },
         "cneuo_UAAAAJ:Zph67rFs4hoC": {
-            citations: 73,
+            citations: 76,
             id: "cneuo_UAAAAJ:Zph67rFs4hoC",
             impact_factor: 6.776,
             is_book: false,
@@ -204,7 +213,7 @@ var sdata = {
             title: "Approaches to Non-Intrusive Load Monitoring (NILM) in the Home"
         },
         "cneuo_UAAAAJ:_kc_bZDykSQC": {
-            citations: 22,
+            citations: 23,
             id: "cneuo_UAAAAJ:_kc_bZDykSQC",
             impact_factor: 3.25,
             is_book: false,
@@ -258,7 +267,7 @@ var sdata = {
             title: "Exploiting HMM Sparsity to Perform Online Real-Time Nonintrusive Load Monitoring"
         },
         "cneuo_UAAAAJ:mVmsd5A6BfQC": {
-            citations: 13,
+            citations: 14,
             id: "cneuo_UAAAAJ:mVmsd5A6BfQC",
             impact_factor: "tbd",
             is_book: false,
@@ -303,7 +312,7 @@ var sdata = {
             title: "Nonintrusive load monitoring (NILM) performance evaluation"
         },
         "cneuo_UAAAAJ:zYLM7Y9cAGgC": {
-            citations: 196,
+            citations: 197,
             id: "cneuo_UAAAAJ:zYLM7Y9cAGgC",
             impact_factor: "",
             is_book: false,
