@@ -1,7 +1,7 @@
 var sdata = {
     agg: {
-        "Citations": 815,
-        "h-index": 13,
+        "Citations": 827,
+        "h-index": 14,
         "i10-index": 20
     },
     papers: {
@@ -33,7 +33,7 @@ var sdata = {
             title: "Chapter 18: App programming and its use in smart buildings"
         },
         "cneuo_UAAAAJ:7PzlFSSx8tAC": {
-            citations: 6,
+            citations: 7,
             id: "cneuo_UAAAAJ:7PzlFSSx8tAC",
             impact_factor: "",
             is_book: false,
@@ -114,7 +114,7 @@ var sdata = {
             title: "Cognitive Radio Technology: System Evolution"
         },
         "cneuo_UAAAAJ:Tyk-4Ss8FVUC": {
-            citations: 11,
+            citations: 10,
             id: "cneuo_UAAAAJ:Tyk-4Ss8FVUC",
             impact_factor: "",
             is_book: false,
@@ -150,7 +150,7 @@ var sdata = {
             title: "Inspiring energy conservation through open source metering hardware and embedded real-time load disaggregation"
         },
         "cneuo_UAAAAJ:WF5omc3nYNoC": {
-            citations: 21,
+            citations: 22,
             id: "cneuo_UAAAAJ:WF5omc3nYNoC",
             impact_factor: "",
             is_book: false,
@@ -195,7 +195,7 @@ var sdata = {
             title: "Efficient Sparse Matrix Processing for Nonintrusive Load Monitoring (NILM)"
         },
         "cneuo_UAAAAJ:Zph67rFs4hoC": {
-            citations: 76,
+            citations: 77,
             id: "cneuo_UAAAAJ:Zph67rFs4hoC",
             impact_factor: 6.776,
             is_book: false,
@@ -258,7 +258,7 @@ var sdata = {
             title: "Mixed-Initiative for Big Data: The Intersection of Human + Visual Analytics + Prediction"
         },
         "cneuo_UAAAAJ:kNdYIx-mwKoC": {
-            citations: 113,
+            citations: 115,
             id: "cneuo_UAAAAJ:kNdYIx-mwKoC",
             impact_factor: 10.486,
             is_book: false,
@@ -267,7 +267,7 @@ var sdata = {
             title: "Exploiting HMM Sparsity to Perform Online Real-Time Nonintrusive Load Monitoring"
         },
         "cneuo_UAAAAJ:mVmsd5A6BfQC": {
-            citations: 14,
+            citations: 16,
             id: "cneuo_UAAAAJ:mVmsd5A6BfQC",
             impact_factor: "tbd",
             is_book: false,
@@ -285,7 +285,7 @@ var sdata = {
             title: "Performance evaluation of techniques for identifying abnormal energy consumption in buildings"
         },
         "cneuo_UAAAAJ:u-x6o8ySG0sC": {
-            citations: 19,
+            citations: 20,
             id: "cneuo_UAAAAJ:u-x6o8ySG0sC",
             impact_factor: "",
             is_book: false,
@@ -294,7 +294,7 @@ var sdata = {
             title: "Elements of consumption: an abstract visualization of household consumption"
         },
         "cneuo_UAAAAJ:u5HHmVD_uO8C": {
-            citations: 13,
+            citations: 14,
             id: "cneuo_UAAAAJ:u5HHmVD_uO8C",
             impact_factor: "",
             is_book: false,
@@ -303,7 +303,7 @@ var sdata = {
             title: "An intelligent agent for determining home occupancy using power monitors and light sensors"
         },
         "cneuo_UAAAAJ:ufrVoPGSRksC": {
-            citations: 76,
+            citations: 78,
             id: "cneuo_UAAAAJ:ufrVoPGSRksC",
             impact_factor: 1.961,
             is_book: false,
@@ -312,7 +312,7 @@ var sdata = {
             title: "Nonintrusive load monitoring (NILM) performance evaluation"
         },
         "cneuo_UAAAAJ:zYLM7Y9cAGgC": {
-            citations: 197,
+            citations: 199,
             id: "cneuo_UAAAAJ:zYLM7Y9cAGgC",
             impact_factor: "",
             is_book: false,
