@@ -1,6 +1,6 @@
 var sdata = {
     agg: {
-        "Citations": 862,
+        "Citations": 871,
         "h-index": 14,
         "i10-index": 20
     },
@@ -60,7 +60,7 @@ var sdata = {
             title: "WaveNILM: A Causal Neural Network for Power Disaggregation from the Complex Power Signal"
         },
         "cneuo_UAAAAJ:LkGwnXOMwfcC": {
-            citations: 1,
+            citations: 2,
             id: "cneuo_UAAAAJ:LkGwnXOMwfcC",
             impact_factor: "",
             is_book: false,
@@ -177,7 +177,7 @@ var sdata = {
             title: "Residential Power Forecasting Using Load Identification and Graph Spectral Clustering"
         },
         "cneuo_UAAAAJ:YOwf2qJgpHMC": {
-            citations: 4,
+            citations: 5,
             id: "cneuo_UAAAAJ:YOwf2qJgpHMC",
             impact_factor: "",
             is_book: true,
@@ -258,7 +258,7 @@ var sdata = {
             title: "Mixed-Initiative for Big Data: The Intersection of Human + Visual Analytics + Prediction"
         },
         "cneuo_UAAAAJ:kNdYIx-mwKoC": {
-            citations: 121,
+            citations: 122,
             id: "cneuo_UAAAAJ:kNdYIx-mwKoC",
             impact_factor: 10.486,
             is_book: false,
@@ -267,7 +267,7 @@ var sdata = {
             title: "Exploiting HMM Sparsity to Perform Online Real-Time Nonintrusive Load Monitoring"
         },
         "cneuo_UAAAAJ:mVmsd5A6BfQC": {
-            citations: 17,
+            citations: 18,
             id: "cneuo_UAAAAJ:mVmsd5A6BfQC",
             impact_factor: "tbd",
             is_book: false,
@@ -303,7 +303,7 @@ var sdata = {
             title: "An intelligent agent for determining home occupancy using power monitors and light sensors"
         },
         "cneuo_UAAAAJ:ufrVoPGSRksC": {
-            citations: 82,
+            citations: 83,
             id: "cneuo_UAAAAJ:ufrVoPGSRksC",
             impact_factor: 1.961,
             is_book: false,
@@ -312,7 +312,7 @@ var sdata = {
             title: "Nonintrusive load monitoring (NILM) performance evaluation"
         },
         "cneuo_UAAAAJ:zYLM7Y9cAGgC": {
-            citations: 212,
+            citations: 216,
             id: "cneuo_UAAAAJ:zYLM7Y9cAGgC",
             impact_factor: "",
             is_book: false,
