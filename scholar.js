@@ -1,6 +1,6 @@
 var sdata = {
     agg: {
-        "Citations": 871,
+        "Citations": 875,
         "h-index": 14,
         "i10-index": 20
     },
@@ -78,7 +78,7 @@ var sdata = {
             title: "CarbonKit: Designing A Personal Carbon Tracking Platform"
         },
         "cneuo_UAAAAJ:NMxIlDl6LWMC": {
-            citations: 1,
+            citations: 2,
             id: "cneuo_UAAAAJ:NMxIlDl6LWMC",
             impact_factor: 1.43,
             is_book: false,
@@ -150,7 +150,7 @@ var sdata = {
             title: "Inspiring energy conservation through open source metering hardware and embedded real-time load disaggregation"
         },
         "cneuo_UAAAAJ:WF5omc3nYNoC": {
-            citations: 23,
+            citations: 24,
             id: "cneuo_UAAAAJ:WF5omc3nYNoC",
             impact_factor: "",
             is_book: false,
@@ -159,7 +159,7 @@ var sdata = {
             title: "Real-time embedded low-frequency load disaggregation"
         },
         "cneuo_UAAAAJ:Y0pCki6q_DkC": {
-            citations: 27,
+            citations: 28,
             id: "cneuo_UAAAAJ:Y0pCki6q_DkC",
             impact_factor: "",
             is_book: false,
@@ -258,7 +258,7 @@ var sdata = {
             title: "Mixed-Initiative for Big Data: The Intersection of Human + Visual Analytics + Prediction"
         },
         "cneuo_UAAAAJ:kNdYIx-mwKoC": {
-            citations: 122,
+            citations: 123,
             id: "cneuo_UAAAAJ:kNdYIx-mwKoC",
             impact_factor: 10.486,
             is_book: false,
