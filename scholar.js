@@ -104,6 +104,15 @@ var sdata = {
             is_journal: false,
             title: "Universal Non-Intrusive Load Monitoring (UNILM) Using Filter Pipelines, Probabilistic Knapsack, and Labelled Partition Maps"
         },
+        "cneuo_UAAAAJ:RYcK_YlVTxYC": {
+            citations: 0,
+            id: "cneuo_UAAAAJ:RYcK_YlVTxYC",
+            impact_factor: "",
+            is_book: false,
+            is_conference: true,
+            is_journal: false,
+            title: "Increasing the Accuracy and Speed of Universal Non-Intrusive Load Monitoring (UNILM) Using a Novel Real-Time Steady-State Block Filter"
+        },
         "cneuo_UAAAAJ:Se3iqnhoufwC": {
             citations: 3,
             id: "cneuo_UAAAAJ:Se3iqnhoufwC",
@@ -265,6 +274,15 @@ var sdata = {
             is_conference: false,
             is_journal: true,
             title: "Exploiting HMM Sparsity to Perform Online Real-Time Nonintrusive Load Monitoring"
+        },
+        "cneuo_UAAAAJ:lSLTfruPkqcC": {
+            citations: 0,
+            id: "cneuo_UAAAAJ:lSLTfruPkqcC",
+            impact_factor: "",
+            is_book: false,
+            is_conference: true,
+            is_journal: false,
+            title: "Towards Comparability in Non-Intrusive Load Monitoring: On Data and Performance Evaluation"
         },
         "cneuo_UAAAAJ:mVmsd5A6BfQC": {
             citations: 18,
