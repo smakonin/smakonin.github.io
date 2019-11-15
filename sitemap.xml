@@ -2,241 +2,253 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>http://makonin.com/doc/SMakonin_CV.pdf</loc>
-		<lastmod>2019-11-15T10:08:20+00:00</lastmod>
+		<lastmod>2019-11-15T10:26:09+00:00</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>1.0</priority>
 	</url>
 	<url>
 		<loc>http://makonin.com/doc/HOWTO_DONATE.pdf</loc>
-		<lastmod>2019-11-15T10:08:20+00:00</lastmod>
+		<lastmod>2019-11-15T10:26:09+00:00</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>1.0</priority>
 	</url>
 	<url>
 		<loc>http://makonin.com/news.html</loc>
-		<lastmod>2019-11-15T10:08:20+00:00</lastmod>
+		<lastmod>2019-11-15T10:26:09+00:00</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>1.0</priority>
 	</url>
 	<url>
-		<loc>http://makonin.com/doc/BuildSys_2019.pdf</loc>
-		<lastmod>2019-11-15T10:08:20+00:00</lastmod>
+		<loc>http://makonin.com/doc/ISGT-NA_2020a.pdf</loc>
+		<lastmod>2019-11-15T10:26:09+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>1.0</priority>
+	</url>
+	<url>
+		<loc>http://makonin.com/doc/ISGT-NA_2020b.pdf</loc>
+		<lastmod>2019-11-15T10:26:09+00:00</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>1.0</priority>
 	</url>
 	<url>
 		<loc>http://makonin.com/doc/APPEEC_2019.pdf</loc>
-		<lastmod>2019-11-15T10:08:20+00:00</lastmod>
+		<lastmod>2019-11-15T10:26:09+00:00</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>1.0</priority>
 	</url>
 	<url>
 		<loc>http://makonin.com/doc/Access_2019.pdf</loc>
-		<lastmod>2019-11-15T10:08:20+00:00</lastmod>
+		<lastmod>2019-11-15T10:26:09+00:00</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>1.0</priority>
 	</url>
 	<url>
 		<loc>http://makonin.com/doc/ICASSP_2019.pdf</loc>
-		<lastmod>2019-11-15T10:08:20+00:00</lastmod>
+		<lastmod>2019-11-15T10:26:09+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>1.0</priority>
+	</url>
+	<url>
+		<loc>http://makonin.com/doc/BuildSys_2019.pdf</loc>
+		<lastmod>2019-11-15T10:26:09+00:00</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>1.0</priority>
 	</url>
 	<url>
 		<loc>http://makonin.com/doc/SocialSens_2019.pdf</loc>
-		<lastmod>2019-11-15T10:08:20+00:00</lastmod>
+		<lastmod>2019-11-15T10:26:09+00:00</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>1.0</priority>
 	</url>
 	<url>
 		<loc>http://makonin.com/doc/TCAS2_2019.pdf</loc>
-		<lastmod>2019-11-15T10:08:20+00:00</lastmod>
+		<lastmod>2019-11-15T10:26:09+00:00</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>1.0</priority>
 	</url>
 	<url>
 		<loc>http://makonin.com/doc/MMSP_2018.pdf</loc>
-		<lastmod>2019-11-15T10:08:20+00:00</lastmod>
+		<lastmod>2019-11-15T10:26:09+00:00</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>1.0</priority>
 	</url>
 	<url>
 		<loc>http://makonin.com/doc/GlobalSIP_2017.pdf</loc>
-		<lastmod>2019-11-15T10:08:20+00:00</lastmod>
+		<lastmod>2019-11-15T10:26:09+00:00</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>1.0</priority>
 	</url>
 	<url>
 		<loc>http://makonin.com/doc/IC-IMPACT_2017.pdf</loc>
-		<lastmod>2019-11-15T10:08:20+00:00</lastmod>
+		<lastmod>2019-11-15T10:26:09+00:00</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>1.0</priority>
 	</url>
 	<url>
 		<loc>http://makonin.com/doc/TCAS2_2016.pdf</loc>
-		<lastmod>2019-11-15T10:08:20+00:00</lastmod>
+		<lastmod>2019-11-15T10:26:09+00:00</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>1.0</priority>
 	</url>
 	<url>
 		<loc>http://makonin.com/doc/CCECE_2016.pdf</loc>
-		<lastmod>2019-11-15T10:08:20+00:00</lastmod>
+		<lastmod>2019-11-15T10:26:09+00:00</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>1.0</priority>
 	</url>
 	<url>
 		<loc>http://makonin.com/doc/TSG_2015.pdf</loc>
-		<lastmod>2019-11-15T10:08:20+00:00</lastmod>
+		<lastmod>2019-11-15T10:26:09+00:00</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>1.0</priority>
 	</url>
 	<url>
 		<loc>http://makonin.com/doc/BigDASC_2015.pdf</loc>
-		<lastmod>2019-11-15T10:08:20+00:00</lastmod>
+		<lastmod>2019-11-15T10:26:09+00:00</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>1.0</priority>
 	</url>
 	<url>
 		<loc>http://makonin.com/doc/ENEF_2014.pdf</loc>
-		<lastmod>2019-11-15T10:08:20+00:00</lastmod>
+		<lastmod>2019-11-15T10:26:09+00:00</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>1.0</priority>
 	</url>
 	<url>
 		<loc>http://makonin.com/doc/NILM_2014.pdf</loc>
-		<lastmod>2019-11-15T10:08:20+00:00</lastmod>
+		<lastmod>2019-11-15T10:26:09+00:00</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>1.0</priority>
 	</url>
 	<url>
 		<loc>http://makonin.com/doc/IHTC_2014a.pdf</loc>
-		<lastmod>2019-11-15T10:08:20+00:00</lastmod>
+		<lastmod>2019-11-15T10:26:09+00:00</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>1.0</priority>
 	</url>
 	<url>
 		<loc>http://makonin.com/doc/VanAGM_2014.pdf</loc>
-		<lastmod>2019-11-15T10:08:20+00:00</lastmod>
+		<lastmod>2019-11-15T10:26:09+00:00</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>1.0</priority>
 	</url>
 	<url>
 		<loc>http://makonin.com/doc/APPEEC_2013.pdf</loc>
-		<lastmod>2019-11-15T10:08:20+00:00</lastmod>
+		<lastmod>2019-11-15T10:26:09+00:00</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>1.0</priority>
 	</url>
 	<url>
 		<loc>http://makonin.com/doc/CCECE_2013.pdf</loc>
-		<lastmod>2019-11-15T10:08:20+00:00</lastmod>
+		<lastmod>2019-11-15T10:26:09+00:00</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>1.0</priority>
 	</url>
 	<url>
 		<loc>http://makonin.com/doc/DIB_2019.pdf</loc>
-		<lastmod>2019-11-15T10:08:20+00:00</lastmod>
+		<lastmod>2019-11-15T10:26:09+00:00</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>1.0</priority>
 	</url>
 	<url>
 		<loc>http://makonin.com/doc/MDPI-Data_2018.pdf</loc>
-		<lastmod>2019-11-15T10:08:20+00:00</lastmod>
+		<lastmod>2019-11-15T10:26:09+00:00</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>1.0</priority>
 	</url>
 	<url>
 		<loc>http://makonin.com/doc/SciData_2016.pdf</loc>
-		<lastmod>2019-11-15T10:08:20+00:00</lastmod>
+		<lastmod>2019-11-15T10:26:09+00:00</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>1.0</priority>
 	</url>
 	<url>
 		<loc>http://makonin.com/doc/HICSS_2016.pdf</loc>
-		<lastmod>2019-11-15T10:08:20+00:00</lastmod>
+		<lastmod>2019-11-15T10:26:09+00:00</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>1.0</priority>
 	</url>
 	<url>
 		<loc>http://makonin.com/doc/EPEC_2013.pdf</loc>
-		<lastmod>2019-11-15T10:08:20+00:00</lastmod>
+		<lastmod>2019-11-15T10:26:09+00:00</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>1.0</priority>
 	</url>
 	<url>
 		<loc>http://makonin.com/doc/PvC_2013.pdf</loc>
-		<lastmod>2019-11-15T10:08:20+00:00</lastmod>
+		<lastmod>2019-11-15T10:26:09+00:00</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>1.0</priority>
 	</url>
 	<url>
 		<loc>http://makonin.com/doc/PES-GM_2013.pdf</loc>
-		<lastmod>2019-11-15T10:08:20+00:00</lastmod>
+		<lastmod>2019-11-15T10:26:09+00:00</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>1.0</priority>
 	</url>
 	<url>
 		<loc>http://makonin.com/doc/GSTF-JOC_2012.pdf</loc>
-		<lastmod>2019-11-15T10:08:20+00:00</lastmod>
+		<lastmod>2019-11-15T10:26:09+00:00</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>1.0</priority>
 	</url>
 	<url>
 		<loc>http://makonin.com/doc/CGI_2012.pdf</loc>
-		<lastmod>2019-11-15T10:08:20+00:00</lastmod>
+		<lastmod>2019-11-15T10:26:09+00:00</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>1.0</priority>
 	</url>
 	<url>
 		<loc>http://makonin.com/doc/SG_2011.pdf</loc>
-		<lastmod>2019-11-15T10:08:20+00:00</lastmod>
+		<lastmod>2019-11-15T10:26:09+00:00</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>1.0</priority>
 	</url>
 	<url>
 		<loc>http://makonin.com/doc/ICOST_2011.pdf</loc>
-		<lastmod>2019-11-15T10:08:20+00:00</lastmod>
+		<lastmod>2019-11-15T10:26:09+00:00</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>1.0</priority>
 	</url>
 	<url>
 		<loc>http://makonin.com/doc/Woodhead_2016.pdf</loc>
-		<lastmod>2019-11-15T10:08:20+00:00</lastmod>
+		<lastmod>2019-11-15T10:26:09+00:00</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>1.0</priority>
 	</url>
 	<url>
 		<loc>http://makonin.com/doc/WECON_2015.pdf</loc>
-		<lastmod>2019-11-15T10:08:20+00:00</lastmod>
+		<lastmod>2019-11-15T10:26:09+00:00</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>1.0</priority>
 	</url>
 	<url>
 		<loc>http://makonin.com/doc/IHTC_2014b.pdf</loc>
-		<lastmod>2019-11-15T10:08:20+00:00</lastmod>
+		<lastmod>2019-11-15T10:26:09+00:00</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>1.0</priority>
 	</url>
 	<url>
 		<loc>http://makonin.com/doc/POFHachathon.pdf</loc>
-		<lastmod>2019-11-15T10:08:20+00:00</lastmod>
+		<lastmod>2019-11-15T10:26:09+00:00</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>1.0</priority>
 	</url>
 	<url>
 		<loc>http://makonin.com/doc/Win10Hackathon.pdf</loc>
-		<lastmod>2019-11-15T10:08:20+00:00</lastmod>
+		<lastmod>2019-11-15T10:26:09+00:00</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>1.0</priority>
 	</url>
 	<url>
 		<loc>http://makonin.com/doc/KinectHackathon.pdf</loc>
-		<lastmod>2019-11-15T10:08:20+00:00</lastmod>
+		<lastmod>2019-11-15T10:26:09+00:00</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>1.0</priority>
 	</url>
 	<url>
 		<loc>http://makonin.com/index.html</loc>
-		<lastmod>2019-11-15T10:08:20+00:00</lastmod>
+		<lastmod>2019-11-15T10:26:09+00:00</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>1.0</priority>
 	</url>
