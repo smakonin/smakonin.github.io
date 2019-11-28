@@ -1,6 +1,6 @@
 var sdata = {
     agg: {
-        "Citations": 875,
+        "Citations": 881,
         "h-index": 14,
         "i10-index": 20
     },
@@ -87,13 +87,13 @@ var sdata = {
             title: "HUE: The Hourly Usage of Energy Dataset for Buildings in British Columbia"
         },
         "cneuo_UAAAAJ:NaGl4SEjCO4C": {
-            citations: 0,
+            citations: 2,
             id: "cneuo_UAAAAJ:NaGl4SEjCO4C",
             impact_factor: "",
             is_book: false,
             is_conference: true,
             is_journal: false,
-            title: "Electricity Consumption Data Sets: Pitfalls and Opportunities"
+            title: "Electricity consumption data sets: Pitfalls and opportunities"
         },
         "cneuo_UAAAAJ:RGFaLdJalmkC": {
             citations: 0,
@@ -132,7 +132,7 @@ var sdata = {
             title: "Inspiring energy conservation through open source power monitoring and in-home display"
         },
         "cneuo_UAAAAJ:ULOm3_A8WrAC": {
-            citations: 13,
+            citations: 14,
             id: "cneuo_UAAAAJ:ULOm3_A8WrAC",
             impact_factor: "",
             is_book: false,
@@ -204,7 +204,7 @@ var sdata = {
             title: "Efficient Sparse Matrix Processing for Nonintrusive Load Monitoring (NILM)"
         },
         "cneuo_UAAAAJ:Zph67rFs4hoC": {
-            citations: 81,
+            citations: 82,
             id: "cneuo_UAAAAJ:Zph67rFs4hoC",
             impact_factor: 6.776,
             is_book: false,
@@ -213,7 +213,7 @@ var sdata = {
             title: "Electricity, water, and natural gas consumption of a residential house in Canada from 2012 to 2014"
         },
         "cneuo_UAAAAJ:_FxGoFyzp5QC": {
-            citations: 12,
+            citations: 13,
             id: "cneuo_UAAAAJ:_FxGoFyzp5QC",
             impact_factor: "",
             is_book: false,
@@ -222,7 +222,7 @@ var sdata = {
             title: "Approaches to Non-Intrusive Load Monitoring (NILM) in the Home"
         },
         "cneuo_UAAAAJ:_kc_bZDykSQC": {
-            citations: 24,
+            citations: 25,
             id: "cneuo_UAAAAJ:_kc_bZDykSQC",
             impact_factor: 3.25,
             is_book: false,
@@ -285,7 +285,7 @@ var sdata = {
             title: "Towards Comparability in Non-Intrusive Load Monitoring: On Data and Performance Evaluation"
         },
         "cneuo_UAAAAJ:mVmsd5A6BfQC": {
-            citations: 18,
+            citations: 19,
             id: "cneuo_UAAAAJ:mVmsd5A6BfQC",
             impact_factor: "tbd",
             is_book: false,
@@ -303,7 +303,7 @@ var sdata = {
             title: "Performance evaluation of techniques for identifying abnormal energy consumption in buildings"
         },
         "cneuo_UAAAAJ:u-x6o8ySG0sC": {
-            citations: 20,
+            citations: 19,
             id: "cneuo_UAAAAJ:u-x6o8ySG0sC",
             impact_factor: "",
             is_book: false,
@@ -312,7 +312,7 @@ var sdata = {
             title: "Elements of consumption: an abstract visualization of household consumption"
         },
         "cneuo_UAAAAJ:u5HHmVD_uO8C": {
-            citations: 14,
+            citations: 13,
             id: "cneuo_UAAAAJ:u5HHmVD_uO8C",
             impact_factor: "",
             is_book: false,
@@ -321,7 +321,7 @@ var sdata = {
             title: "An intelligent agent for determining home occupancy using power monitors and light sensors"
         },
         "cneuo_UAAAAJ:ufrVoPGSRksC": {
-            citations: 83,
+            citations: 84,
             id: "cneuo_UAAAAJ:ufrVoPGSRksC",
             impact_factor: 1.961,
             is_book: false,
