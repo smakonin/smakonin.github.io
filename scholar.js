@@ -1,6 +1,6 @@
 var sdata = {
     agg: {
-        "Citations": 894,
+        "Citations": 896,
         "h-index": 14,
         "i10-index": 21
     },
@@ -285,7 +285,7 @@ var sdata = {
             title: "Towards Comparability in Non-Intrusive Load Monitoring: On Data and Performance Evaluation"
         },
         "cneuo_UAAAAJ:mVmsd5A6BfQC": {
-            citations: 18,
+            citations: 19,
             id: "cneuo_UAAAAJ:mVmsd5A6BfQC",
             impact_factor: "tbd",
             is_book: false,
@@ -330,7 +330,7 @@ var sdata = {
             title: "Nonintrusive load monitoring (NILM) performance evaluation"
         },
         "cneuo_UAAAAJ:zYLM7Y9cAGgC": {
-            citations: 220,
+            citations: 221,
             id: "cneuo_UAAAAJ:zYLM7Y9cAGgC",
             impact_factor: "",
             is_book: false,
