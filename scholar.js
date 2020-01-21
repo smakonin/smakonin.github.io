@@ -1,6 +1,6 @@
 var sdata = {
     agg: {
-        "Citations": 900,
+        "Citations": 916,
         "h-index": 14,
         "i10-index": 21
     },
@@ -15,7 +15,7 @@ var sdata = {
             title: "Appliance Water Disaggregation via Non-Intrusive Load Monitoring (NILM)"
         },
         "cneuo_UAAAAJ:2osOgNQ5qMEC": {
-            citations: 57,
+            citations: 56,
             id: "cneuo_UAAAAJ:2osOgNQ5qMEC",
             impact_factor: 3.022,
             is_book: false,
@@ -42,7 +42,7 @@ var sdata = {
             title: "Incorporating Time-Of-Day Usage Patterns Into Non-Intrusive Load Monitoring"
         },
         "cneuo_UAAAAJ:9yKSN-GCB0IC": {
-            citations: 20,
+            citations: 19,
             id: "cneuo_UAAAAJ:9yKSN-GCB0IC",
             impact_factor: "",
             is_book: false,
@@ -51,7 +51,7 @@ var sdata = {
             title: "The Affect of Lifestyle Factors on Eco-Visualization Design"
         },
         "cneuo_UAAAAJ:GnPB-g6toBAC": {
-            citations: 4,
+            citations: 5,
             id: "cneuo_UAAAAJ:GnPB-g6toBAC",
             impact_factor: "",
             is_book: false,
@@ -87,7 +87,7 @@ var sdata = {
             title: "HUE: The Hourly Usage of Energy Dataset for Buildings in British Columbia"
         },
         "cneuo_UAAAAJ:NaGl4SEjCO4C": {
-            citations: 2,
+            citations: 3,
             id: "cneuo_UAAAAJ:NaGl4SEjCO4C",
             impact_factor: "",
             is_book: false,
@@ -105,7 +105,7 @@ var sdata = {
             title: "Universal Non-Intrusive Load Monitoring (UNILM) Using Filter Pipelines, Probabilistic Knapsack, and Labelled Partition Maps"
         },
         "cneuo_UAAAAJ:RYcK_YlVTxYC": {
-            citations: 0,
+            citations: 1,
             id: "cneuo_UAAAAJ:RYcK_YlVTxYC",
             impact_factor: "",
             is_book: false,
@@ -114,7 +114,7 @@ var sdata = {
             title: "Increasing the Accuracy and Speed of Universal Non-Intrusive Load Monitoring (UNILM) Using a Novel Real-Time Steady-State Block Filter"
         },
         "cneuo_UAAAAJ:Se3iqnhoufwC": {
-            citations: 3,
+            citations: 4,
             id: "cneuo_UAAAAJ:Se3iqnhoufwC",
             impact_factor: "",
             is_book: false,
@@ -132,7 +132,7 @@ var sdata = {
             title: "Inspiring energy conservation through open source power monitoring and in-home display"
         },
         "cneuo_UAAAAJ:ULOm3_A8WrAC": {
-            citations: 14,
+            citations: 15,
             id: "cneuo_UAAAAJ:ULOm3_A8WrAC",
             impact_factor: "",
             is_book: false,
@@ -177,7 +177,7 @@ var sdata = {
             title: "The cognitive power meter: Looking beyond the smart meter"
         },
         "cneuo_UAAAAJ:YFjsv_pBGBYC": {
-            citations: 0,
+            citations: 1,
             id: "cneuo_UAAAAJ:YFjsv_pBGBYC",
             impact_factor: 3.25,
             is_book: false,
@@ -186,7 +186,7 @@ var sdata = {
             title: "Residential Power Forecasting Using Load Identification and Graph Spectral Clustering"
         },
         "cneuo_UAAAAJ:YOwf2qJgpHMC": {
-            citations: 5,
+            citations: 6,
             id: "cneuo_UAAAAJ:YOwf2qJgpHMC",
             impact_factor: "",
             is_book: true,
@@ -195,7 +195,7 @@ var sdata = {
             title: "Start-Up Creation: The Smart Eco-efficient Built Environment"
         },
         "cneuo_UAAAAJ:YsMSGLbcyi4C": {
-            citations: 23,
+            citations: 25,
             id: "cneuo_UAAAAJ:YsMSGLbcyi4C",
             impact_factor: "",
             is_book: false,
@@ -222,7 +222,7 @@ var sdata = {
             title: "Approaches to Non-Intrusive Load Monitoring (NILM) in the Home"
         },
         "cneuo_UAAAAJ:_kc_bZDykSQC": {
-            citations: 25,
+            citations: 26,
             id: "cneuo_UAAAAJ:_kc_bZDykSQC",
             impact_factor: 3.25,
             is_book: false,
@@ -267,7 +267,7 @@ var sdata = {
             title: "Mixed-Initiative for Big Data: The Intersection of Human + Visual Analytics + Prediction"
         },
         "cneuo_UAAAAJ:kNdYIx-mwKoC": {
-            citations: 127,
+            citations: 130,
             id: "cneuo_UAAAAJ:kNdYIx-mwKoC",
             impact_factor: 10.486,
             is_book: false,
@@ -276,7 +276,7 @@ var sdata = {
             title: "Exploiting HMM Sparsity to Perform Online Real-Time Nonintrusive Load Monitoring"
         },
         "cneuo_UAAAAJ:lSLTfruPkqcC": {
-            citations: 0,
+            citations: 1,
             id: "cneuo_UAAAAJ:lSLTfruPkqcC",
             impact_factor: "",
             is_book: false,
@@ -303,7 +303,7 @@ var sdata = {
             title: "Performance evaluation of techniques for identifying abnormal energy consumption in buildings"
         },
         "cneuo_UAAAAJ:u-x6o8ySG0sC": {
-            citations: 19,
+            citations: 16,
             id: "cneuo_UAAAAJ:u-x6o8ySG0sC",
             impact_factor: "",
             is_book: false,
@@ -321,7 +321,7 @@ var sdata = {
             title: "An intelligent agent for determining home occupancy using power monitors and light sensors"
         },
         "cneuo_UAAAAJ:ufrVoPGSRksC": {
-            citations: 86,
+            citations: 87,
             id: "cneuo_UAAAAJ:ufrVoPGSRksC",
             impact_factor: 1.961,
             is_book: false,
@@ -329,8 +329,17 @@ var sdata = {
             is_journal: true,
             title: "Nonintrusive load monitoring (NILM) performance evaluation"
         },
+        "cneuo_UAAAAJ:vV6vV6tmYwMC": {
+            citations: 0,
+            id: "cneuo_UAAAAJ:vV6vV6tmYwMC",
+            impact_factor: "",
+            is_book: false,
+            is_conference: true,
+            is_journal: false,
+            title: "On Metrics to Assess the Transferability of Machine Learning Models in Non-Intrusive Load Monitoring"
+        },
         "cneuo_UAAAAJ:zYLM7Y9cAGgC": {
-            citations: 220,
+            citations: 226,
             id: "cneuo_UAAAAJ:zYLM7Y9cAGgC",
             impact_factor: "",
             is_book: false,
