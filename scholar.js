@@ -1,12 +1,12 @@
 var sdata = {
     agg: {
-        "Citations": 955,
+        "Citations": 962,
         "h-index": 15,
         "i10-index": 22
     },
     papers: {
         "cneuo_UAAAAJ:0EnyYjriUFMC": {
-            citations: 10,
+            citations: 11,
             id: "cneuo_UAAAAJ:0EnyYjriUFMC",
             impact_factor: "",
             is_book: false,
@@ -42,7 +42,7 @@ var sdata = {
             title: "Incorporating Time-Of-Day Usage Patterns Into Non-Intrusive Load Monitoring"
         },
         "cneuo_UAAAAJ:9yKSN-GCB0IC": {
-            citations: 19,
+            citations: 20,
             id: "cneuo_UAAAAJ:9yKSN-GCB0IC",
             impact_factor: "",
             is_book: false,
@@ -132,7 +132,7 @@ var sdata = {
             title: "Inspiring energy conservation through open source power monitoring and in-home display"
         },
         "cneuo_UAAAAJ:ULOm3_A8WrAC": {
-            citations: 15,
+            citations: 16,
             id: "cneuo_UAAAAJ:ULOm3_A8WrAC",
             impact_factor: "",
             is_book: false,
@@ -222,7 +222,7 @@ var sdata = {
             title: "Approaches to Non-Intrusive Load Monitoring (NILM) in the Home"
         },
         "cneuo_UAAAAJ:_kc_bZDykSQC": {
-            citations: 27,
+            citations: 28,
             id: "cneuo_UAAAAJ:_kc_bZDykSQC",
             impact_factor: 3.25,
             is_book: false,
@@ -240,7 +240,7 @@ var sdata = {
             title: "Home Occupancy Agent: Occupancy and Sleep Detection"
         },
         "cneuo_UAAAAJ:eQOLeE2rZwMC": {
-            citations: 12,
+            citations: 13,
             id: "cneuo_UAAAAJ:eQOLeE2rZwMC",
             impact_factor: "",
             is_book: false,
@@ -285,7 +285,7 @@ var sdata = {
             title: "Towards Comparability in Non-Intrusive Load Monitoring: On Data and Performance Evaluation"
         },
         "cneuo_UAAAAJ:mVmsd5A6BfQC": {
-            citations: 19,
+            citations: 20,
             id: "cneuo_UAAAAJ:mVmsd5A6BfQC",
             impact_factor: "tbd",
             is_book: false,
@@ -321,7 +321,7 @@ var sdata = {
             title: "An intelligent agent for determining home occupancy using power monitors and light sensors"
         },
         "cneuo_UAAAAJ:ufrVoPGSRksC": {
-            citations: 93,
+            citations: 94,
             id: "cneuo_UAAAAJ:ufrVoPGSRksC",
             impact_factor: 1.961,
             is_book: false,
