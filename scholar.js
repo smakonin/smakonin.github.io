@@ -1,6 +1,6 @@
 var sdata = {
     agg: {
-        "Citations": 1002,
+        "Citations": 1003,
         "h-index": 15,
         "i10-index": 22
     },
@@ -339,7 +339,7 @@ var sdata = {
             title: "On Metrics to Assess the Transferability of Machine Learning Models in Non-Intrusive Load Monitoring"
         },
         "cneuo_UAAAAJ:zYLM7Y9cAGgC": {
-            citations: 230,
+            citations: 231,
             id: "cneuo_UAAAAJ:zYLM7Y9cAGgC",
             impact_factor: "",
             is_book: false,
