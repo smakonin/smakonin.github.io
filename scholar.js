@@ -1,6 +1,6 @@
 var sdata = {
     agg: {
-        "Citations": 1003,
+        "Citations": 1007,
         "h-index": 15,
         "i10-index": 22
     },
@@ -15,7 +15,7 @@ var sdata = {
             title: "Appliance Water Disaggregation via Non-Intrusive Load Monitoring (NILM)"
         },
         "cneuo_UAAAAJ:2osOgNQ5qMEC": {
-            citations: 58,
+            citations: 59,
             id: "cneuo_UAAAAJ:2osOgNQ5qMEC",
             impact_factor: 3.022,
             is_book: false,
@@ -177,7 +177,7 @@ var sdata = {
             title: "The cognitive power meter: Looking beyond the smart meter"
         },
         "cneuo_UAAAAJ:YFjsv_pBGBYC": {
-            citations: 2,
+            citations: 3,
             id: "cneuo_UAAAAJ:YFjsv_pBGBYC",
             impact_factor: 3.25,
             is_book: false,
@@ -267,7 +267,7 @@ var sdata = {
             title: "Mixed-Initiative for Big Data: The Intersection of Human + Visual Analytics + Prediction"
         },
         "cneuo_UAAAAJ:kNdYIx-mwKoC": {
-            citations: 151,
+            citations: 152,
             id: "cneuo_UAAAAJ:kNdYIx-mwKoC",
             impact_factor: 10.486,
             is_book: false,
@@ -339,7 +339,7 @@ var sdata = {
             title: "On Metrics to Assess the Transferability of Machine Learning Models in Non-Intrusive Load Monitoring"
         },
         "cneuo_UAAAAJ:zYLM7Y9cAGgC": {
-            citations: 231,
+            citations: 232,
             id: "cneuo_UAAAAJ:zYLM7Y9cAGgC",
             impact_factor: "",
             is_book: false,
