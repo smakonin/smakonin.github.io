@@ -1,6 +1,6 @@
 var sdata = {
     agg: {
-        "Citations": 1007,
+        "Citations": 1012,
         "h-index": 15,
         "i10-index": 22
     },
@@ -51,7 +51,7 @@ var sdata = {
             title: "The Affect of Lifestyle Factors on Eco-Visualization Design"
         },
         "cneuo_UAAAAJ:GnPB-g6toBAC": {
-            citations: 8,
+            citations: 9,
             id: "cneuo_UAAAAJ:GnPB-g6toBAC",
             impact_factor: "",
             is_book: false,
@@ -204,7 +204,7 @@ var sdata = {
             title: "Efficient Sparse Matrix Processing for Nonintrusive Load Monitoring (NILM)"
         },
         "cneuo_UAAAAJ:Zph67rFs4hoC": {
-            citations: 91,
+            citations: 94,
             id: "cneuo_UAAAAJ:Zph67rFs4hoC",
             impact_factor: 6.776,
             is_book: false,
@@ -222,7 +222,7 @@ var sdata = {
             title: "Approaches to Non-Intrusive Load Monitoring (NILM) in the Home"
         },
         "cneuo_UAAAAJ:_kc_bZDykSQC": {
-            citations: 32,
+            citations: 33,
             id: "cneuo_UAAAAJ:_kc_bZDykSQC",
             impact_factor: 3.25,
             is_book: false,
