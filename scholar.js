@@ -1,6 +1,6 @@
 var sdata = {
     agg: {
-        "Citations": 1030,
+        "Citations": 1034,
         "h-index": 15,
         "i10-index": 23
     },
@@ -33,7 +33,7 @@ var sdata = {
             title: "Chapter 18: App programming and its use in smart buildings"
         },
         "cneuo_UAAAAJ:7PzlFSSx8tAC": {
-            citations: 8,
+            citations: 9,
             id: "cneuo_UAAAAJ:7PzlFSSx8tAC",
             impact_factor: "",
             is_book: false,
@@ -51,7 +51,7 @@ var sdata = {
             title: "The Affect of Lifestyle Factors on Eco-Visualization Design"
         },
         "cneuo_UAAAAJ:GnPB-g6toBAC": {
-            citations: 12,
+            citations: 14,
             id: "cneuo_UAAAAJ:GnPB-g6toBAC",
             impact_factor: "",
             is_book: false,
@@ -339,7 +339,7 @@ var sdata = {
             title: "On Metrics to Assess the Transferability of Machine Learning Models in Non-Intrusive Load Monitoring"
         },
         "cneuo_UAAAAJ:zYLM7Y9cAGgC": {
-            citations: 232,
+            citations: 233,
             id: "cneuo_UAAAAJ:zYLM7Y9cAGgC",
             impact_factor: "",
             is_book: false,
