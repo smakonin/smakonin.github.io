@@ -1,6 +1,6 @@
 var sdata = {
     agg: {
-        "Citations": 1034,
+        "Citations": 1045,
         "h-index": 15,
         "i10-index": 23
     },
@@ -13,6 +13,15 @@ var sdata = {
             is_conference: true,
             is_journal: false,
             title: "Appliance Water Disaggregation via Non-Intrusive Load Monitoring (NILM)"
+        },
+        "cneuo_UAAAAJ:2P1L_qKh6hAC": {
+            citations: 0,
+            id: "cneuo_UAAAAJ:2P1L_qKh6hAC",
+            impact_factor: 4.098,
+            is_book: false,
+            is_conference: false,
+            is_journal: true,
+            title: "Residential Power Forecasting Based on Affinity Aggregation Spectral Clustering"
         },
         "cneuo_UAAAAJ:2osOgNQ5qMEC": {
             citations: 59,
@@ -51,7 +60,7 @@ var sdata = {
             title: "The Affect of Lifestyle Factors on Eco-Visualization Design"
         },
         "cneuo_UAAAAJ:GnPB-g6toBAC": {
-            citations: 14,
+            citations: 15,
             id: "cneuo_UAAAAJ:GnPB-g6toBAC",
             impact_factor: "",
             is_book: false,
@@ -96,7 +105,7 @@ var sdata = {
             title: "Electricity consumption data sets: Pitfalls and opportunities"
         },
         "cneuo_UAAAAJ:RGFaLdJalmkC": {
-            citations: 0,
+            citations: 1,
             id: "cneuo_UAAAAJ:RGFaLdJalmkC",
             impact_factor: "",
             is_book: false,
@@ -177,7 +186,7 @@ var sdata = {
             title: "The cognitive power meter: Looking beyond the smart meter"
         },
         "cneuo_UAAAAJ:YFjsv_pBGBYC": {
-            citations: 3,
+            citations: 5,
             id: "cneuo_UAAAAJ:YFjsv_pBGBYC",
             impact_factor: 3.25,
             is_book: false,
@@ -204,7 +213,7 @@ var sdata = {
             title: "Efficient Sparse Matrix Processing for Nonintrusive Load Monitoring (NILM)"
         },
         "cneuo_UAAAAJ:Zph67rFs4hoC": {
-            citations: 96,
+            citations: 97,
             id: "cneuo_UAAAAJ:Zph67rFs4hoC",
             impact_factor: 6.776,
             is_book: false,
@@ -240,7 +249,7 @@ var sdata = {
             title: "Home Occupancy Agent: Occupancy and Sleep Detection"
         },
         "cneuo_UAAAAJ:eQOLeE2rZwMC": {
-            citations: 13,
+            citations: 14,
             id: "cneuo_UAAAAJ:eQOLeE2rZwMC",
             impact_factor: "",
             is_book: false,
@@ -258,7 +267,7 @@ var sdata = {
             title: "A Recurrent Neural Network for Multisensory Non-Intrusive Load Monitoring on a Raspberry Pi"
         },
         "cneuo_UAAAAJ:hqOjcs7Dif8C": {
-            citations: 16,
+            citations: 17,
             id: "cneuo_UAAAAJ:hqOjcs7Dif8C",
             impact_factor: "",
             is_book: false,
@@ -267,7 +276,7 @@ var sdata = {
             title: "Mixed-Initiative for Big Data: The Intersection of Human + Visual Analytics + Prediction"
         },
         "cneuo_UAAAAJ:kNdYIx-mwKoC": {
-            citations: 157,
+            citations: 158,
             id: "cneuo_UAAAAJ:kNdYIx-mwKoC",
             impact_factor: 10.486,
             is_book: false,
@@ -285,7 +294,7 @@ var sdata = {
             title: "Towards Comparability in Non-Intrusive Load Monitoring: On Data and Performance Evaluation"
         },
         "cneuo_UAAAAJ:mVmsd5A6BfQC": {
-            citations: 21,
+            citations: 22,
             id: "cneuo_UAAAAJ:mVmsd5A6BfQC",
             impact_factor: "tbd",
             is_book: false,
@@ -321,7 +330,7 @@ var sdata = {
             title: "An intelligent agent for determining home occupancy using power monitors and light sensors"
         },
         "cneuo_UAAAAJ:ufrVoPGSRksC": {
-            citations: 99,
+            citations: 98,
             id: "cneuo_UAAAAJ:ufrVoPGSRksC",
             impact_factor: 1.961,
             is_book: false,
@@ -339,7 +348,7 @@ var sdata = {
             title: "On Metrics to Assess the Transferability of Machine Learning Models in Non-Intrusive Load Monitoring"
         },
         "cneuo_UAAAAJ:zYLM7Y9cAGgC": {
-            citations: 233,
+            citations: 236,
             id: "cneuo_UAAAAJ:zYLM7Y9cAGgC",
             impact_factor: "",
             is_book: false,
