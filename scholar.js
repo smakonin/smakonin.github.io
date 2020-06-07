@@ -1,7 +1,7 @@
 var sdata = {
     agg: {
-        "Citations": 1045,
-        "h-index": 15,
+        "Citations": 1047,
+        "h-index": 16,
         "i10-index": 23
     },
     papers: {
@@ -60,7 +60,7 @@ var sdata = {
             title: "The Affect of Lifestyle Factors on Eco-Visualization Design"
         },
         "cneuo_UAAAAJ:GnPB-g6toBAC": {
-            citations: 15,
+            citations: 16,
             id: "cneuo_UAAAAJ:GnPB-g6toBAC",
             impact_factor: "",
             is_book: false,
@@ -330,7 +330,7 @@ var sdata = {
             title: "An intelligent agent for determining home occupancy using power monitors and light sensors"
         },
         "cneuo_UAAAAJ:ufrVoPGSRksC": {
-            citations: 98,
+            citations: 99,
             id: "cneuo_UAAAAJ:ufrVoPGSRksC",
             impact_factor: 1.961,
             is_book: false,
