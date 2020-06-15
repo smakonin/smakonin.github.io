@@ -1,6 +1,6 @@
 var sdata = {
     agg: {
-        "Citations": 1060,
+        "Citations": 1061,
         "h-index": 16,
         "i10-index": 24
     },
@@ -231,7 +231,7 @@ var sdata = {
             title: "Approaches to Non-Intrusive Load Monitoring (NILM) in the Home"
         },
         "cneuo_UAAAAJ:_kc_bZDykSQC": {
-            citations: 35,
+            citations: 36,
             id: "cneuo_UAAAAJ:_kc_bZDykSQC",
             impact_factor: 3.25,
             is_book: false,
