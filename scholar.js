@@ -1,6 +1,6 @@
 var sdata = {
     agg: {
-        "Citations": 1065,
+        "Citations": 1073,
         "h-index": 16,
         "i10-index": 25
     },
@@ -24,7 +24,7 @@ var sdata = {
             title: "Residential Power Forecasting Based on Affinity Aggregation Spectral Clustering"
         },
         "cneuo_UAAAAJ:2osOgNQ5qMEC": {
-            citations: 60,
+            citations: 61,
             id: "cneuo_UAAAAJ:2osOgNQ5qMEC",
             impact_factor: 3.022,
             is_book: false,
@@ -105,7 +105,7 @@ var sdata = {
             title: "Electricity consumption data sets: Pitfalls and opportunities"
         },
         "cneuo_UAAAAJ:RGFaLdJalmkC": {
-            citations: 1,
+            citations: 2,
             id: "cneuo_UAAAAJ:RGFaLdJalmkC",
             impact_factor: "",
             is_book: false,
@@ -150,7 +150,7 @@ var sdata = {
             title: "Investigating the Switch Continuity Principle Assumed in Non-Intrusive Load Monitoring (NILM)"
         },
         "cneuo_UAAAAJ:UebtZRa9Y70C": {
-            citations: 32,
+            citations: 34,
             id: "cneuo_UAAAAJ:UebtZRa9Y70C",
             impact_factor: "",
             is_book: true,
@@ -192,10 +192,10 @@ var sdata = {
             is_book: false,
             is_conference: false,
             is_journal: true,
-            title: "Residential Power Forecasting Using Load Identification and Graph Spectral Clustering"
+            title: "Residential power forecasting using load identification and graph spectral clustering"
         },
         "cneuo_UAAAAJ:YOwf2qJgpHMC": {
-            citations: 6,
+            citations: 7,
             id: "cneuo_UAAAAJ:YOwf2qJgpHMC",
             impact_factor: "",
             is_book: true,
@@ -231,7 +231,7 @@ var sdata = {
             title: "Approaches to Non-Intrusive Load Monitoring (NILM) in the Home"
         },
         "cneuo_UAAAAJ:_kc_bZDykSQC": {
-            citations: 36,
+            citations: 37,
             id: "cneuo_UAAAAJ:_kc_bZDykSQC",
             impact_factor: 3.25,
             is_book: false,
@@ -276,7 +276,7 @@ var sdata = {
             title: "Mixed-Initiative for Big Data: The Intersection of Human + Visual Analytics + Prediction"
         },
         "cneuo_UAAAAJ:kNdYIx-mwKoC": {
-            citations: 161,
+            citations: 162,
             id: "cneuo_UAAAAJ:kNdYIx-mwKoC",
             impact_factor: 10.486,
             is_book: false,
@@ -330,7 +330,7 @@ var sdata = {
             title: "An intelligent agent for determining home occupancy using power monitors and light sensors"
         },
         "cneuo_UAAAAJ:ufrVoPGSRksC": {
-            citations: 100,
+            citations: 101,
             id: "cneuo_UAAAAJ:ufrVoPGSRksC",
             impact_factor: 1.961,
             is_book: false,
