@@ -1,6 +1,6 @@
 var sdata = {
     agg: {
-        "Citations": 1089,
+        "Citations": 1093,
         "h-index": 16,
         "i10-index": 25
     },
@@ -60,7 +60,7 @@ var sdata = {
             title: "The Affect of Lifestyle Factors on Eco-Visualization Design"
         },
         "cneuo_UAAAAJ:GnPB-g6toBAC": {
-            citations: 18,
+            citations: 19,
             id: "cneuo_UAAAAJ:GnPB-g6toBAC",
             impact_factor: "",
             is_book: false,
@@ -204,7 +204,7 @@ var sdata = {
             title: "Start-Up Creation: The Smart Eco-efficient Built Environment"
         },
         "cneuo_UAAAAJ:YsMSGLbcyi4C": {
-            citations: 28,
+            citations: 29,
             id: "cneuo_UAAAAJ:YsMSGLbcyi4C",
             impact_factor: "",
             is_book: false,
@@ -276,7 +276,7 @@ var sdata = {
             title: "Mixed-Initiative for Big Data: The Intersection of Human + Visual Analytics + Prediction"
         },
         "cneuo_UAAAAJ:kNdYIx-mwKoC": {
-            citations: 164,
+            citations: 166,
             id: "cneuo_UAAAAJ:kNdYIx-mwKoC",
             impact_factor: 10.486,
             is_book: false,
