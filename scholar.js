@@ -1,6 +1,6 @@
 var sdata = {
     agg: {
-        "Citations": 1094,
+        "Citations": 1096,
         "h-index": 16,
         "i10-index": 25
     },
@@ -168,7 +168,7 @@ var sdata = {
             title: "Inspiring energy conservation through open source metering hardware and embedded real-time load disaggregation"
         },
         "cneuo_UAAAAJ:WF5omc3nYNoC": {
-            citations: 29,
+            citations: 30,
             id: "cneuo_UAAAAJ:WF5omc3nYNoC",
             impact_factor: "",
             is_book: false,
@@ -267,7 +267,7 @@ var sdata = {
             title: "A Recurrent Neural Network for Multisensory Non-Intrusive Load Monitoring on a Raspberry Pi"
         },
         "cneuo_UAAAAJ:hqOjcs7Dif8C": {
-            citations: 17,
+            citations: 18,
             id: "cneuo_UAAAAJ:hqOjcs7Dif8C",
             impact_factor: "",
             is_book: false,
