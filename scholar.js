@@ -1,6 +1,6 @@
 var sdata = {
     agg: {
-        "Citations": 1123,
+        "Citations": 1126,
         "h-index": 16,
         "i10-index": 25
     },
@@ -96,7 +96,7 @@ var sdata = {
             title: "HUE: The Hourly Usage of Energy Dataset for Buildings in British Columbia"
         },
         "cneuo_UAAAAJ:NaGl4SEjCO4C": {
-            citations: 13,
+            citations: 14,
             id: "cneuo_UAAAAJ:NaGl4SEjCO4C",
             impact_factor: "",
             is_book: false,
@@ -285,7 +285,7 @@ var sdata = {
             title: "Exploiting HMM Sparsity to Perform Online Real-Time Nonintrusive Load Monitoring"
         },
         "cneuo_UAAAAJ:lSLTfruPkqcC": {
-            citations: 8,
+            citations: 9,
             id: "cneuo_UAAAAJ:lSLTfruPkqcC",
             impact_factor: "",
             is_book: false,
@@ -357,7 +357,7 @@ var sdata = {
             title: "On Metrics to Assess the Transferability of Machine Learning Models in Non-Intrusive Load Monitoring"
         },
         "cneuo_UAAAAJ:zYLM7Y9cAGgC": {
-            citations: 245,
+            citations: 246,
             id: "cneuo_UAAAAJ:zYLM7Y9cAGgC",
             impact_factor: "",
             is_book: false,
