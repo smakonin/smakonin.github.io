@@ -1,6 +1,6 @@
 var sdata = {
     agg: {
-        "Citations": 1126,
+        "Citations": 1127,
         "h-index": 16,
         "i10-index": 25
     },
@@ -303,7 +303,7 @@ var sdata = {
             title: "PowerGAN: Synthesizing Appliance Power Signatures Using Generative Adversarial Networks"
         },
         "cneuo_UAAAAJ:mVmsd5A6BfQC": {
-            citations: 23,
+            citations: 24,
             id: "cneuo_UAAAAJ:mVmsd5A6BfQC",
             impact_factor: "tbd",
             is_book: false,
