@@ -1,6 +1,6 @@
 var sdata = {
     agg: {
-        "Citations": 1130,
+        "Citations": 1131,
         "h-index": 16,
         "i10-index": 25
     },
@@ -339,7 +339,7 @@ var sdata = {
             title: "An intelligent agent for determining home occupancy using power monitors and light sensors"
         },
         "cneuo_UAAAAJ:ufrVoPGSRksC": {
-            citations: 107,
+            citations: 108,
             id: "cneuo_UAAAAJ:ufrVoPGSRksC",
             impact_factor: 1.961,
             is_book: false,
