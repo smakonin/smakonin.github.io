@@ -1,8 +1,8 @@
 var sdata = {
     agg: {
-        "Citations": 1131,
+        "Citations": 1135,
         "h-index": 16,
-        "i10-index": 25
+        "i10-index": 26
     },
     papers: {
         "cneuo_UAAAAJ:0EnyYjriUFMC": {
@@ -77,6 +77,15 @@ var sdata = {
             is_journal: false,
             title: "Transmitting Patient Vitals Over a Reliable ZigBee Mesh Network"
         },
+        "cneuo_UAAAAJ:M05iB0D1s5AC": {
+            citations: 0,
+            id: "cneuo_UAAAAJ:M05iB0D1s5AC",
+            impact_factor: "",
+            is_book: false,
+            is_conference: true,
+            is_journal: false,
+            title: "Investigating the Performance Gap between Testing on Real and Denoised Aggregates in Non-Intrusive Load Monitoring"
+        },
         "cneuo_UAAAAJ:M3ejUd6NZC8C": {
             citations: 0,
             id: "cneuo_UAAAAJ:M3ejUd6NZC8C",
@@ -105,7 +114,7 @@ var sdata = {
             title: "Electricity consumption data sets: Pitfalls and opportunities"
         },
         "cneuo_UAAAAJ:RGFaLdJalmkC": {
-            citations: 4,
+            citations: 5,
             id: "cneuo_UAAAAJ:RGFaLdJalmkC",
             impact_factor: "",
             is_book: false,
@@ -276,7 +285,7 @@ var sdata = {
             title: "Mixed-Initiative for Big Data: The Intersection of Human + Visual Analytics + Prediction"
         },
         "cneuo_UAAAAJ:kNdYIx-mwKoC": {
-            citations: 172,
+            citations: 173,
             id: "cneuo_UAAAAJ:kNdYIx-mwKoC",
             impact_factor: 10.486,
             is_book: false,
@@ -285,7 +294,7 @@ var sdata = {
             title: "Exploiting HMM Sparsity to Perform Online Real-Time Nonintrusive Load Monitoring"
         },
         "cneuo_UAAAAJ:lSLTfruPkqcC": {
-            citations: 9,
+            citations: 10,
             id: "cneuo_UAAAAJ:lSLTfruPkqcC",
             impact_factor: "",
             is_book: false,
@@ -339,7 +348,7 @@ var sdata = {
             title: "An intelligent agent for determining home occupancy using power monitors and light sensors"
         },
         "cneuo_UAAAAJ:ufrVoPGSRksC": {
-            citations: 108,
+            citations: 109,
             id: "cneuo_UAAAAJ:ufrVoPGSRksC",
             impact_factor: 1.961,
             is_book: false,
