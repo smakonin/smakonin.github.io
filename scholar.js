@@ -1,6 +1,6 @@
 var sdata = {
     agg: {
-        "Citations": 1136,
+        "Citations": 1138,
         "h-index": 16,
         "i10-index": 26
     },
@@ -15,7 +15,7 @@ var sdata = {
             title: "Appliance Water Disaggregation via Non-Intrusive Load Monitoring (NILM)"
         },
         "cneuo_UAAAAJ:2P1L_qKh6hAC": {
-            citations: 0,
+            citations: 1,
             id: "cneuo_UAAAAJ:2P1L_qKh6hAC",
             impact_factor: 4.098,
             is_book: false,
@@ -60,7 +60,7 @@ var sdata = {
             title: "The Affect of Lifestyle Factors on Eco-Visualization Design"
         },
         "cneuo_UAAAAJ:GnPB-g6toBAC": {
-            citations: 22,
+            citations: 23,
             id: "cneuo_UAAAAJ:GnPB-g6toBAC",
             impact_factor: "",
             is_book: false,
