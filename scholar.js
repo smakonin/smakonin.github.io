@@ -1,6 +1,6 @@
 var sdata = {
     agg: {
-        "Citations": 1142,
+        "Citations": 1143,
         "h-index": 16,
         "i10-index": 26
     },
@@ -195,7 +195,7 @@ var sdata = {
             title: "The cognitive power meter: Looking beyond the smart meter"
         },
         "cneuo_UAAAAJ:YFjsv_pBGBYC": {
-            citations: 6,
+            citations: 7,
             id: "cneuo_UAAAAJ:YFjsv_pBGBYC",
             impact_factor: 3.25,
             is_book: false,
