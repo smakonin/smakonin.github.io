@@ -1,6 +1,6 @@
 var sdata = {
     agg: {
-        "Citations": 1147,
+        "Citations": 1157,
         "h-index": 16,
         "i10-index": 26
     },
@@ -60,7 +60,7 @@ var sdata = {
             title: "The Affect of Lifestyle Factors on Eco-Visualization Design"
         },
         "cneuo_UAAAAJ:GnPB-g6toBAC": {
-            citations: 23,
+            citations: 24,
             id: "cneuo_UAAAAJ:GnPB-g6toBAC",
             impact_factor: "",
             is_book: false,
@@ -123,7 +123,7 @@ var sdata = {
             title: "Universal Non-Intrusive Load Monitoring (UNILM) Using Filter Pipelines, Probabilistic Knapsack, and Labelled Partition Maps"
         },
         "cneuo_UAAAAJ:RYcK_YlVTxYC": {
-            citations: 2,
+            citations: 3,
             id: "cneuo_UAAAAJ:RYcK_YlVTxYC",
             impact_factor: "",
             is_book: false,
@@ -195,7 +195,7 @@ var sdata = {
             title: "The cognitive power meter: Looking beyond the smart meter"
         },
         "cneuo_UAAAAJ:YFjsv_pBGBYC": {
-            citations: 7,
+            citations: 8,
             id: "cneuo_UAAAAJ:YFjsv_pBGBYC",
             impact_factor: 3.25,
             is_book: false,
@@ -222,7 +222,7 @@ var sdata = {
             title: "Efficient Sparse Matrix Processing for Nonintrusive Load Monitoring (NILM)"
         },
         "cneuo_UAAAAJ:Zph67rFs4hoC": {
-            citations: 106,
+            citations: 107,
             id: "cneuo_UAAAAJ:Zph67rFs4hoC",
             impact_factor: 6.776,
             is_book: false,
@@ -266,6 +266,15 @@ var sdata = {
             is_journal: false,
             title: "A consumer bill of rights for energy conservation"
         },
+        "cneuo_UAAAAJ:g5m5HwL7SMYC": {
+            citations: 0,
+            id: "cneuo_UAAAAJ:g5m5HwL7SMYC",
+            impact_factor: "",
+            is_book: false,
+            is_conference: true,
+            is_journal: false,
+            title: "Exploring Bayesian Surprise to Prevent Overfitting and to Predict Model Performance in Non-Intrusive Load Monitoring"
+        },
         "cneuo_UAAAAJ:hMod-77fHWUC": {
             citations: 1,
             id: "cneuo_UAAAAJ:hMod-77fHWUC",
@@ -285,7 +294,7 @@ var sdata = {
             title: "Mixed-Initiative for Big Data: The Intersection of Human + Visual Analytics + Prediction"
         },
         "cneuo_UAAAAJ:kNdYIx-mwKoC": {
-            citations: 174,
+            citations: 176,
             id: "cneuo_UAAAAJ:kNdYIx-mwKoC",
             impact_factor: 10.486,
             is_book: false,
@@ -294,7 +303,7 @@ var sdata = {
             title: "Exploiting HMM Sparsity to Perform Online Real-Time Nonintrusive Load Monitoring"
         },
         "cneuo_UAAAAJ:lSLTfruPkqcC": {
-            citations: 10,
+            citations: 11,
             id: "cneuo_UAAAAJ:lSLTfruPkqcC",
             impact_factor: "",
             is_book: false,
@@ -348,7 +357,7 @@ var sdata = {
             title: "An intelligent agent for determining home occupancy using power monitors and light sensors"
         },
         "cneuo_UAAAAJ:ufrVoPGSRksC": {
-            citations: 110,
+            citations: 111,
             id: "cneuo_UAAAAJ:ufrVoPGSRksC",
             impact_factor: 1.961,
             is_book: false,
@@ -366,7 +375,7 @@ var sdata = {
             title: "On Metrics to Assess the Transferability of Machine Learning Models in Non-Intrusive Load Monitoring"
         },
         "cneuo_UAAAAJ:zYLM7Y9cAGgC": {
-            citations: 246,
+            citations: 248,
             id: "cneuo_UAAAAJ:zYLM7Y9cAGgC",
             impact_factor: "",
             is_book: false,
