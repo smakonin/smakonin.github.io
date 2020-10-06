@@ -1,6 +1,6 @@
 var sdata = {
     agg: {
-        "Citations": 1165,
+        "Citations": 1166,
         "h-index": 16,
         "i10-index": 26
     },
@@ -294,7 +294,7 @@ var sdata = {
             title: "Mixed-Initiative for Big Data: The Intersection of Human + Visual Analytics + Prediction"
         },
         "cneuo_UAAAAJ:kNdYIx-mwKoC": {
-            citations: 176,
+            citations: 177,
             id: "cneuo_UAAAAJ:kNdYIx-mwKoC",
             impact_factor: 10.486,
             is_book: false,
