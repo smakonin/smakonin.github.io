@@ -1,6 +1,6 @@
 var sdata = {
     agg: {
-        "Citations": 1173,
+        "Citations": 1177,
         "h-index": 16,
         "i10-index": 26
     },
@@ -69,7 +69,7 @@ var sdata = {
             title: "WaveNILM: A Causal Neural Network for Power Disaggregation from the Complex Power Signal"
         },
         "cneuo_UAAAAJ:LkGwnXOMwfcC": {
-            citations: 2,
+            citations: 4,
             id: "cneuo_UAAAAJ:LkGwnXOMwfcC",
             impact_factor: "",
             is_book: false,
@@ -195,7 +195,7 @@ var sdata = {
             title: "The cognitive power meter: Looking beyond the smart meter"
         },
         "cneuo_UAAAAJ:YFjsv_pBGBYC": {
-            citations: 8,
+            citations: 9,
             id: "cneuo_UAAAAJ:YFjsv_pBGBYC",
             impact_factor: 3.25,
             is_book: false,
@@ -294,7 +294,7 @@ var sdata = {
             title: "Mixed-Initiative for Big Data: The Intersection of Human + Visual Analytics + Prediction"
         },
         "cneuo_UAAAAJ:kNdYIx-mwKoC": {
-            citations: 179,
+            citations: 180,
             id: "cneuo_UAAAAJ:kNdYIx-mwKoC",
             impact_factor: 10.486,
             is_book: false,
