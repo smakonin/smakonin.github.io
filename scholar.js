@@ -1,6 +1,6 @@
 var sdata = {
     agg: {
-        "Citations": 1181,
+        "Citations": 1196,
         "h-index": 16,
         "i10-index": 26
     },
@@ -24,7 +24,7 @@ var sdata = {
             title: "Residential Power Forecasting Based on Affinity Aggregation Spectral Clustering"
         },
         "cneuo_UAAAAJ:2osOgNQ5qMEC": {
-            citations: 61,
+            citations: 63,
             id: "cneuo_UAAAAJ:2osOgNQ5qMEC",
             impact_factor: 3.022,
             is_book: false,
@@ -60,13 +60,22 @@ var sdata = {
             title: "The Affect of Lifestyle Factors on Eco-Visualization Design"
         },
         "cneuo_UAAAAJ:GnPB-g6toBAC": {
-            citations: 25,
+            citations: 26,
             id: "cneuo_UAAAAJ:GnPB-g6toBAC",
             impact_factor: "",
             is_book: false,
             is_conference: true,
             is_journal: false,
             title: "WaveNILM: A Causal Neural Network for Power Disaggregation from the Complex Power Signal"
+        },
+        "cneuo_UAAAAJ:HoB7MX3m0LUC": {
+            citations: 0,
+            id: "cneuo_UAAAAJ:HoB7MX3m0LUC",
+            impact_factor: "",
+            is_book: false,
+            is_conference: true,
+            is_journal: false,
+            title: "Compressive Non-Intrusive Load Monitoring"
         },
         "cneuo_UAAAAJ:LkGwnXOMwfcC": {
             citations: 4,
@@ -105,7 +114,7 @@ var sdata = {
             title: "HUE: The Hourly Usage of Energy Dataset for Buildings in British Columbia"
         },
         "cneuo_UAAAAJ:NaGl4SEjCO4C": {
-            citations: 15,
+            citations: 16,
             id: "cneuo_UAAAAJ:NaGl4SEjCO4C",
             impact_factor: "",
             is_book: false,
@@ -123,7 +132,7 @@ var sdata = {
             title: "Universal Non-Intrusive Load Monitoring (UNILM) Using Filter Pipelines, Probabilistic Knapsack, and Labelled Partition Maps"
         },
         "cneuo_UAAAAJ:RYcK_YlVTxYC": {
-            citations: 4,
+            citations: 5,
             id: "cneuo_UAAAAJ:RYcK_YlVTxYC",
             impact_factor: "",
             is_book: false,
@@ -222,7 +231,7 @@ var sdata = {
             title: "Efficient Sparse Matrix Processing for Nonintrusive Load Monitoring (NILM)"
         },
         "cneuo_UAAAAJ:Zph67rFs4hoC": {
-            citations: 109,
+            citations: 110,
             id: "cneuo_UAAAAJ:Zph67rFs4hoC",
             impact_factor: 6.776,
             is_book: false,
@@ -240,7 +249,7 @@ var sdata = {
             title: "Approaches to Non-Intrusive Load Monitoring (NILM) in the Home"
         },
         "cneuo_UAAAAJ:_kc_bZDykSQC": {
-            citations: 41,
+            citations: 42,
             id: "cneuo_UAAAAJ:_kc_bZDykSQC",
             impact_factor: 3.25,
             is_book: false,
@@ -285,7 +294,7 @@ var sdata = {
             title: "A Recurrent Neural Network for Multisensory Non-Intrusive Load Monitoring on a Raspberry Pi"
         },
         "cneuo_UAAAAJ:hqOjcs7Dif8C": {
-            citations: 19,
+            citations: 20,
             id: "cneuo_UAAAAJ:hqOjcs7Dif8C",
             impact_factor: "",
             is_book: false,
@@ -294,7 +303,7 @@ var sdata = {
             title: "Mixed-Initiative for Big Data: The Intersection of Human + Visual Analytics + Prediction"
         },
         "cneuo_UAAAAJ:kNdYIx-mwKoC": {
-            citations: 180,
+            citations: 182,
             id: "cneuo_UAAAAJ:kNdYIx-mwKoC",
             impact_factor: 10.486,
             is_book: false,
@@ -303,7 +312,7 @@ var sdata = {
             title: "Exploiting HMM Sparsity to Perform Online Real-Time Nonintrusive Load Monitoring"
         },
         "cneuo_UAAAAJ:lSLTfruPkqcC": {
-            citations: 11,
+            citations: 13,
             id: "cneuo_UAAAAJ:lSLTfruPkqcC",
             impact_factor: "",
             is_book: false,
@@ -321,7 +330,7 @@ var sdata = {
             title: "PowerGAN: Synthesizing Appliance Power Signatures Using Generative Adversarial Networks"
         },
         "cneuo_UAAAAJ:mVmsd5A6BfQC": {
-            citations: 27,
+            citations: 28,
             id: "cneuo_UAAAAJ:mVmsd5A6BfQC",
             impact_factor: "tbd",
             is_book: false,
@@ -337,6 +346,15 @@ var sdata = {
             is_conference: false,
             is_journal: true,
             title: "Performance evaluation of techniques for identifying abnormal energy consumption in buildings"
+        },
+        "cneuo_UAAAAJ:pqnbT2bcN3wC": {
+            citations: 0,
+            id: "cneuo_UAAAAJ:pqnbT2bcN3wC",
+            impact_factor: "",
+            is_book: false,
+            is_conference: true,
+            is_journal: false,
+            title: "Stop! Exploring Bayesian Surprise to Better Train NILM"
         },
         "cneuo_UAAAAJ:u-x6o8ySG0sC": {
             citations: 16,
@@ -357,7 +375,7 @@ var sdata = {
             title: "An intelligent agent for determining home occupancy using power monitors and light sensors"
         },
         "cneuo_UAAAAJ:ufrVoPGSRksC": {
-            citations: 111,
+            citations: 112,
             id: "cneuo_UAAAAJ:ufrVoPGSRksC",
             impact_factor: 1.961,
             is_book: false,
@@ -366,7 +384,7 @@ var sdata = {
             title: "Nonintrusive load monitoring (NILM) performance evaluation"
         },
         "cneuo_UAAAAJ:vV6vV6tmYwMC": {
-            citations: 0,
+            citations: 1,
             id: "cneuo_UAAAAJ:vV6vV6tmYwMC",
             impact_factor: "",
             is_book: false,
