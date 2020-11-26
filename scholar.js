@@ -1,6 +1,6 @@
 var sdata = {
     agg: {
-        "Citations": 1244,
+        "Citations": 1250,
         "h-index": 17,
         "i10-index": 27
     },
@@ -195,7 +195,7 @@ var sdata = {
             title: "Real-time embedded low-frequency load disaggregation"
         },
         "cneuo_UAAAAJ:Y0pCki6q_DkC": {
-            citations: 34,
+            citations: 35,
             id: "cneuo_UAAAAJ:Y0pCki6q_DkC",
             impact_factor: "",
             is_book: false,
@@ -204,7 +204,7 @@ var sdata = {
             title: "The cognitive power meter: Looking beyond the smart meter"
         },
         "cneuo_UAAAAJ:YFjsv_pBGBYC": {
-            citations: 11,
+            citations: 12,
             id: "cneuo_UAAAAJ:YFjsv_pBGBYC",
             impact_factor: 3.25,
             is_book: false,
@@ -312,7 +312,7 @@ var sdata = {
             title: "Mixed-Initiative for Big Data: The Intersection of Human + Visual Analytics + Prediction"
         },
         "cneuo_UAAAAJ:kNdYIx-mwKoC": {
-            citations: 189,
+            citations: 191,
             id: "cneuo_UAAAAJ:kNdYIx-mwKoC",
             impact_factor: 10.486,
             is_book: false,
@@ -384,7 +384,7 @@ var sdata = {
             title: "An intelligent agent for determining home occupancy using power monitors and light sensors"
         },
         "cneuo_UAAAAJ:ufrVoPGSRksC": {
-            citations: 116,
+            citations: 118,
             id: "cneuo_UAAAAJ:ufrVoPGSRksC",
             impact_factor: 1.961,
             is_book: false,
