@@ -1,6 +1,6 @@
 var sdata = {
     agg: {
-        "Citations": 1253,
+        "Citations": 1263,
         "h-index": 17,
         "i10-index": 27
     },
@@ -24,7 +24,7 @@ var sdata = {
             title: "Residential Power Forecasting Based on Affinity Aggregation Spectral Clustering"
         },
         "cneuo_UAAAAJ:2osOgNQ5qMEC": {
-            citations: 65,
+            citations: 66,
             id: "cneuo_UAAAAJ:2osOgNQ5qMEC",
             impact_factor: 3.022,
             is_book: false,
@@ -42,7 +42,7 @@ var sdata = {
             title: "Chapter 18: App programming and its use in smart buildings"
         },
         "cneuo_UAAAAJ:7PzlFSSx8tAC": {
-            citations: 11,
+            citations: 13,
             id: "cneuo_UAAAAJ:7PzlFSSx8tAC",
             impact_factor: "",
             is_book: false,
@@ -60,7 +60,7 @@ var sdata = {
             title: "The Affect of Lifestyle Factors on Eco-Visualization Design"
         },
         "cneuo_UAAAAJ:GnPB-g6toBAC": {
-            citations: 29,
+            citations: 31,
             id: "cneuo_UAAAAJ:GnPB-g6toBAC",
             impact_factor: "",
             is_book: false,
@@ -339,7 +339,7 @@ var sdata = {
             title: "PowerGAN: Synthesizing Appliance Power Signatures Using Generative Adversarial Networks"
         },
         "cneuo_UAAAAJ:mVmsd5A6BfQC": {
-            citations: 29,
+            citations: 32,
             id: "cneuo_UAAAAJ:mVmsd5A6BfQC",
             impact_factor: "tbd",
             is_book: false,
@@ -402,7 +402,7 @@ var sdata = {
             title: "On Metrics to Assess the Transferability of Machine Learning Models in Non-Intrusive Load Monitoring"
         },
         "cneuo_UAAAAJ:zYLM7Y9cAGgC": {
-            citations: 260,
+            citations: 262,
             id: "cneuo_UAAAAJ:zYLM7Y9cAGgC",
             impact_factor: "",
             is_book: false,
