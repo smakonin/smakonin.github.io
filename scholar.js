@@ -1,6 +1,6 @@
 var sdata = {
     agg: {
-        "Citations": 1268,
+        "Citations": 1271,
         "h-index": 17,
         "i10-index": 27
     },
@@ -348,7 +348,7 @@ var sdata = {
             title: "RAE: The Rainforest Automation Energy Dataset for Smart Grid Meter Data Analysis"
         },
         "cneuo_UAAAAJ:ns9cj8rnVeAC": {
-            citations: 4,
+            citations: 5,
             id: "cneuo_UAAAAJ:ns9cj8rnVeAC",
             impact_factor: 4.098,
             is_book: false,
@@ -366,7 +366,7 @@ var sdata = {
             title: "Stop! Exploring Bayesian Surprise to Better Train NILM"
         },
         "cneuo_UAAAAJ:u-x6o8ySG0sC": {
-            citations: 16,
+            citations: 17,
             id: "cneuo_UAAAAJ:u-x6o8ySG0sC",
             impact_factor: "",
             is_book: false,
@@ -402,7 +402,7 @@ var sdata = {
             title: "On Metrics to Assess the Transferability of Machine Learning Models in Non-Intrusive Load Monitoring"
         },
         "cneuo_UAAAAJ:zYLM7Y9cAGgC": {
-            citations: 264,
+            citations: 265,
             id: "cneuo_UAAAAJ:zYLM7Y9cAGgC",
             impact_factor: "",
             is_book: false,
