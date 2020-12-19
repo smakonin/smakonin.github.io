@@ -1,6 +1,6 @@
 var sdata = {
     agg: {
-        "Citations": 1271,
+        "Citations": 1275,
         "h-index": 17,
         "i10-index": 27
     },
@@ -150,7 +150,7 @@ var sdata = {
             title: "Cognitive Radio Technology: System Evolution"
         },
         "cneuo_UAAAAJ:Tyk-4Ss8FVUC": {
-            citations: 11,
+            citations: 12,
             id: "cneuo_UAAAAJ:Tyk-4Ss8FVUC",
             impact_factor: "",
             is_book: false,
@@ -177,7 +177,7 @@ var sdata = {
             title: "Visual C++ 5.0 Developer's Guide"
         },
         "cneuo_UAAAAJ:W7OEmFMy1HYC": {
-            citations: 12,
+            citations: 13,
             id: "cneuo_UAAAAJ:W7OEmFMy1HYC",
             impact_factor: "",
             is_book: false,
@@ -240,7 +240,7 @@ var sdata = {
             title: "Streaming video is overheating the planet: We can no longer ignore the carbon footprint resulting from the glut of streaming video"
         },
         "cneuo_UAAAAJ:Zph67rFs4hoC": {
-            citations: 121,
+            citations: 122,
             id: "cneuo_UAAAAJ:Zph67rFs4hoC",
             impact_factor: 6.776,
             is_book: false,
@@ -321,7 +321,7 @@ var sdata = {
             title: "Exploiting HMM Sparsity to Perform Online Real-Time Nonintrusive Load Monitoring"
         },
         "cneuo_UAAAAJ:lSLTfruPkqcC": {
-            citations: 18,
+            citations: 19,
             id: "cneuo_UAAAAJ:lSLTfruPkqcC",
             impact_factor: "",
             is_book: false,
