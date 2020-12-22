@@ -1,6 +1,6 @@
 var sdata = {
     agg: {
-        "Citations": 1275,
+        "Citations": 1279,
         "h-index": 17,
         "i10-index": 27
     },
@@ -150,7 +150,7 @@ var sdata = {
             title: "Cognitive Radio Technology: System Evolution"
         },
         "cneuo_UAAAAJ:Tyk-4Ss8FVUC": {
-            citations: 12,
+            citations: 13,
             id: "cneuo_UAAAAJ:Tyk-4Ss8FVUC",
             impact_factor: "",
             is_book: false,
@@ -240,7 +240,7 @@ var sdata = {
             title: "Streaming video is overheating the planet: We can no longer ignore the carbon footprint resulting from the glut of streaming video"
         },
         "cneuo_UAAAAJ:Zph67rFs4hoC": {
-            citations: 122,
+            citations: 123,
             id: "cneuo_UAAAAJ:Zph67rFs4hoC",
             impact_factor: 6.776,
             is_book: false,
@@ -312,7 +312,7 @@ var sdata = {
             title: "Mixed-Initiative for Big Data: The Intersection of Human + Visual Analytics + Prediction"
         },
         "cneuo_UAAAAJ:kNdYIx-mwKoC": {
-            citations: 192,
+            citations: 193,
             id: "cneuo_UAAAAJ:kNdYIx-mwKoC",
             impact_factor: 10.486,
             is_book: false,
@@ -402,7 +402,7 @@ var sdata = {
             title: "On Metrics to Assess the Transferability of Machine Learning Models in Non-Intrusive Load Monitoring"
         },
         "cneuo_UAAAAJ:zYLM7Y9cAGgC": {
-            citations: 265,
+            citations: 266,
             id: "cneuo_UAAAAJ:zYLM7Y9cAGgC",
             impact_factor: "",
             is_book: false,
