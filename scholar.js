@@ -1,6 +1,6 @@
 var sdata = {
     agg: {
-        "Citations": 1280,
+        "Citations": 1286,
         "h-index": 17,
         "i10-index": 27
     },
@@ -240,7 +240,7 @@ var sdata = {
             title: "Streaming video is overheating the planet: We can no longer ignore the carbon footprint resulting from the glut of streaming video"
         },
         "cneuo_UAAAAJ:Zph67rFs4hoC": {
-            citations: 123,
+            citations: 125,
             id: "cneuo_UAAAAJ:Zph67rFs4hoC",
             impact_factor: 6.776,
             is_book: false,
@@ -303,7 +303,7 @@ var sdata = {
             title: "A Recurrent Neural Network for Multisensory Non-Intrusive Load Monitoring on a Raspberry Pi"
         },
         "cneuo_UAAAAJ:hqOjcs7Dif8C": {
-            citations: 20,
+            citations: 21,
             id: "cneuo_UAAAAJ:hqOjcs7Dif8C",
             impact_factor: "",
             is_book: false,
@@ -339,7 +339,7 @@ var sdata = {
             title: "PowerGAN: Synthesizing Appliance Power Signatures Using Generative Adversarial Networks"
         },
         "cneuo_UAAAAJ:mVmsd5A6BfQC": {
-            citations: 32,
+            citations: 33,
             id: "cneuo_UAAAAJ:mVmsd5A6BfQC",
             impact_factor: "tbd",
             is_book: false,
@@ -384,7 +384,7 @@ var sdata = {
             title: "An intelligent agent for determining home occupancy using power monitors and light sensors"
         },
         "cneuo_UAAAAJ:ufrVoPGSRksC": {
-            citations: 120,
+            citations: 121,
             id: "cneuo_UAAAAJ:ufrVoPGSRksC",
             impact_factor: 1.961,
             is_book: false,
@@ -402,7 +402,7 @@ var sdata = {
             title: "On Metrics to Assess the Transferability of Machine Learning Models in Non-Intrusive Load Monitoring"
         },
         "cneuo_UAAAAJ:zYLM7Y9cAGgC": {
-            citations: 266,
+            citations: 267,
             id: "cneuo_UAAAAJ:zYLM7Y9cAGgC",
             impact_factor: "",
             is_book: false,
