@@ -1,6 +1,6 @@
 var sdata = {
     agg: {
-        "Citations": 1288,
+        "Citations": 1290,
         "h-index": 17,
         "i10-index": 27
     },
@@ -303,7 +303,7 @@ var sdata = {
             title: "A Recurrent Neural Network for Multisensory Non-Intrusive Load Monitoring on a Raspberry Pi"
         },
         "cneuo_UAAAAJ:hqOjcs7Dif8C": {
-            citations: 21,
+            citations: 22,
             id: "cneuo_UAAAAJ:hqOjcs7Dif8C",
             impact_factor: "",
             is_book: false,
@@ -321,7 +321,7 @@ var sdata = {
             title: "Exploiting HMM Sparsity to Perform Online Real-Time Nonintrusive Load Monitoring"
         },
         "cneuo_UAAAAJ:lSLTfruPkqcC": {
-            citations: 19,
+            citations: 20,
             id: "cneuo_UAAAAJ:lSLTfruPkqcC",
             impact_factor: "",
             is_book: false,
