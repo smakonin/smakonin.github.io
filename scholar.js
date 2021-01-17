@@ -1,6 +1,6 @@
 var sdata = {
     agg: {
-        "Citations": 1316,
+        "Citations": 1323,
         "h-index": 17,
         "i10-index": 27
     },
@@ -41,6 +41,15 @@ var sdata = {
             is_journal: false,
             title: "Chapter 18: App programming and its use in smart buildings"
         },
+        "cneuo_UAAAAJ:3s1wT3WcHBgC": {
+            citations: 0,
+            id: "cneuo_UAAAAJ:3s1wT3WcHBgC",
+            impact_factor: 6.047,
+            is_book: false,
+            is_conference: false,
+            is_journal: true,
+            title: "Short-Term Demand Prediction Using an Ensemble of Linearly-Constrained Estimators"
+        },
         "cneuo_UAAAAJ:7PzlFSSx8tAC": {
             citations: 13,
             id: "cneuo_UAAAAJ:7PzlFSSx8tAC",
@@ -60,7 +69,7 @@ var sdata = {
             title: "The Affect of Lifestyle Factors on Eco-Visualization Design"
         },
         "cneuo_UAAAAJ:GnPB-g6toBAC": {
-            citations: 33,
+            citations: 35,
             id: "cneuo_UAAAAJ:GnPB-g6toBAC",
             impact_factor: "",
             is_book: false,
@@ -204,7 +213,7 @@ var sdata = {
             title: "The cognitive power meter: Looking beyond the smart meter"
         },
         "cneuo_UAAAAJ:YFjsv_pBGBYC": {
-            citations: 12,
+            citations: 14,
             id: "cneuo_UAAAAJ:YFjsv_pBGBYC",
             impact_factor: 3.25,
             is_book: false,
@@ -258,7 +267,7 @@ var sdata = {
             title: "Approaches to Non-Intrusive Load Monitoring (NILM) in the Home"
         },
         "cneuo_UAAAAJ:_kc_bZDykSQC": {
-            citations: 47,
+            citations: 48,
             id: "cneuo_UAAAAJ:_kc_bZDykSQC",
             impact_factor: 3.25,
             is_book: false,
@@ -312,7 +321,7 @@ var sdata = {
             title: "Mixed-Initiative for Big Data: The Intersection of Human + Visual Analytics + Prediction"
         },
         "cneuo_UAAAAJ:kNdYIx-mwKoC": {
-            citations: 198,
+            citations: 199,
             id: "cneuo_UAAAAJ:kNdYIx-mwKoC",
             impact_factor: 10.486,
             is_book: false,
@@ -402,7 +411,7 @@ var sdata = {
             title: "On Metrics to Assess the Transferability of Machine Learning Models in Non-Intrusive Load Monitoring"
         },
         "cneuo_UAAAAJ:zYLM7Y9cAGgC": {
-            citations: 270,
+            citations: 271,
             id: "cneuo_UAAAAJ:zYLM7Y9cAGgC",
             impact_factor: "",
             is_book: false,
