@@ -1,8 +1,8 @@
 var sdata = {
     agg: {
-        "Citations": 1305,
+        "Citations": 1340,
         "h-index": 17,
-        "i10-index": 26
+        "i10-index": 27
     },
     papers: {
         "cneuo_UAAAAJ:0EnyYjriUFMC": {
@@ -177,7 +177,7 @@ var sdata = {
             title: "Investigating the Switch Continuity Principle Assumed in Non-Intrusive Load Monitoring (NILM)"
         },
         "cneuo_UAAAAJ:UebtZRa9Y70C": {
-            citations: 0,
+            citations: 35,
             id: "cneuo_UAAAAJ:UebtZRa9Y70C",
             impact_factor: "",
             is_book: true,
