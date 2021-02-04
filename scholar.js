@@ -1,6 +1,6 @@
 var sdata = {
     agg: {
-        "Citations": 1340,
+        "Citations": 1345,
         "h-index": 17,
         "i10-index": 27
     },
@@ -123,7 +123,7 @@ var sdata = {
             title: "HUE: The Hourly Usage of Energy Dataset for Buildings in British Columbia"
         },
         "cneuo_UAAAAJ:NaGl4SEjCO4C": {
-            citations: 19,
+            citations: 20,
             id: "cneuo_UAAAAJ:NaGl4SEjCO4C",
             impact_factor: "",
             is_book: false,
@@ -213,7 +213,7 @@ var sdata = {
             title: "The cognitive power meter: Looking beyond the smart meter"
         },
         "cneuo_UAAAAJ:YFjsv_pBGBYC": {
-            citations: 16,
+            citations: 17,
             id: "cneuo_UAAAAJ:YFjsv_pBGBYC",
             impact_factor: 3.25,
             is_book: false,
@@ -249,7 +249,7 @@ var sdata = {
             title: "Streaming video is overheating the planet: We can no longer ignore the carbon footprint resulting from the glut of streaming video"
         },
         "cneuo_UAAAAJ:Zph67rFs4hoC": {
-            citations: 135,
+            citations: 136,
             id: "cneuo_UAAAAJ:Zph67rFs4hoC",
             impact_factor: 6.776,
             is_book: false,
@@ -312,7 +312,7 @@ var sdata = {
             title: "A Recurrent Neural Network for Multisensory Non-Intrusive Load Monitoring on a Raspberry Pi"
         },
         "cneuo_UAAAAJ:hqOjcs7Dif8C": {
-            citations: 23,
+            citations: 24,
             id: "cneuo_UAAAAJ:hqOjcs7Dif8C",
             impact_factor: "",
             is_book: false,
@@ -411,7 +411,7 @@ var sdata = {
             title: "On metrics to assess the transferability of machine learning models in non-intrusive load monitoring"
         },
         "cneuo_UAAAAJ:zYLM7Y9cAGgC": {
-            citations: 275,
+            citations: 276,
             id: "cneuo_UAAAAJ:zYLM7Y9cAGgC",
             impact_factor: "",
             is_book: false,
