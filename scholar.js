@@ -1,12 +1,12 @@
 var sdata = {
     agg: {
-        "Citations": 1384,
-        "h-index": 18,
+        "Citations": 1395,
+        "h-index": 19,
         "i10-index": 27
     },
     papers: {
         "cneuo_UAAAAJ:0EnyYjriUFMC": {
-            citations: 17,
+            citations: 20,
             id: "cneuo_UAAAAJ:0EnyYjriUFMC",
             impact_factor: "",
             is_book: false,
@@ -69,7 +69,7 @@ var sdata = {
             title: "The Affect of Lifestyle Factors on Eco-Visualization Design"
         },
         "cneuo_UAAAAJ:GnPB-g6toBAC": {
-            citations: 36,
+            citations: 38,
             id: "cneuo_UAAAAJ:GnPB-g6toBAC",
             impact_factor: "",
             is_book: false,
@@ -114,7 +114,7 @@ var sdata = {
             title: "CarbonKit: Designing A Personal Carbon Tracking Platform"
         },
         "cneuo_UAAAAJ:NMxIlDl6LWMC": {
-            citations: 6,
+            citations: 7,
             id: "cneuo_UAAAAJ:NMxIlDl6LWMC",
             impact_factor: 1.43,
             is_book: false,
@@ -213,7 +213,7 @@ var sdata = {
             title: "The cognitive power meter: Looking beyond the smart meter"
         },
         "cneuo_UAAAAJ:YFjsv_pBGBYC": {
-            citations: 18,
+            citations: 19,
             id: "cneuo_UAAAAJ:YFjsv_pBGBYC",
             impact_factor: 3.25,
             is_book: false,
@@ -321,7 +321,7 @@ var sdata = {
             title: "Mixed-Initiative for Big Data: The Intersection of Human + Visual Analytics + Prediction"
         },
         "cneuo_UAAAAJ:kNdYIx-mwKoC": {
-            citations: 211,
+            citations: 212,
             id: "cneuo_UAAAAJ:kNdYIx-mwKoC",
             impact_factor: 10.486,
             is_book: false,
@@ -393,7 +393,7 @@ var sdata = {
             title: "An intelligent agent for determining home occupancy using power monitors and light sensors"
         },
         "cneuo_UAAAAJ:ufrVoPGSRksC": {
-            citations: 127,
+            citations: 128,
             id: "cneuo_UAAAAJ:ufrVoPGSRksC",
             impact_factor: 1.961,
             is_book: false,
@@ -411,7 +411,7 @@ var sdata = {
             title: "On metrics to assess the transferability of machine learning models in non-intrusive load monitoring"
         },
         "cneuo_UAAAAJ:zYLM7Y9cAGgC": {
-            citations: 282,
+            citations: 284,
             id: "cneuo_UAAAAJ:zYLM7Y9cAGgC",
             impact_factor: "",
             is_book: false,
