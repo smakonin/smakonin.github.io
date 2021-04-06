@@ -1,12 +1,12 @@
 var sdata = {
     agg: {
-        "Citations": 1395,
+        "Citations": 1407,
         "h-index": 19,
         "i10-index": 27
     },
     papers: {
         "cneuo_UAAAAJ:0EnyYjriUFMC": {
-            citations: 20,
+            citations: 21,
             id: "cneuo_UAAAAJ:0EnyYjriUFMC",
             impact_factor: "",
             is_book: false,
@@ -69,7 +69,7 @@ var sdata = {
             title: "The Affect of Lifestyle Factors on Eco-Visualization Design"
         },
         "cneuo_UAAAAJ:GnPB-g6toBAC": {
-            citations: 38,
+            citations: 40,
             id: "cneuo_UAAAAJ:GnPB-g6toBAC",
             impact_factor: "",
             is_book: false,
@@ -213,7 +213,7 @@ var sdata = {
             title: "The cognitive power meter: Looking beyond the smart meter"
         },
         "cneuo_UAAAAJ:YFjsv_pBGBYC": {
-            citations: 19,
+            citations: 21,
             id: "cneuo_UAAAAJ:YFjsv_pBGBYC",
             impact_factor: 3.25,
             is_book: false,
@@ -249,7 +249,7 @@ var sdata = {
             title: "Streaming video is overheating the planet: We can no longer ignore the carbon footprint resulting from the glut of streaming video"
         },
         "cneuo_UAAAAJ:Zph67rFs4hoC": {
-            citations: 140,
+            citations: 141,
             id: "cneuo_UAAAAJ:Zph67rFs4hoC",
             impact_factor: 6.776,
             is_book: false,
@@ -267,7 +267,7 @@ var sdata = {
             title: "Approaches to Non-Intrusive Load Monitoring (NILM) in the Home"
         },
         "cneuo_UAAAAJ:_kc_bZDykSQC": {
-            citations: 46,
+            citations: 47,
             id: "cneuo_UAAAAJ:_kc_bZDykSQC",
             impact_factor: 3.25,
             is_book: false,
@@ -312,7 +312,7 @@ var sdata = {
             title: "A Recurrent Neural Network for Multisensory Non-Intrusive Load Monitoring on a Raspberry Pi"
         },
         "cneuo_UAAAAJ:hqOjcs7Dif8C": {
-            citations: 24,
+            citations: 25,
             id: "cneuo_UAAAAJ:hqOjcs7Dif8C",
             impact_factor: "",
             is_book: false,
@@ -321,7 +321,7 @@ var sdata = {
             title: "Mixed-Initiative for Big Data: The Intersection of Human + Visual Analytics + Prediction"
         },
         "cneuo_UAAAAJ:kNdYIx-mwKoC": {
-            citations: 212,
+            citations: 213,
             id: "cneuo_UAAAAJ:kNdYIx-mwKoC",
             impact_factor: 10.486,
             is_book: false,
@@ -339,7 +339,7 @@ var sdata = {
             title: "Towards Comparability in Non-Intrusive Load Monitoring: On Data and Performance Evaluation"
         },
         "cneuo_UAAAAJ:ldfaerwXgEUC": {
-            citations: 1,
+            citations: 2,
             id: "cneuo_UAAAAJ:ldfaerwXgEUC",
             impact_factor: "",
             is_book: false,
@@ -348,7 +348,7 @@ var sdata = {
             title: "PowerGAN: Synthesizing Appliance Power Signatures Using Generative Adversarial Networks"
         },
         "cneuo_UAAAAJ:mVmsd5A6BfQC": {
-            citations: 38,
+            citations: 39,
             id: "cneuo_UAAAAJ:mVmsd5A6BfQC",
             impact_factor: "tbd",
             is_book: false,
@@ -402,7 +402,7 @@ var sdata = {
             title: "Nonintrusive load monitoring (NILM) performance evaluation"
         },
         "cneuo_UAAAAJ:vV6vV6tmYwMC": {
-            citations: 1,
+            citations: 2,
             id: "cneuo_UAAAAJ:vV6vV6tmYwMC",
             impact_factor: "",
             is_book: false,
