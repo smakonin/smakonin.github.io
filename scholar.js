@@ -98,11 +98,11 @@ var sdata = {
         "cneuo_UAAAAJ:M05iB0D1s5AC": {
             citations: 0,
             id: "cneuo_UAAAAJ:M05iB0D1s5AC",
-            impact_factor: "tbd",
+            impact_factor: "",
             is_book: false,
-            is_conference: false,
-            is_journal: true,
-            title: "Investigating the performance gap between testing on real and denoised aggregates in non-intrusive load monitoring"
+            is_conference: true,
+            is_journal: false,
+            title: "Investigating the Performance Gap between Testing on Real and Denoised Aggregates in Non-Intrusive Load Monitoring"
         },
         "cneuo_UAAAAJ:M3ejUd6NZC8C": {
             citations: 0,
@@ -321,7 +321,7 @@ var sdata = {
             title: "Mixed-Initiative for Big Data: The Intersection of Human + Visual Analytics + Prediction"
         },
         "cneuo_UAAAAJ:kNdYIx-mwKoC": {
-            citations: 213,
+            citations: 214,
             id: "cneuo_UAAAAJ:kNdYIx-mwKoC",
             impact_factor: 10.486,
             is_book: false,
@@ -411,7 +411,7 @@ var sdata = {
             title: "On metrics to assess the transferability of machine learning models in non-intrusive load monitoring"
         },
         "cneuo_UAAAAJ:zYLM7Y9cAGgC": {
-            citations: 284,
+            citations: 283,
             id: "cneuo_UAAAAJ:zYLM7Y9cAGgC",
             impact_factor: "",
             is_book: false,
