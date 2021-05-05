@@ -1,6 +1,6 @@
 var sdata = {
     agg: {
-        "Citations": 1427,
+        "Citations": 1432,
         "h-index": 19,
         "i10-index": 27
     },
@@ -69,7 +69,7 @@ var sdata = {
             title: "The Affect of Lifestyle Factors on Eco-Visualization Design"
         },
         "cneuo_UAAAAJ:GnPB-g6toBAC": {
-            citations: 41,
+            citations: 42,
             id: "cneuo_UAAAAJ:GnPB-g6toBAC",
             impact_factor: "",
             is_book: false,
@@ -168,7 +168,7 @@ var sdata = {
             title: "Inspiring energy conservation through open source power monitoring and in-home display"
         },
         "cneuo_UAAAAJ:ULOm3_A8WrAC": {
-            citations: 24,
+            citations: 25,
             id: "cneuo_UAAAAJ:ULOm3_A8WrAC",
             impact_factor: "",
             is_book: false,
@@ -231,7 +231,7 @@ var sdata = {
             title: "Start-Up Creation: The Smart Eco-efficient Built Environment"
         },
         "cneuo_UAAAAJ:YsMSGLbcyi4C": {
-            citations: 31,
+            citations: 32,
             id: "cneuo_UAAAAJ:YsMSGLbcyi4C",
             impact_factor: "",
             is_book: false,
@@ -357,7 +357,7 @@ var sdata = {
             title: "RAE: The Rainforest Automation Energy Dataset for Smart Grid Meter Data Analysis"
         },
         "cneuo_UAAAAJ:ns9cj8rnVeAC": {
-            citations: 8,
+            citations: 9,
             id: "cneuo_UAAAAJ:ns9cj8rnVeAC",
             impact_factor: 4.098,
             is_book: false,
@@ -411,7 +411,7 @@ var sdata = {
             title: "On metrics to assess the transferability of machine learning models in non-intrusive load monitoring"
         },
         "cneuo_UAAAAJ:zYLM7Y9cAGgC": {
-            citations: 285,
+            citations: 286,
             id: "cneuo_UAAAAJ:zYLM7Y9cAGgC",
             impact_factor: "",
             is_book: false,
