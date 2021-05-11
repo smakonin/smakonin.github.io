@@ -1,6 +1,6 @@
 var sdata = {
     agg: {
-        "Citations": 1432,
+        "Citations": 1438,
         "h-index": 19,
         "i10-index": 27
     },
@@ -69,7 +69,7 @@ var sdata = {
             title: "The Affect of Lifestyle Factors on Eco-Visualization Design"
         },
         "cneuo_UAAAAJ:GnPB-g6toBAC": {
-            citations: 42,
+            citations: 44,
             id: "cneuo_UAAAAJ:GnPB-g6toBAC",
             impact_factor: "",
             is_book: false,
@@ -222,7 +222,7 @@ var sdata = {
             title: "Residential power forecasting using load identification and graph spectral clustering"
         },
         "cneuo_UAAAAJ:YOwf2qJgpHMC": {
-            citations: 7,
+            citations: 8,
             id: "cneuo_UAAAAJ:YOwf2qJgpHMC",
             impact_factor: "",
             is_book: true,
@@ -267,7 +267,7 @@ var sdata = {
             title: "Approaches to Non-Intrusive Load Monitoring (NILM) in the Home"
         },
         "cneuo_UAAAAJ:_kc_bZDykSQC": {
-            citations: 49,
+            citations: 50,
             id: "cneuo_UAAAAJ:_kc_bZDykSQC",
             impact_factor: 3.25,
             is_book: false,
@@ -321,7 +321,7 @@ var sdata = {
             title: "Mixed-Initiative for Big Data: The Intersection of Human + Visual Analytics + Prediction"
         },
         "cneuo_UAAAAJ:kNdYIx-mwKoC": {
-            citations: 217,
+            citations: 218,
             id: "cneuo_UAAAAJ:kNdYIx-mwKoC",
             impact_factor: 10.486,
             is_book: false,
@@ -393,7 +393,7 @@ var sdata = {
             title: "An intelligent agent for determining home occupancy using power monitors and light sensors"
         },
         "cneuo_UAAAAJ:ufrVoPGSRksC": {
-            citations: 129,
+            citations: 130,
             id: "cneuo_UAAAAJ:ufrVoPGSRksC",
             impact_factor: 1.961,
             is_book: false,
