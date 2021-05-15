@@ -1,6 +1,6 @@
 var sdata = {
     agg: {
-        "Citations": 1438,
+        "Citations": 1449,
         "h-index": 19,
         "i10-index": 27
     },
@@ -50,6 +50,15 @@ var sdata = {
             is_journal: true,
             title: "Short-Term Demand Prediction Using an Ensemble of Linearly-Constrained Estimators"
         },
+        "cneuo_UAAAAJ:4OULZ7Gr8RgC": {
+            citations: 2,
+            id: "cneuo_UAAAAJ:4OULZ7Gr8RgC",
+            impact_factor: 10.486,
+            is_book: false,
+            is_conference: false,
+            is_journal: true,
+            title: "TraceGAN: Synthesizing Appliance Power Signatures Using Generative Adversarial Networks"
+        },
         "cneuo_UAAAAJ:7PzlFSSx8tAC": {
             citations: 13,
             id: "cneuo_UAAAAJ:7PzlFSSx8tAC",
@@ -69,7 +78,7 @@ var sdata = {
             title: "The Affect of Lifestyle Factors on Eco-Visualization Design"
         },
         "cneuo_UAAAAJ:GnPB-g6toBAC": {
-            citations: 44,
+            citations: 45,
             id: "cneuo_UAAAAJ:GnPB-g6toBAC",
             impact_factor: "",
             is_book: false,
@@ -132,7 +141,7 @@ var sdata = {
             title: "Electricity consumption data sets: Pitfalls and opportunities"
         },
         "cneuo_UAAAAJ:RGFaLdJalmkC": {
-            citations: 7,
+            citations: 8,
             id: "cneuo_UAAAAJ:RGFaLdJalmkC",
             impact_factor: "",
             is_book: false,
@@ -249,7 +258,7 @@ var sdata = {
             title: "Streaming video is overheating the planet: We can no longer ignore the carbon footprint resulting from the glut of streaming video"
         },
         "cneuo_UAAAAJ:Zph67rFs4hoC": {
-            citations: 145,
+            citations: 149,
             id: "cneuo_UAAAAJ:Zph67rFs4hoC",
             impact_factor: 6.776,
             is_book: false,
@@ -267,7 +276,7 @@ var sdata = {
             title: "Approaches to Non-Intrusive Load Monitoring (NILM) in the Home"
         },
         "cneuo_UAAAAJ:_kc_bZDykSQC": {
-            citations: 50,
+            citations: 51,
             id: "cneuo_UAAAAJ:_kc_bZDykSQC",
             impact_factor: 3.25,
             is_book: false,
@@ -321,7 +330,7 @@ var sdata = {
             title: "Mixed-Initiative for Big Data: The Intersection of Human + Visual Analytics + Prediction"
         },
         "cneuo_UAAAAJ:kNdYIx-mwKoC": {
-            citations: 218,
+            citations: 220,
             id: "cneuo_UAAAAJ:kNdYIx-mwKoC",
             impact_factor: 10.486,
             is_book: false,
@@ -337,15 +346,6 @@ var sdata = {
             is_conference: true,
             is_journal: false,
             title: "Towards Comparability in Non-Intrusive Load Monitoring: On Data and Performance Evaluation"
-        },
-        "cneuo_UAAAAJ:ldfaerwXgEUC": {
-            citations: 2,
-            id: "cneuo_UAAAAJ:ldfaerwXgEUC",
-            impact_factor: "",
-            is_book: false,
-            is_conference: true,
-            is_journal: false,
-            title: "PowerGAN: Synthesizing Appliance Power Signatures Using Generative Adversarial Networks"
         },
         "cneuo_UAAAAJ:mVmsd5A6BfQC": {
             citations: 40,
@@ -393,7 +393,7 @@ var sdata = {
             title: "An intelligent agent for determining home occupancy using power monitors and light sensors"
         },
         "cneuo_UAAAAJ:ufrVoPGSRksC": {
-            citations: 130,
+            citations: 132,
             id: "cneuo_UAAAAJ:ufrVoPGSRksC",
             impact_factor: 1.961,
             is_book: false,
