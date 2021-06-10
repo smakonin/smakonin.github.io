@@ -1,6 +1,6 @@
 var sdata = {
     agg: {
-        "Citations": 1472,
+        "Citations": 1480,
         "h-index": 19,
         "i10-index": 27
     },
@@ -15,7 +15,7 @@ var sdata = {
             title: "Appliance Water Disaggregation via Non-Intrusive Load Monitoring (NILM)"
         },
         "cneuo_UAAAAJ:2P1L_qKh6hAC": {
-            citations: 3,
+            citations: 4,
             id: "cneuo_UAAAAJ:2P1L_qKh6hAC",
             impact_factor: 4.098,
             is_book: false,
@@ -258,7 +258,7 @@ var sdata = {
             title: "Streaming video is overheating the planet: We can no longer ignore the carbon footprint resulting from the glut of streaming video"
         },
         "cneuo_UAAAAJ:Zph67rFs4hoC": {
-            citations: 151,
+            citations: 153,
             id: "cneuo_UAAAAJ:Zph67rFs4hoC",
             impact_factor: 6.776,
             is_book: false,
@@ -330,7 +330,7 @@ var sdata = {
             title: "Mixed-Initiative for Big Data: The Intersection of Human + Visual Analytics + Prediction"
         },
         "cneuo_UAAAAJ:kNdYIx-mwKoC": {
-            citations: 224,
+            citations: 226,
             id: "cneuo_UAAAAJ:kNdYIx-mwKoC",
             impact_factor: 10.486,
             is_book: false,
@@ -393,7 +393,7 @@ var sdata = {
             title: "An intelligent agent for determining home occupancy using power monitors and light sensors"
         },
         "cneuo_UAAAAJ:ufrVoPGSRksC": {
-            citations: 135,
+            citations: 136,
             id: "cneuo_UAAAAJ:ufrVoPGSRksC",
             impact_factor: 1.961,
             is_book: false,
@@ -411,7 +411,7 @@ var sdata = {
             title: "On metrics to assess the transferability of machine learning models in non-intrusive load monitoring"
         },
         "cneuo_UAAAAJ:zYLM7Y9cAGgC": {
-            citations: 288,
+            citations: 290,
             id: "cneuo_UAAAAJ:zYLM7Y9cAGgC",
             impact_factor: "",
             is_book: false,
