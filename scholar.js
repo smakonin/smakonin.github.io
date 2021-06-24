@@ -1,6 +1,6 @@
 var sdata = {
     agg: {
-        "Citations": 1499,
+        "Citations": 1500,
         "h-index": 19,
         "i10-index": 27
     },
@@ -258,7 +258,7 @@ var sdata = {
             title: "Streaming video is overheating the planet: We can no longer ignore the carbon footprint resulting from the glut of streaming video"
         },
         "cneuo_UAAAAJ:Zph67rFs4hoC": {
-            citations: 153,
+            citations: 154,
             id: "cneuo_UAAAAJ:Zph67rFs4hoC",
             impact_factor: 6.776,
             is_book: false,
