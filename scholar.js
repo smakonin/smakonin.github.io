@@ -1,12 +1,12 @@
 var sdata = {
     agg: {
-        "Citations": 1500,
+        "Citations": 1512,
         "h-index": 19,
         "i10-index": 27
     },
     papers: {
         "cneuo_UAAAAJ:0EnyYjriUFMC": {
-            citations: 21,
+            citations: 20,
             id: "cneuo_UAAAAJ:0EnyYjriUFMC",
             impact_factor: "",
             is_book: false,
@@ -60,7 +60,7 @@ var sdata = {
             title: "TraceGAN: Synthesizing Appliance Power Signatures Using Generative Adversarial Networks"
         },
         "cneuo_UAAAAJ:7PzlFSSx8tAC": {
-            citations: 13,
+            citations: 14,
             id: "cneuo_UAAAAJ:7PzlFSSx8tAC",
             impact_factor: "",
             is_book: false,
@@ -78,7 +78,7 @@ var sdata = {
             title: "The Affect of Lifestyle Factors on Eco-Visualization Design"
         },
         "cneuo_UAAAAJ:GnPB-g6toBAC": {
-            citations: 50,
+            citations: 51,
             id: "cneuo_UAAAAJ:GnPB-g6toBAC",
             impact_factor: "",
             is_book: false,
@@ -123,7 +123,7 @@ var sdata = {
             title: "CarbonKit: Designing A Personal Carbon Tracking Platform"
         },
         "cneuo_UAAAAJ:NMxIlDl6LWMC": {
-            citations: 8,
+            citations: 9,
             id: "cneuo_UAAAAJ:NMxIlDl6LWMC",
             impact_factor: 1.43,
             is_book: false,
@@ -141,7 +141,7 @@ var sdata = {
             title: "Electricity consumption data sets: Pitfalls and opportunities"
         },
         "cneuo_UAAAAJ:RGFaLdJalmkC": {
-            citations: 8,
+            citations: 9,
             id: "cneuo_UAAAAJ:RGFaLdJalmkC",
             impact_factor: "",
             is_book: false,
@@ -195,7 +195,7 @@ var sdata = {
             title: "Visual C++ 5.0 Developer's Guide"
         },
         "cneuo_UAAAAJ:W7OEmFMy1HYC": {
-            citations: 13,
+            citations: 14,
             id: "cneuo_UAAAAJ:W7OEmFMy1HYC",
             impact_factor: "",
             is_book: false,
@@ -258,7 +258,7 @@ var sdata = {
             title: "Streaming video is overheating the planet: We can no longer ignore the carbon footprint resulting from the glut of streaming video"
         },
         "cneuo_UAAAAJ:Zph67rFs4hoC": {
-            citations: 154,
+            citations: 157,
             id: "cneuo_UAAAAJ:Zph67rFs4hoC",
             impact_factor: 6.776,
             is_book: false,
@@ -267,7 +267,7 @@ var sdata = {
             title: "Electricity, water, and natural gas consumption of a residential house in Canada from 2012 to 2014"
         },
         "cneuo_UAAAAJ:_FxGoFyzp5QC": {
-            citations: 17,
+            citations: 16,
             id: "cneuo_UAAAAJ:_FxGoFyzp5QC",
             impact_factor: "",
             is_book: false,
@@ -292,6 +292,15 @@ var sdata = {
             is_conference: false,
             is_journal: true,
             title: "Home Occupancy Agent: Occupancy and Sleep Detection"
+        },
+        "cneuo_UAAAAJ:dfsIfKJdRG4C": {
+            citations: 0,
+            id: "cneuo_UAAAAJ:dfsIfKJdRG4C",
+            impact_factor: "",
+            is_book: false,
+            is_conference: true,
+            is_journal: false,
+            title: "Acknowledgement to Reviewers of Data in 2019"
         },
         "cneuo_UAAAAJ:eQOLeE2rZwMC": {
             citations: 14,
@@ -330,7 +339,7 @@ var sdata = {
             title: "Mixed-Initiative for Big Data: The Intersection of Human + Visual Analytics + Prediction"
         },
         "cneuo_UAAAAJ:kNdYIx-mwKoC": {
-            citations: 232,
+            citations: 233,
             id: "cneuo_UAAAAJ:kNdYIx-mwKoC",
             impact_factor: 10.486,
             is_book: false,
@@ -339,7 +348,7 @@ var sdata = {
             title: "Exploiting HMM Sparsity to Perform Online Real-Time Nonintrusive Load Monitoring"
         },
         "cneuo_UAAAAJ:lSLTfruPkqcC": {
-            citations: 23,
+            citations: 22,
             id: "cneuo_UAAAAJ:lSLTfruPkqcC",
             impact_factor: "",
             is_book: false,
@@ -357,7 +366,7 @@ var sdata = {
             title: "RAE: The Rainforest Automation Energy Dataset for Smart Grid Meter Data Analysis"
         },
         "cneuo_UAAAAJ:ns9cj8rnVeAC": {
-            citations: 9,
+            citations: 8,
             id: "cneuo_UAAAAJ:ns9cj8rnVeAC",
             impact_factor: 4.098,
             is_book: false,
@@ -393,7 +402,7 @@ var sdata = {
             title: "An intelligent agent for determining home occupancy using power monitors and light sensors"
         },
         "cneuo_UAAAAJ:ufrVoPGSRksC": {
-            citations: 139,
+            citations: 142,
             id: "cneuo_UAAAAJ:ufrVoPGSRksC",
             impact_factor: 1.961,
             is_book: false,
@@ -411,7 +420,7 @@ var sdata = {
             title: "On metrics to assess the transferability of machine learning models in non-intrusive load monitoring"
         },
         "cneuo_UAAAAJ:zYLM7Y9cAGgC": {
-            citations: 294,
+            citations: 298,
             id: "cneuo_UAAAAJ:zYLM7Y9cAGgC",
             impact_factor: "",
             is_book: false,
