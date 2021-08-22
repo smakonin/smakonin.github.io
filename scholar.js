@@ -1,6 +1,6 @@
 var sdata = {
     agg: {
-        "Citations": 1556,
+        "Citations": 1557,
         "h-index": 19,
         "i10-index": 28
     },
@@ -114,7 +114,7 @@ var sdata = {
             title: "Investigating the performance gap between testing on real and denoised aggregates in non-intrusive load monitoring"
         },
         "cneuo_UAAAAJ:M3ejUd6NZC8C": {
-            citations: 0,
+            citations: 1,
             id: "cneuo_UAAAAJ:M3ejUd6NZC8C",
             impact_factor: "",
             is_book: false,
