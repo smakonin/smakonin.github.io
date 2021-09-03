@@ -1,6 +1,6 @@
 var sdata = {
     agg: {
-        "Citations": 1557,
+        "Citations": 1562,
         "h-index": 19,
         "i10-index": 28
     },
@@ -258,7 +258,7 @@ var sdata = {
             title: "Streaming video is overheating the planet: We can no longer ignore the carbon footprint resulting from the glut of streaming video"
         },
         "cneuo_UAAAAJ:Zph67rFs4hoC": {
-            citations: 167,
+            citations: 168,
             id: "cneuo_UAAAAJ:Zph67rFs4hoC",
             impact_factor: 6.776,
             is_book: false,
@@ -339,7 +339,7 @@ var sdata = {
             title: "Mixed-Initiative for Big Data: The Intersection of Human + Visual Analytics + Prediction"
         },
         "cneuo_UAAAAJ:kNdYIx-mwKoC": {
-            citations: 241,
+            citations: 242,
             id: "cneuo_UAAAAJ:kNdYIx-mwKoC",
             impact_factor: 10.486,
             is_book: false,
@@ -402,7 +402,7 @@ var sdata = {
             title: "An intelligent agent for determining home occupancy using power monitors and light sensors"
         },
         "cneuo_UAAAAJ:ufrVoPGSRksC": {
-            citations: 148,
+            citations: 149,
             id: "cneuo_UAAAAJ:ufrVoPGSRksC",
             impact_factor: 1.961,
             is_book: false,
@@ -420,7 +420,7 @@ var sdata = {
             title: "On metrics to assess the transferability of machine learning models in non-intrusive load monitoring"
         },
         "cneuo_UAAAAJ:zYLM7Y9cAGgC": {
-            citations: 302,
+            citations: 304,
             id: "cneuo_UAAAAJ:zYLM7Y9cAGgC",
             impact_factor: "",
             is_book: false,
