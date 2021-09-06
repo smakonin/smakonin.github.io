@@ -1,6 +1,6 @@
 var sdata = {
     agg: {
-        "Citations": 1562,
+        "Citations": 1566,
         "h-index": 19,
         "i10-index": 28
     },
@@ -222,7 +222,7 @@ var sdata = {
             title: "The cognitive power meter: Looking beyond the smart meter"
         },
         "cneuo_UAAAAJ:YFjsv_pBGBYC": {
-            citations: 23,
+            citations: 24,
             id: "cneuo_UAAAAJ:YFjsv_pBGBYC",
             impact_factor: 3.25,
             is_book: false,
@@ -366,7 +366,7 @@ var sdata = {
             title: "RAE: The Rainforest Automation Energy Dataset for Smart Grid Meter Data Analysis"
         },
         "cneuo_UAAAAJ:ns9cj8rnVeAC": {
-            citations: 10,
+            citations: 11,
             id: "cneuo_UAAAAJ:ns9cj8rnVeAC",
             impact_factor: 4.098,
             is_book: false,
@@ -393,7 +393,7 @@ var sdata = {
             title: "Elements of consumption: an abstract visualization of household consumption"
         },
         "cneuo_UAAAAJ:u5HHmVD_uO8C": {
-            citations: 13,
+            citations: 14,
             id: "cneuo_UAAAAJ:u5HHmVD_uO8C",
             impact_factor: "",
             is_book: false,
@@ -420,7 +420,7 @@ var sdata = {
             title: "On metrics to assess the transferability of machine learning models in non-intrusive load monitoring"
         },
         "cneuo_UAAAAJ:zYLM7Y9cAGgC": {
-            citations: 304,
+            citations: 305,
             id: "cneuo_UAAAAJ:zYLM7Y9cAGgC",
             impact_factor: "",
             is_book: false,
