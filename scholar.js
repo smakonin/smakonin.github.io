@@ -1,6 +1,6 @@
 var sdata = {
     agg: {
-        "Citations": 1577,
+        "Citations": 1590,
         "h-index": 19,
         "i10-index": 30
     },
@@ -87,7 +87,7 @@ var sdata = {
             title: "WaveNILM: A Causal Neural Network for Power Disaggregation from the Complex Power Signal"
         },
         "cneuo_UAAAAJ:HoB7MX3m0LUC": {
-            citations: 1,
+            citations: 2,
             id: "cneuo_UAAAAJ:HoB7MX3m0LUC",
             impact_factor: "",
             is_book: false,
@@ -105,7 +105,7 @@ var sdata = {
             title: "Transmitting Patient Vitals Over a Reliable ZigBee Mesh Network"
         },
         "cneuo_UAAAAJ:M05iB0D1s5AC": {
-            citations: 0,
+            citations: 1,
             id: "cneuo_UAAAAJ:M05iB0D1s5AC",
             impact_factor: "tbd",
             is_book: false,
@@ -123,7 +123,7 @@ var sdata = {
             title: "CarbonKit: Designing A Personal Carbon Tracking Platform"
         },
         "cneuo_UAAAAJ:NMxIlDl6LWMC": {
-            citations: 11,
+            citations: 12,
             id: "cneuo_UAAAAJ:NMxIlDl6LWMC",
             impact_factor: 1.43,
             is_book: false,
@@ -222,7 +222,7 @@ var sdata = {
             title: "The cognitive power meter: Looking beyond the smart meter"
         },
         "cneuo_UAAAAJ:YFjsv_pBGBYC": {
-            citations: 25,
+            citations: 26,
             id: "cneuo_UAAAAJ:YFjsv_pBGBYC",
             impact_factor: 3.25,
             is_book: false,
@@ -231,7 +231,7 @@ var sdata = {
             title: "Residential power forecasting using load identification and graph spectral clustering"
         },
         "cneuo_UAAAAJ:YOwf2qJgpHMC": {
-            citations: 10,
+            citations: 11,
             id: "cneuo_UAAAAJ:YOwf2qJgpHMC",
             impact_factor: "",
             is_book: true,
@@ -276,7 +276,7 @@ var sdata = {
             title: "Approaches to Non-Intrusive Load Monitoring (NILM) in the Home"
         },
         "cneuo_UAAAAJ:_kc_bZDykSQC": {
-            citations: 61,
+            citations: 62,
             id: "cneuo_UAAAAJ:_kc_bZDykSQC",
             impact_factor: 3.25,
             is_book: false,
@@ -339,7 +339,7 @@ var sdata = {
             title: "Mixed-Initiative for Big Data: The Intersection of Human + Visual Analytics + Prediction"
         },
         "cneuo_UAAAAJ:kNdYIx-mwKoC": {
-            citations: 244,
+            citations: 245,
             id: "cneuo_UAAAAJ:kNdYIx-mwKoC",
             impact_factor: 10.486,
             is_book: false,
@@ -357,7 +357,7 @@ var sdata = {
             title: "Towards Comparability in Non-Intrusive Load Monitoring: On Data and Performance Evaluation"
         },
         "cneuo_UAAAAJ:mVmsd5A6BfQC": {
-            citations: 43,
+            citations: 45,
             id: "cneuo_UAAAAJ:mVmsd5A6BfQC",
             impact_factor: "tbd",
             is_book: false,
@@ -402,7 +402,7 @@ var sdata = {
             title: "An intelligent agent for determining home occupancy using power monitors and light sensors"
         },
         "cneuo_UAAAAJ:ufrVoPGSRksC": {
-            citations: 150,
+            citations: 151,
             id: "cneuo_UAAAAJ:ufrVoPGSRksC",
             impact_factor: 1.961,
             is_book: false,
@@ -420,7 +420,7 @@ var sdata = {
             title: "On metrics to assess the transferability of machine learning models in non-intrusive load monitoring"
         },
         "cneuo_UAAAAJ:zYLM7Y9cAGgC": {
-            citations: 306,
+            citations: 309,
             id: "cneuo_UAAAAJ:zYLM7Y9cAGgC",
             impact_factor: "",
             is_book: false,
