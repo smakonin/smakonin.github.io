@@ -1,6 +1,6 @@
 var sdata = {
     agg: {
-        "Citations": 1590,
+        "Citations": 1602,
         "h-index": 19,
         "i10-index": 30
     },
@@ -204,7 +204,7 @@ var sdata = {
             title: "Inspiring energy conservation through open source metering hardware and embedded real-time load disaggregation"
         },
         "cneuo_UAAAAJ:WF5omc3nYNoC": {
-            citations: 32,
+            citations: 33,
             id: "cneuo_UAAAAJ:WF5omc3nYNoC",
             impact_factor: "",
             is_book: false,
@@ -231,7 +231,7 @@ var sdata = {
             title: "Residential power forecasting using load identification and graph spectral clustering"
         },
         "cneuo_UAAAAJ:YOwf2qJgpHMC": {
-            citations: 11,
+            citations: 12,
             id: "cneuo_UAAAAJ:YOwf2qJgpHMC",
             impact_factor: "",
             is_book: true,
@@ -240,7 +240,7 @@ var sdata = {
             title: "Start-Up Creation: The Smart Eco-efficient Built Environment"
         },
         "cneuo_UAAAAJ:YsMSGLbcyi4C": {
-            citations: 31,
+            citations: 32,
             id: "cneuo_UAAAAJ:YsMSGLbcyi4C",
             impact_factor: "",
             is_book: false,
@@ -258,7 +258,7 @@ var sdata = {
             title: "Streaming video is overheating the planet: We can no longer ignore the carbon footprint resulting from the glut of streaming video"
         },
         "cneuo_UAAAAJ:Zph67rFs4hoC": {
-            citations: 168,
+            citations: 169,
             id: "cneuo_UAAAAJ:Zph67rFs4hoC",
             impact_factor: 6.776,
             is_book: false,
@@ -321,7 +321,7 @@ var sdata = {
             title: "Exploring Bayesian Surprise to Prevent Overfitting and to Predict Model Performance in Non-Intrusive Load Monitoring"
         },
         "cneuo_UAAAAJ:hMod-77fHWUC": {
-            citations: 2,
+            citations: 4,
             id: "cneuo_UAAAAJ:hMod-77fHWUC",
             impact_factor: "",
             is_book: false,
@@ -339,7 +339,7 @@ var sdata = {
             title: "Mixed-Initiative for Big Data: The Intersection of Human + Visual Analytics + Prediction"
         },
         "cneuo_UAAAAJ:kNdYIx-mwKoC": {
-            citations: 245,
+            citations: 248,
             id: "cneuo_UAAAAJ:kNdYIx-mwKoC",
             impact_factor: 10.486,
             is_book: false,
@@ -375,7 +375,7 @@ var sdata = {
             title: "Performance evaluation of techniques for identifying abnormal energy consumption in buildings"
         },
         "cneuo_UAAAAJ:pqnbT2bcN3wC": {
-            citations: 2,
+            citations: 3,
             id: "cneuo_UAAAAJ:pqnbT2bcN3wC",
             impact_factor: "",
             is_book: false,
@@ -420,7 +420,7 @@ var sdata = {
             title: "On metrics to assess the transferability of machine learning models in non-intrusive load monitoring"
         },
         "cneuo_UAAAAJ:zYLM7Y9cAGgC": {
-            citations: 309,
+            citations: 311,
             id: "cneuo_UAAAAJ:zYLM7Y9cAGgC",
             impact_factor: "",
             is_book: false,
