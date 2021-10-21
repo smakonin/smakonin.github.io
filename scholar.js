@@ -1,6 +1,6 @@
 var sdata = {
     agg: {
-        "Citations": 1602,
+        "Citations": 1607,
         "h-index": 19,
         "i10-index": 30
     },
@@ -114,7 +114,7 @@ var sdata = {
             title: "Investigating the performance gap between testing on real and denoised aggregates in non-intrusive load monitoring"
         },
         "cneuo_UAAAAJ:M3ejUd6NZC8C": {
-            citations: 1,
+            citations: 2,
             id: "cneuo_UAAAAJ:M3ejUd6NZC8C",
             impact_factor: "",
             is_book: false,
@@ -222,7 +222,7 @@ var sdata = {
             title: "The cognitive power meter: Looking beyond the smart meter"
         },
         "cneuo_UAAAAJ:YFjsv_pBGBYC": {
-            citations: 26,
+            citations: 27,
             id: "cneuo_UAAAAJ:YFjsv_pBGBYC",
             impact_factor: 3.25,
             is_book: false,
@@ -339,7 +339,7 @@ var sdata = {
             title: "Mixed-Initiative for Big Data: The Intersection of Human + Visual Analytics + Prediction"
         },
         "cneuo_UAAAAJ:kNdYIx-mwKoC": {
-            citations: 248,
+            citations: 249,
             id: "cneuo_UAAAAJ:kNdYIx-mwKoC",
             impact_factor: 10.486,
             is_book: false,
@@ -420,7 +420,7 @@ var sdata = {
             title: "On metrics to assess the transferability of machine learning models in non-intrusive load monitoring"
         },
         "cneuo_UAAAAJ:zYLM7Y9cAGgC": {
-            citations: 311,
+            citations: 313,
             id: "cneuo_UAAAAJ:zYLM7Y9cAGgC",
             impact_factor: "",
             is_book: false,
