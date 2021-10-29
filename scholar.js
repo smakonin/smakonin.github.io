@@ -1,6 +1,6 @@
 var sdata = {
     agg: {
-        "Citations": 1607,
+        "Citations": 1617,
         "h-index": 19,
         "i10-index": 30
     },
@@ -76,6 +76,15 @@ var sdata = {
             is_conference: true,
             is_journal: false,
             title: "The Affect of Lifestyle Factors on Eco-Visualization Design"
+        },
+        "cneuo_UAAAAJ:D03iK_w7-QYC": {
+            citations: 2,
+            id: "cneuo_UAAAAJ:D03iK_w7-QYC",
+            impact_factor: "",
+            is_book: false,
+            is_conference: true,
+            is_journal: false,
+            title: "RAE: The Rainforest Automation Energy Dataset"
         },
         "cneuo_UAAAAJ:GnPB-g6toBAC": {
             citations: 53,
@@ -204,7 +213,7 @@ var sdata = {
             title: "Inspiring energy conservation through open source metering hardware and embedded real-time load disaggregation"
         },
         "cneuo_UAAAAJ:WF5omc3nYNoC": {
-            citations: 33,
+            citations: 34,
             id: "cneuo_UAAAAJ:WF5omc3nYNoC",
             impact_factor: "",
             is_book: false,
@@ -222,7 +231,7 @@ var sdata = {
             title: "The cognitive power meter: Looking beyond the smart meter"
         },
         "cneuo_UAAAAJ:YFjsv_pBGBYC": {
-            citations: 27,
+            citations: 28,
             id: "cneuo_UAAAAJ:YFjsv_pBGBYC",
             impact_factor: 3.25,
             is_book: false,
@@ -258,7 +267,7 @@ var sdata = {
             title: "Streaming video is overheating the planet: We can no longer ignore the carbon footprint resulting from the glut of streaming video"
         },
         "cneuo_UAAAAJ:Zph67rFs4hoC": {
-            citations: 169,
+            citations: 170,
             id: "cneuo_UAAAAJ:Zph67rFs4hoC",
             impact_factor: 6.776,
             is_book: false,
@@ -283,6 +292,24 @@ var sdata = {
             is_conference: false,
             is_journal: true,
             title: "Load Disaggregation Based on Aided Linear Integer Programming"
+        },
+        "cneuo_UAAAAJ:a0OBvERweLwC": {
+            citations: 10,
+            id: "cneuo_UAAAAJ:a0OBvERweLwC",
+            impact_factor: "",
+            is_book: false,
+            is_conference: true,
+            is_journal: false,
+            title: "AMPds2: Almanac of Minutely Power dataset (Version 2)"
+        },
+        "cneuo_UAAAAJ:cFHS6HbyZ2cC": {
+            citations: 0,
+            id: "cneuo_UAAAAJ:cFHS6HbyZ2cC",
+            impact_factor: "",
+            is_book: false,
+            is_conference: true,
+            is_journal: false,
+            title: "ODDs: Occupancy Detection Dataset"
         },
         "cneuo_UAAAAJ:d1gkVwhDpl0C": {
             citations: 11,
@@ -339,7 +366,7 @@ var sdata = {
             title: "Mixed-Initiative for Big Data: The Intersection of Human + Visual Analytics + Prediction"
         },
         "cneuo_UAAAAJ:kNdYIx-mwKoC": {
-            citations: 249,
+            citations: 250,
             id: "cneuo_UAAAAJ:kNdYIx-mwKoC",
             impact_factor: 10.486,
             is_book: false,
@@ -383,6 +410,15 @@ var sdata = {
             is_journal: false,
             title: "Stop! Exploring Bayesian Surprise to Better Train NILM"
         },
+        "cneuo_UAAAAJ:pyW8ca7W8N0C": {
+            citations: 12,
+            id: "cneuo_UAAAAJ:pyW8ca7W8N0C",
+            impact_factor: "",
+            is_book: false,
+            is_conference: true,
+            is_journal: false,
+            title: "HUE: The Hourly Usage of Energy Dataset for Buildings in British Columbia"
+        },
         "cneuo_UAAAAJ:u-x6o8ySG0sC": {
             citations: 16,
             id: "cneuo_UAAAAJ:u-x6o8ySG0sC",
@@ -418,6 +454,15 @@ var sdata = {
             is_conference: true,
             is_journal: false,
             title: "On metrics to assess the transferability of machine learning models in non-intrusive load monitoring"
+        },
+        "cneuo_UAAAAJ:yD5IFk8b50cC": {
+            citations: 4,
+            id: "cneuo_UAAAAJ:yD5IFk8b50cC",
+            impact_factor: "",
+            is_book: false,
+            is_conference: true,
+            is_journal: false,
+            title: "AMPd\u2019s: Almanac of Minutely Power dataset (R2013)"
         },
         "cneuo_UAAAAJ:zYLM7Y9cAGgC": {
             citations: 313,
