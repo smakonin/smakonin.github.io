@@ -1,6 +1,6 @@
 var sdata = {
     agg: {
-        "Citations": 1617,
+        "Citations": 1623,
         "h-index": 19,
         "i10-index": 30
     },
@@ -24,7 +24,7 @@ var sdata = {
             title: "Residential Power Forecasting Based on Affinity Aggregation Spectral Clustering"
         },
         "cneuo_UAAAAJ:2osOgNQ5qMEC": {
-            citations: 71,
+            citations: 72,
             id: "cneuo_UAAAAJ:2osOgNQ5qMEC",
             impact_factor: 3.022,
             is_book: false,
@@ -186,7 +186,7 @@ var sdata = {
             title: "Inspiring energy conservation through open source power monitoring and in-home display"
         },
         "cneuo_UAAAAJ:ULOm3_A8WrAC": {
-            citations: 25,
+            citations: 26,
             id: "cneuo_UAAAAJ:ULOm3_A8WrAC",
             impact_factor: "",
             is_book: false,
@@ -276,7 +276,7 @@ var sdata = {
             title: "Electricity, water, and natural gas consumption of a residential house in Canada from 2012 to 2014"
         },
         "cneuo_UAAAAJ:_FxGoFyzp5QC": {
-            citations: 16,
+            citations: 17,
             id: "cneuo_UAAAAJ:_FxGoFyzp5QC",
             impact_factor: "",
             is_book: false,
@@ -292,15 +292,6 @@ var sdata = {
             is_conference: false,
             is_journal: true,
             title: "Load Disaggregation Based on Aided Linear Integer Programming"
-        },
-        "cneuo_UAAAAJ:a0OBvERweLwC": {
-            citations: 10,
-            id: "cneuo_UAAAAJ:a0OBvERweLwC",
-            impact_factor: "",
-            is_book: false,
-            is_conference: true,
-            is_journal: false,
-            title: "AMPds2: Almanac of Minutely Power dataset (Version 2)"
         },
         "cneuo_UAAAAJ:cFHS6HbyZ2cC": {
             citations: 0,
@@ -366,7 +357,7 @@ var sdata = {
             title: "Mixed-Initiative for Big Data: The Intersection of Human + Visual Analytics + Prediction"
         },
         "cneuo_UAAAAJ:kNdYIx-mwKoC": {
-            citations: 250,
+            citations: 252,
             id: "cneuo_UAAAAJ:kNdYIx-mwKoC",
             impact_factor: 10.486,
             is_book: false,
@@ -375,7 +366,7 @@ var sdata = {
             title: "Exploiting HMM Sparsity to Perform Online Real-Time Nonintrusive Load Monitoring"
         },
         "cneuo_UAAAAJ:lSLTfruPkqcC": {
-            citations: 23,
+            citations: 24,
             id: "cneuo_UAAAAJ:lSLTfruPkqcC",
             impact_factor: "",
             is_book: false,
@@ -462,7 +453,7 @@ var sdata = {
             is_book: false,
             is_conference: true,
             is_journal: false,
-            title: "AMPd\u2019s: Almanac of Minutely Power dataset (R2013)"
+            title: "AMPds: Almanac of Minutely Power dataset (R2013)"
         },
         "cneuo_UAAAAJ:zYLM7Y9cAGgC": {
             citations: 313,
