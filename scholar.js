@@ -1,8 +1,8 @@
 var sdata = {
     agg: {
-        "Citations": 1623,
+        "Citations": 1627,
         "h-index": 19,
-        "i10-index": 30
+        "i10-index": 31
     },
     papers: {
         "cneuo_UAAAAJ:0EnyYjriUFMC": {
@@ -78,7 +78,7 @@ var sdata = {
             title: "The Affect of Lifestyle Factors on Eco-Visualization Design"
         },
         "cneuo_UAAAAJ:D03iK_w7-QYC": {
-            citations: 2,
+            citations: 3,
             id: "cneuo_UAAAAJ:D03iK_w7-QYC",
             impact_factor: "",
             is_book: false,
@@ -132,7 +132,7 @@ var sdata = {
             title: "CarbonKit: Designing A Personal Carbon Tracking Platform"
         },
         "cneuo_UAAAAJ:NMxIlDl6LWMC": {
-            citations: 12,
+            citations: 13,
             id: "cneuo_UAAAAJ:NMxIlDl6LWMC",
             impact_factor: 1.43,
             is_book: false,
@@ -150,7 +150,7 @@ var sdata = {
             title: "Electricity consumption data sets: Pitfalls and opportunities"
         },
         "cneuo_UAAAAJ:RGFaLdJalmkC": {
-            citations: 9,
+            citations: 10,
             id: "cneuo_UAAAAJ:RGFaLdJalmkC",
             impact_factor: "",
             is_book: false,
@@ -402,7 +402,7 @@ var sdata = {
             title: "Stop! Exploring Bayesian Surprise to Better Train NILM"
         },
         "cneuo_UAAAAJ:pyW8ca7W8N0C": {
-            citations: 12,
+            citations: 13,
             id: "cneuo_UAAAAJ:pyW8ca7W8N0C",
             impact_factor: "",
             is_book: false,
@@ -456,7 +456,7 @@ var sdata = {
             title: "AMPds: Almanac of Minutely Power dataset (R2013)"
         },
         "cneuo_UAAAAJ:zYLM7Y9cAGgC": {
-            citations: 313,
+            citations: 314,
             id: "cneuo_UAAAAJ:zYLM7Y9cAGgC",
             impact_factor: "",
             is_book: false,
