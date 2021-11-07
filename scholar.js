@@ -1,6 +1,6 @@
 var sdata = {
     agg: {
-        "Citations": 1627,
+        "Citations": 1632,
         "h-index": 19,
         "i10-index": 31
     },
@@ -15,7 +15,7 @@ var sdata = {
             title: "Appliance Water Disaggregation via Non-Intrusive Load Monitoring (NILM)"
         },
         "cneuo_UAAAAJ:2P1L_qKh6hAC": {
-            citations: 4,
+            citations: 5,
             id: "cneuo_UAAAAJ:2P1L_qKh6hAC",
             impact_factor: 4.098,
             is_book: false,
@@ -285,7 +285,7 @@ var sdata = {
             title: "Approaches to Non-Intrusive Load Monitoring (NILM) in the Home"
         },
         "cneuo_UAAAAJ:_kc_bZDykSQC": {
-            citations: 62,
+            citations: 63,
             id: "cneuo_UAAAAJ:_kc_bZDykSQC",
             impact_factor: 3.25,
             is_book: false,
@@ -366,7 +366,7 @@ var sdata = {
             title: "Exploiting HMM Sparsity to Perform Online Real-Time Nonintrusive Load Monitoring"
         },
         "cneuo_UAAAAJ:lSLTfruPkqcC": {
-            citations: 24,
+            citations: 26,
             id: "cneuo_UAAAAJ:lSLTfruPkqcC",
             impact_factor: "",
             is_book: false,
@@ -438,7 +438,7 @@ var sdata = {
             title: "Nonintrusive load monitoring (NILM) performance evaluation"
         },
         "cneuo_UAAAAJ:vV6vV6tmYwMC": {
-            citations: 4,
+            citations: 5,
             id: "cneuo_UAAAAJ:vV6vV6tmYwMC",
             impact_factor: "",
             is_book: false,
