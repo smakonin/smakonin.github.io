@@ -1,6 +1,6 @@
 var sdata = {
     agg: {
-        "Citations": 1632,
+        "Citations": 1646,
         "h-index": 19,
         "i10-index": 31
     },
@@ -15,7 +15,7 @@ var sdata = {
             title: "Appliance Water Disaggregation via Non-Intrusive Load Monitoring (NILM)"
         },
         "cneuo_UAAAAJ:2P1L_qKh6hAC": {
-            citations: 5,
+            citations: 6,
             id: "cneuo_UAAAAJ:2P1L_qKh6hAC",
             impact_factor: 4.098,
             is_book: false,
@@ -51,7 +51,7 @@ var sdata = {
             title: "Short-Term Demand Prediction Using an Ensemble of Linearly-Constrained Estimators"
         },
         "cneuo_UAAAAJ:4OULZ7Gr8RgC": {
-            citations: 2,
+            citations: 4,
             id: "cneuo_UAAAAJ:4OULZ7Gr8RgC",
             impact_factor: 10.486,
             is_book: false,
@@ -231,7 +231,7 @@ var sdata = {
             title: "The cognitive power meter: Looking beyond the smart meter"
         },
         "cneuo_UAAAAJ:YFjsv_pBGBYC": {
-            citations: 28,
+            citations: 29,
             id: "cneuo_UAAAAJ:YFjsv_pBGBYC",
             impact_factor: 3.25,
             is_book: false,
@@ -240,7 +240,7 @@ var sdata = {
             title: "Residential power forecasting using load identification and graph spectral clustering"
         },
         "cneuo_UAAAAJ:YOwf2qJgpHMC": {
-            citations: 12,
+            citations: 13,
             id: "cneuo_UAAAAJ:YOwf2qJgpHMC",
             impact_factor: "",
             is_book: true,
@@ -285,7 +285,7 @@ var sdata = {
             title: "Approaches to Non-Intrusive Load Monitoring (NILM) in the Home"
         },
         "cneuo_UAAAAJ:_kc_bZDykSQC": {
-            citations: 63,
+            citations: 64,
             id: "cneuo_UAAAAJ:_kc_bZDykSQC",
             impact_factor: 3.25,
             is_book: false,
@@ -357,7 +357,7 @@ var sdata = {
             title: "Mixed-Initiative for Big Data: The Intersection of Human + Visual Analytics + Prediction"
         },
         "cneuo_UAAAAJ:kNdYIx-mwKoC": {
-            citations: 252,
+            citations: 255,
             id: "cneuo_UAAAAJ:kNdYIx-mwKoC",
             impact_factor: 10.486,
             is_book: false,
@@ -375,7 +375,7 @@ var sdata = {
             title: "Towards Comparability in Non-Intrusive Load Monitoring: On Data and Performance Evaluation"
         },
         "cneuo_UAAAAJ:mVmsd5A6BfQC": {
-            citations: 45,
+            citations: 46,
             id: "cneuo_UAAAAJ:mVmsd5A6BfQC",
             impact_factor: "tbd",
             is_book: false,
@@ -384,7 +384,7 @@ var sdata = {
             title: "RAE: The Rainforest Automation Energy Dataset for Smart Grid Meter Data Analysis"
         },
         "cneuo_UAAAAJ:ns9cj8rnVeAC": {
-            citations: 11,
+            citations: 13,
             id: "cneuo_UAAAAJ:ns9cj8rnVeAC",
             impact_factor: 4.098,
             is_book: false,
@@ -400,15 +400,6 @@ var sdata = {
             is_conference: true,
             is_journal: false,
             title: "Stop! Exploring Bayesian Surprise to Better Train NILM"
-        },
-        "cneuo_UAAAAJ:pyW8ca7W8N0C": {
-            citations: 13,
-            id: "cneuo_UAAAAJ:pyW8ca7W8N0C",
-            impact_factor: "",
-            is_book: false,
-            is_conference: true,
-            is_journal: false,
-            title: "HUE: The Hourly Usage of Energy Dataset for Buildings in British Columbia"
         },
         "cneuo_UAAAAJ:u-x6o8ySG0sC": {
             citations: 16,
@@ -429,7 +420,7 @@ var sdata = {
             title: "An intelligent agent for determining home occupancy using power monitors and light sensors"
         },
         "cneuo_UAAAAJ:ufrVoPGSRksC": {
-            citations: 151,
+            citations: 153,
             id: "cneuo_UAAAAJ:ufrVoPGSRksC",
             impact_factor: 1.961,
             is_book: false,
