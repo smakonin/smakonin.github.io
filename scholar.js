@@ -1,6 +1,6 @@
 var sdata = {
     agg: {
-        "Citations": 1666,
+        "Citations": 1676,
         "h-index": 19,
         "i10-index": 31
     },
@@ -87,7 +87,7 @@ var sdata = {
             title: "RAE: The Rainforest Automation Energy Dataset"
         },
         "cneuo_UAAAAJ:GnPB-g6toBAC": {
-            citations: 54,
+            citations: 56,
             id: "cneuo_UAAAAJ:GnPB-g6toBAC",
             impact_factor: "",
             is_book: false,
@@ -132,7 +132,7 @@ var sdata = {
             title: "CarbonKit: Designing A Personal Carbon Tracking Platform"
         },
         "cneuo_UAAAAJ:NMxIlDl6LWMC": {
-            citations: 14,
+            citations: 15,
             id: "cneuo_UAAAAJ:NMxIlDl6LWMC",
             impact_factor: 1.43,
             is_book: false,
@@ -231,7 +231,7 @@ var sdata = {
             title: "The cognitive power meter: Looking beyond the smart meter"
         },
         "cneuo_UAAAAJ:YFjsv_pBGBYC": {
-            citations: 30,
+            citations: 31,
             id: "cneuo_UAAAAJ:YFjsv_pBGBYC",
             impact_factor: 3.25,
             is_book: false,
@@ -267,7 +267,7 @@ var sdata = {
             title: "Streaming video is overheating the planet: We can no longer ignore the carbon footprint resulting from the glut of streaming video"
         },
         "cneuo_UAAAAJ:Zph67rFs4hoC": {
-            citations: 170,
+            citations: 172,
             id: "cneuo_UAAAAJ:Zph67rFs4hoC",
             impact_factor: 6.776,
             is_book: false,
@@ -285,7 +285,7 @@ var sdata = {
             title: "Approaches to Non-Intrusive Load Monitoring (NILM) in the Home"
         },
         "cneuo_UAAAAJ:_kc_bZDykSQC": {
-            citations: 67,
+            citations: 68,
             id: "cneuo_UAAAAJ:_kc_bZDykSQC",
             impact_factor: 3.25,
             is_book: false,
@@ -329,6 +329,15 @@ var sdata = {
             is_journal: false,
             title: "A consumer bill of rights for energy conservation"
         },
+        "cneuo_UAAAAJ:f2IySw72cVMC": {
+            citations: 0,
+            id: "cneuo_UAAAAJ:f2IySw72cVMC",
+            impact_factor: 4.098,
+            is_book: false,
+            is_conference: false,
+            is_journal: true,
+            title: "A Nonintrusive Load Monitoring Based on Multi-Target Regression Approach"
+        },
         "cneuo_UAAAAJ:g5m5HwL7SMYC": {
             citations: 1,
             id: "cneuo_UAAAAJ:g5m5HwL7SMYC",
@@ -348,7 +357,7 @@ var sdata = {
             title: "A Recurrent Neural Network for Multisensory Non-Intrusive Load Monitoring on a Raspberry Pi"
         },
         "cneuo_UAAAAJ:hqOjcs7Dif8C": {
-            citations: 27,
+            citations: 28,
             id: "cneuo_UAAAAJ:hqOjcs7Dif8C",
             impact_factor: "",
             is_book: false,
@@ -357,7 +366,7 @@ var sdata = {
             title: "Mixed-Initiative for Big Data: The Intersection of Human + Visual Analytics + Prediction"
         },
         "cneuo_UAAAAJ:kNdYIx-mwKoC": {
-            citations: 255,
+            citations: 257,
             id: "cneuo_UAAAAJ:kNdYIx-mwKoC",
             impact_factor: 10.486,
             is_book: false,
