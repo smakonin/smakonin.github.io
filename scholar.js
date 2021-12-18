@@ -1,6 +1,6 @@
 var sdata = {
     agg: {
-        "Citations": 1676,
+        "Citations": 1685,
         "h-index": 19,
         "i10-index": 31
     },
@@ -51,7 +51,7 @@ var sdata = {
             title: "Short-Term Demand Prediction Using an Ensemble of Linearly-Constrained Estimators"
         },
         "cneuo_UAAAAJ:4OULZ7Gr8RgC": {
-            citations: 4,
+            citations: 5,
             id: "cneuo_UAAAAJ:4OULZ7Gr8RgC",
             impact_factor: 10.486,
             is_book: false,
@@ -159,7 +159,7 @@ var sdata = {
             title: "Universal Non-Intrusive Load Monitoring (UNILM) Using Filter Pipelines, Probabilistic Knapsack, and Labelled Partition Maps"
         },
         "cneuo_UAAAAJ:RYcK_YlVTxYC": {
-            citations: 4,
+            citations: 5,
             id: "cneuo_UAAAAJ:RYcK_YlVTxYC",
             impact_factor: "",
             is_book: false,
@@ -267,7 +267,7 @@ var sdata = {
             title: "Streaming video is overheating the planet: We can no longer ignore the carbon footprint resulting from the glut of streaming video"
         },
         "cneuo_UAAAAJ:Zph67rFs4hoC": {
-            citations: 172,
+            citations: 173,
             id: "cneuo_UAAAAJ:Zph67rFs4hoC",
             impact_factor: 6.776,
             is_book: false,
@@ -294,7 +294,7 @@ var sdata = {
             title: "Load Disaggregation Based on Aided Linear Integer Programming"
         },
         "cneuo_UAAAAJ:cFHS6HbyZ2cC": {
-            citations: 0,
+            citations: 1,
             id: "cneuo_UAAAAJ:cFHS6HbyZ2cC",
             impact_factor: "",
             is_book: false,
@@ -366,7 +366,7 @@ var sdata = {
             title: "Mixed-Initiative for Big Data: The Intersection of Human + Visual Analytics + Prediction"
         },
         "cneuo_UAAAAJ:kNdYIx-mwKoC": {
-            citations: 257,
+            citations: 258,
             id: "cneuo_UAAAAJ:kNdYIx-mwKoC",
             impact_factor: 10.486,
             is_book: false,
@@ -393,7 +393,7 @@ var sdata = {
             title: "RAE: The Rainforest Automation Energy Dataset for Smart Grid Meter Data Analysis"
         },
         "cneuo_UAAAAJ:ns9cj8rnVeAC": {
-            citations: 14,
+            citations: 17,
             id: "cneuo_UAAAAJ:ns9cj8rnVeAC",
             impact_factor: 4.098,
             is_book: false,
@@ -456,7 +456,7 @@ var sdata = {
             title: "AMPds: Almanac of Minutely Power dataset (R2013)"
         },
         "cneuo_UAAAAJ:zYLM7Y9cAGgC": {
-            citations: 318,
+            citations: 319,
             id: "cneuo_UAAAAJ:zYLM7Y9cAGgC",
             impact_factor: "",
             is_book: false,
