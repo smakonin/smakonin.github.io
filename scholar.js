@@ -1,6 +1,6 @@
 var sdata = {
     agg: {
-        "Citations": 1886,
+        "Citations": 1892,
         "h-index": 20,
         "i10-index": 33
     },
@@ -141,7 +141,7 @@ var sdata = {
             title: "CarbonKit: Designing A Personal Carbon Tracking Platform"
         },
         "cneuo_UAAAAJ:NMxIlDl6LWMC": {
-            citations: 19,
+            citations: 20,
             id: "cneuo_UAAAAJ:NMxIlDl6LWMC",
             impact_factor: 1.7,
             is_book: false,
@@ -240,7 +240,7 @@ var sdata = {
             title: "The cognitive power meter: Looking beyond the smart meter"
         },
         "cneuo_UAAAAJ:YFjsv_pBGBYC": {
-            citations: 37,
+            citations: 38,
             id: "cneuo_UAAAAJ:YFjsv_pBGBYC",
             impact_factor: 3.292,
             is_book: false,
@@ -276,7 +276,7 @@ var sdata = {
             title: "Streaming video is overheating the planet: We can no longer ignore the carbon footprint resulting from the glut of streaming video"
         },
         "cneuo_UAAAAJ:Zph67rFs4hoC": {
-            citations: 193,
+            citations: 194,
             id: "cneuo_UAAAAJ:Zph67rFs4hoC",
             impact_factor: 6.444,
             is_book: false,
@@ -294,7 +294,7 @@ var sdata = {
             title: "Approaches to Non-Intrusive Load Monitoring (NILM) in the Home"
         },
         "cneuo_UAAAAJ:_kc_bZDykSQC": {
-            citations: 78,
+            citations: 79,
             id: "cneuo_UAAAAJ:_kc_bZDykSQC",
             impact_factor: 3.292,
             is_book: false,
@@ -310,6 +310,15 @@ var sdata = {
             is_conference: false,
             is_journal: true,
             title: "Day-Ahead Electricity Demand Forecasting Competition: Post-COVID Paradigm"
+        },
+        "cneuo_UAAAAJ:b0M2c_1WBrUC": {
+            citations: 0,
+            id: "cneuo_UAAAAJ:b0M2c_1WBrUC",
+            impact_factor: "",
+            is_book: false,
+            is_conference: true,
+            is_journal: false,
+            title: "Journal: Proceedings of the 5th International Workshop on Non-Intrusive Load Monitoring, 2020"
         },
         "cneuo_UAAAAJ:cFHS6HbyZ2cC": {
             citations: 3,
@@ -384,7 +393,7 @@ var sdata = {
             title: "Mixed-Initiative for Big Data: The Intersection of Human + Visual Analytics + Prediction"
         },
         "cneuo_UAAAAJ:kNdYIx-mwKoC": {
-            citations: 289,
+            citations: 291,
             id: "cneuo_UAAAAJ:kNdYIx-mwKoC",
             impact_factor: 8.96,
             is_book: false,
