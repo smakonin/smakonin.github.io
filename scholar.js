@@ -1,8 +1,8 @@
 var sdata = {
     agg: {
-        "Citations": 1892,
+        "Citations": 1893,
         "h-index": 20,
-        "i10-index": 33
+        "i10-index": 34
     },
     papers: {
         "cneuo_UAAAAJ:0EnyYjriUFMC": {
@@ -51,7 +51,7 @@ var sdata = {
             title: "Short-Term Demand Prediction Using an Ensemble of Linearly-Constrained Estimators"
         },
         "cneuo_UAAAAJ:4OULZ7Gr8RgC": {
-            citations: 9,
+            citations: 10,
             id: "cneuo_UAAAAJ:4OULZ7Gr8RgC",
             impact_factor: 8.96,
             is_book: false,
