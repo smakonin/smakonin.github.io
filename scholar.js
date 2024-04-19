@@ -1,6 +1,6 @@
 var sdata = {
     agg: {
-        "Citations": 2752,
+        "Citations": 2753,
         "h-index": 23,
         "i10-index": 38
     },
@@ -393,7 +393,7 @@ var sdata = {
             title: "A nonintrusive load monitoring based on multi-target regression approach"
         },
         "cneuo_UAAAAJ:g5m5HwL7SMYC": {
-            citations: 5,
+            citations: 6,
             id: "cneuo_UAAAAJ:g5m5HwL7SMYC",
             impact_factor: "",
             is_book: false,
