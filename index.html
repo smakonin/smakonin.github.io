@@ -1,850 +1,269 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
-    <head>
-        <title>Dr. Stephen Makonin</title>
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="description" content="Prof. Stephen Makonin, PEng — researcher, professional engineer, editor, and data-systems leader working in energy intelligence, digital supply chains, open data, and applied AI." />
+  <title>Prof. Stephen Makonin, PEng</title>
+  <link rel="icon" href="favicon.ico" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
 
-        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <meta name="author" content="Stephen Makonin">
-        <meta name="copyright" content="Stephen Makonin">
-        <meta name="description" content="Stephen Makonin is a data scientist and a computational sustainability researcher." />
-        <meta name="keywords" content="data science, computational sustainability, load disaggregation, nonintrusive load monitoring, NILM" />
+  <header class="site-header">
+    <nav class="nav container" aria-label="Primary navigation">
+      <a class="brand" href="#top" aria-label="Stephen Makonin home">
+        <img class="brand-photo" src="images/stephen-makonin.jpg" alt="Stephen Makonin" />
+        <span class="brand-text">Prof. Stephen Makonin, PEng</span>
+      </a>
+      <div class="nav-links">
+        <a href="#research">Research</a>
+        <a href="#publications">Publications</a>
+        <a href="#datasets">Datasets</a>
+        <a href="#leadership">Leadership</a>
+        <a href="#contact">Contact</a>
+      </div>
+    </nav>
+  </header>
 
-        <link rel="shortcut icon" href="favicon.ico">
-        <link href="fonts/open-sans.css" rel="stylesheet" type='text/css'>
-        <link href="style.css" rel="stylesheet" type='text/css'>
-
-        <script src="https://kit.fontawesome.com/fde4f8b76d.js" crossorigin="anonymous"></script>
-        <script src="jquery-3.3.1.min.js"></script>
-        <script src="scholar.js"></script>
-        <script>
-            function meta(id)
-            {
-                if (typeof sdata === 'undefined')
-                    return '';
-
-                var html = '';
-                var paper = sdata.papers[id];
-
-                if(paper.is_book)
-                {
-                    html += '<span class="label-journal">Book</span>\n';
-                }
-                else if(paper.is_journal)
-                {
-                    html += '<span class="label-journal">Journal IF ' + paper.impact_factor + '</span>\n';
-                }
-
-                if(paper.citations > 0)
-                {
-                    html += '<span class="label-open">Cited ' + paper.citations + '</span>\n';
-                }
-
-                return html;
-            }
-
-            function totals()
-            {
-                if (typeof sdata === 'undefined')
-                    return '';
-
-                var html = '';
-
-                html += '<span class="label-open">Citations ' + sdata.agg['Citations'] + '</span>\n';
-                html += '<span class="label-open">h-index ' + sdata.agg['h-index'] + '</span>\n';
-                html += '<span class="label-open">i10-index ' + sdata.agg['i10-index'] + '</span>\n';
-
-                return html;
-            }
-        </script>
-    </head>
-    <body>
-        <div class="sidebar">
-            <div class="portrate"></div>
-            <h1>Dr. Stephen Makonin</h1>
-            <h1 style='padding-top:0;'>(駿豪 / 骏豪 / 준호)</h1>
-            Ph.D. in Computing Science<br/>
-            P.Eng., EGBC<br/>
-            Senior Member, IEEE<br/>
-            <br/>
-            Adjunct Professor<br/>
-            Engineering Science, SFU<br/>
-            <br/>
-            Head Instructor<br/>
-            SFU's Big Data Hub<br/>
-
-
-            <p class="contact">
-                <strong>CONTACT INFO</strong><br/>
-                <strong><i class="fa fa-envelope"></i>&nbsp;&nbsp;</strong><span>smakonin&commat;sfu&period;ca</span><br/>
-
-                <br/>
-                <strong>DOSSIER</strong><br/>
-
-                <!--<strong><i class="fa fa-download"></i>&nbsp;&nbsp;</strong>
-                <span><a href="doc/SMakonin_CV.pdf">Curriculum Vit&aelig;</a></span><br/>-->
-
-                <img src="images/orcid.png" style="width:12px;height:12px;"/>&nbsp;&nbsp;
-                <span><a href="http://orcid.org/0000-0002-7818-8301">0000-0002-7818-8301</a></span><br/>
-
-                <strong><i class="fa fa-google"></i>&nbsp;&nbsp;</strong>
-                <span><a href="https://scholar.google.ca/citations?user=cneuo_UAAAAJ&hl=en">Google Scholar</a></span><br/>
-
-                <strong><i class="fa fa-leaf"></i>&nbsp;&nbsp;</strong>
-                <span><a href="http://compsust.fas.sfu.ca">CompSust Lab</a></span><br/>
-
-                <strong><i class="fa fa-github"></i>&nbsp;&nbsp;</strong>
-                <span><a href="https://github.com/smakonin">GitHub</a></span><br/>
-
-                <strong><i class="fa fa-linkedin-square"></i>&nbsp;&nbsp;</strong>
-                <span><a href="https://www.linkedin.com/in/smakonin">LinkedIn</a></span><br/>
-
-            </p>
-
-            <div class="copyright">&copy; 2015-2021 Stephen Makonin</div>
+  <main id="main">
+    <section id="top" class="hero section-pad">
+      <div class="container hero-grid">
+        <div class="hero-copy">
+          <p class="eyebrow">Energy Intelligence · Digital Supply Chains · Open Data · Applied AI</p>
+          <h1>Prof. Stephen Makonin, PEng</h1>
+          <p class="lede">
+            Researcher, professional engineer, editor, and data-systems leader building practical AI and data infrastructure for energy, digital supply chains, sustainability, and reproducible science.
+          </p>
+          <div class="hero-actions" aria-label="Key links">
+            <a class="button primary" href="#publications">View publications</a>
+            <a class="button" href="https://scholar.google.ca/citations?user=X75SjF8AAAAJ" rel="me">Google Scholar</a>
+            <a class="button" href="https://github.com/smakonin" rel="me">GitHub</a>
+          </div>
         </div>
 
-        <div class="content">
-            <!--<p class="announce">
-            I am on the job market looking for university research faculty opportunities. <a href="doc/SMakonin_CV.pdf">View my CV</a>.
-        </p>-->
-
-            <h1 id="bio">Biography</h1>
-
+        <aside class="profile-card" aria-label="Profile summary">
+          <div class="profile-visual">
+            <img src="images/stephen-makonin.jpg" alt="Stephen Makonin" class="profile-photo" onerror="this.style.display='none'; this.nextElementSibling.style.display='grid';" />
+            <div class="profile-fallback" aria-hidden="true">SM</div>
+          </div>
+          <div class="profile-card-body">
+            <h2>Current focus</h2>
             <p>
-                Dr. Makonin received a Ph.D. degree in computing science from Simon Fraser University (SFU), Burnaby, Canada, in 2014. He is an Adjunct Professor in the School of Engineering Science and the Principal Investigator of the Computational Sustainability Lab at Simon Fraser University (SFU). He also has the position of Head Instructor at SFU’s Big Data Hub, where he teaches data science and machine learning courses. He is a registered Professional Engineering (P.Eng.) with EGBC and has been a software engineer for over 25 years. Stephen is a Senior Member of the IEEE. He currently sits on the IEEE DataPort Advisory Committee, serves as the Editor in Chief of the IEEE DataPort Metadata Review Board, and serves as an Editorial Board Member of Nature’s Scientific Data journal. Additionally, he is the Vice-Chair of the Big Data Governance and Metadata Management (BDGMM, P2957).
+              Adjunct Professor at Simon Fraser University and researcher working across energy analytics, NILM, digital supply-chain intelligence, public datasets, AI governance, and brain-signal modelling.
             </p>
-
-            <h1 id="pub">Publications (Peer-Reviewed)
-                <span>
-                    <script>document.write(totals());</script>
-                    <span style="font-size:0.6em;">[Citation data from <a href="https://scholar.google.ca/citations?user=cneuo_UAAAAJ&hl=en">Google Scholar</a>]</span>
-                    <!--<span style="font-size:0.6em;">[Download the <a href="publications.bib">BibTeX file</a>]</span>-->
-                </span>
-            </h1>
-
-            <h2>Power/Energy Engineering & Smart Grid</h2>
-            <ol>
-
-                <li>
-                    Bundit Buddhahai, <strong>Stephen Makonin</strong>.<br/>
-                    <a href="doc/Access_9(3133292).pdf">A Nonintrusive Load Monitoring Based on Multi-Target Regression Approach</a>.<br/>
-                    IEEE Access, vol. 9, pp. 163033-163042 (2021).
-                    <script>document.write(meta('cneuo_UAAAAJ:f2IySw72cVMC'));</script>
-                    <a href="https://doi.org/10.1109/ACCESS.2021.3133292"><i class="icon-link"></i></a>
-                </li>
-
-                <li>
-                    Alon Harell, Richard Jones, <strong>Stephen Makonin</strong>, Ivan V. Bajic.<br/>
-                    <a href="doc/TSG_12(5).pdf">TraceGAN: Synthesizing Appliance Power Signatures Using Generative Adversarial Networks</a>.<br/>
-                    IEEE Transactions on Smart Grid, vol. 12, no. 5, pp. 4553-4563 (2021).
-                    <script>document.write(meta('cneuo_UAAAAJ:4OULZ7Gr8RgC'));</script>
-                    <a href="https://doi.org/10.1109/TSG.2021.3078695"><i class="icon-link"></i></a>
-                </li>
-
-                <li>
-                    Md. Zulfiquar Ali Bhotto, Richard Jones, <strong>Stephen Makonin</strong>, Ivan V. Bajic.<br/>
-                    <a href="doc/TPWRS_36(4).pdf">Short-Term Demand Prediction Using an Ensemble of Linearly-Constrained Estimators</a>.<br/>
-                    IEEE Transactions on Power Systems, vol. 36, no. 4, pp. 3163-3175 (2021).
-                    <script>document.write(meta('cneuo_UAAAAJ:3s1wT3WcHBgC'));</script>
-                    <a href="https://doi-org.proxy.lib.sfu.ca/10.1109/TPWRS.2021.3050150"><i class="icon-link"></i></a>
-                </li>
-
-                <li>
-                    Christoph Klemenjak, <strong>Stephen Makonin</strong>, Wilfried Elmenreich.<br/>
-                    <a href="doc/EngInfo_4(3).pdf">Investigating the performance gap between testing on real and denoised aggregates in non-intrusive load monitoring</a>.<br/>
-                    Energy Informatics, vol. 4, 3. 5, pp. 1-15 (2021).
-                    <script>document.write(meta('cneuo_UAAAAJ:M05iB0D1s5AC'));</script>
-                    <a href="https://doi.org/10.1186/s42162-021-00137-9"><i class="icon-link"></i></a>
-                </li>
-
-                <li>
-                    Richard Jones, Christoph Klemenjak, <strong>Stephen Makonin</strong>, Ivan V. Bajic.<br/>
-                    <a href="doc/NILM_2020.pdf">Stop! Exploring Bayesian Surprise to Better Train NILM</a>.<br/>
-                    Proceedings of the 5th International Workshop on Non- Intrusive Load Monitoring, 2020.
-                    <script>document.write(meta('cneuo_UAAAAJ:pqnbT2bcN3wC'));</script>
-                    <a href="https://doi.org/10.1145/3427771.3429388"><i class="icon-link"></i></a>
-                </li>
-
-                <li>
-                    Shikha Singh, Angshul Majumdar, <strong>Stephen Makonin</strong>.<br/>
-                    <a href="doc/BuildSys_2020.pdf">Compressive Non-Intrusive Load Monitoring</a>.<br/>
-                    Proceedings of the 7th ACM International Conference on Systems for Energy-Efficient Built Environments (BuildSys), 2020.
-                    <script>document.write(meta('cneuo_UAAAAJ:HoB7MX3m0LUC'));</script>
-                    <a href="https://doi.org/10.1145/3408308.3427613"><i class="icon-link"></i></a>
-                </li>
-
-                <li>
-                    Chinthaka Dinesh, <strong>Stephen Makonin</strong>, Ivan V. Bajic.<br/>
-                    <a href="doc/Access_8(2997942).pdf">Residential Power Forecasting Based on Affinity Aggregation Spectral Clustering</a>.<br/>
-                    IEEE Access, vol. 8, pp. 99431-99444 (2020).
-                    <script>document.write(meta('cneuo_UAAAAJ:2P1L_qKh6hAC'));</script>
-                    <a href="https://doi.org/10.1109/ACCESS.2020.2997942"><i class="icon-link"></i></a>
-                </li>
-
-                <li>
-                    Richard Jones, Alejandro Rodriguez-Silva, <strong>Stephen Makonin</strong>.<br/>
-                    <a href="doc/ISGT-NA_2020a.pdf">Increasing the Accuracy and Speed of Universal Non-Intrusive Load Monitoring (UNILM) Using a Novel Real-Time Steady-State Block Filter</a>.<br/>
-                    Proceedings of the 11th Conference on Innovative Smart Grid Technologies (ISGT), 2020.
-                    <script>document.write(meta('cneuo_UAAAAJ:RYcK_YlVTxYC'));</script>
-                    <a href="https://doi.org/10.1109/ISGT45199.2020.9087733"><i class="icon-link"></i></a>
-                </li>
-
-                <li>
-                    Christoph Klemenjak, <strong>Stephen Makonin</strong>, Wilfried Elmenreich.<br/>
-                    <a href="doc/ISGT-NA_2020b.pdf">Towards Comparability in Non-Intrusive Load Monitoring: On Data and Performance Evaluation</a>.<br/>
-                    Proceedings of the 11th Conference on Innovative Smart Grid Technologies (ISGT), 2020.
-                    <script>document.write(meta('cneuo_UAAAAJ:lSLTfruPkqcC'));</script>
-                    <a href="https://doi.org/10.1109/ISGT45199.2020.9087706"><i class="icon-link"></i></a>
-                </li>
-
-                <li>
-                    Christoph Klemenjak, Anthony Faustine, <strong>Stephen Makonin</strong>, Wilfried Elmenreich.<br/>
-                    <a href="https://arxiv.org/pdf/1912.06200">On metrics to assess the transferability of machine learning models in non-intrusive load monitoring</a>.<br/>
-                    arXiv preprint arXiv:1912.06200, 2019.
-                    <script>document.write(meta('cneuo_UAAAAJ:vV6vV6tmYwMC'));</script>
-                    <a href="https://arxiv.org/pdf/1912.06200"><i class="icon-link"></i></a>
-                </li>
-
-                <li>
-                    Megha Gaur, <strong>Stephen Makonin</strong>, Ivan V. Bajic, Angshul Majumdar.<br/>
-                    <a href="doc/Access_7(2915641).pdf">Performance evaluation of techniques for identifying abnormal energy consumption in buildings</a>.<br/>
-                    IEEE Access, vol. 7, pp. 62721-62733 (2019).
-                    <script>document.write(meta('cneuo_UAAAAJ:ns9cj8rnVeAC'));</script>
-                    <a href="https://doi.org/10.1109/ACCESS.2019.2915641"><i class="icon-link"></i></a>
-                </li>
-
-                <li>
-                    Alejandro Rodriguez-Silva, <strong>Stephen Makonin</strong>.<br/>
-                    <a href="doc/APPEEC_2019.pdf">Universal Non-Intrusive Load Monitoring (UNILM) Using Filter Pipelines, Probabilistic Knapsack, and Labelled Partition Maps</a>.<br/>
-                    Proceedings of the 11th IEEE PES Asia-Pacific Power and Energy Engineering Conference 2019 (APPEEC), 2019.
-                    <script>document.write(meta('cneuo_UAAAAJ:RGFaLdJalmkC'));</script>
-                    <a href="https://doi.org/10.1109/APPEEC45492.2019.8994618"><i class="icon-link"></i></a>
-                </li>
-
-                <li>
-                    Alon Harell, <strong>Stephen Makonin</strong>, Ivan V. Bajic.<br/>
-                    <a href="doc/ICASSP_2019.pdf">WaveNILM: A Causal Neural Network for Power Disaggregation from the Complex Power Signal</a>.<br/>
-                    Proceedings of the 44th International Conference on Acoustics, Speech, and Signal Processing (ICASSP), pp. 8335-8339, 2019.
-                    <script>document.write(meta('cneuo_UAAAAJ:GnPB-g6toBAC'));</script>
-                    <a href="https://doi.org/10.1109/ICASSP.2019.8682543"><i class="icon-link"></i></a>
-                </li>
-
-                <li>
-                    Chinthaka Dinesh, <strong>Stephen Makonin</strong>, Ivan V. Bajic.<br/>
-                    <a href="doc/TCAS2_66(11).pdf">Residential Power Forecasting Using Load Identification and Graph Spectral Clustering</a>.<br/>
-                    IEEE Transactions on Circuits and Systems II: Express Briefs, vol. 66, no. 11   , pp. 1900-1904 (2019).
-                    <script>document.write(meta('cneuo_UAAAAJ:YFjsv_pBGBYC'));</script>
-                    <a href="https://doi.org/10.1109/TCSII.2019.2891704"><i class="icon-link"></i></a>
-                </li>
-
-                <li>
-                    Alon Harell, <strong>Stephen Makonin</strong>, Ivan V. Bajic.<br/>
-                    <a href="doc/MMSP_2018.pdf">A Recurrent Neural Network for Multisensory Non-Intrusive Load Monitoring on a Raspberry Pi</a>.<br/>
-                    Proceedings of the IEEE 20th International Workshop on Multimedia Signal Processing (MMSP), 2018.
-                    <script>document.write(meta('cneuo_UAAAAJ:hMod-77fHWUC'));</script>
-                </li>
-
-                <li>
-                    Chinthaka Dinesh, <strong>Stephen Makonin</strong>, Ivan V. Bajic.<br/>
-                    <a href="doc/GlobalSIP_2017.pdf">Incorporating Time-Of-Day Usage Patterns Into Non-Intrusive Load Monitoring</a>.<br/>
-                    Proceedings of the 5th IEEE Global Conference on Signal and Information Processing (GlobalSIP), 2017.
-                    <script>document.write(meta('cneuo_UAAAAJ:7PzlFSSx8tAC'));</script>
-                    <a href="https://doi.org/10.1109/GlobalSIP.2017.8309133"><i class="icon-link"></i></a>
-                </li>
-
-                <li>
-                    Chinthaka Dinesh, <strong>Stephen Makonin</strong>, Ivan V. Bajic.<br/>
-                    <a href="doc/IC-IMPACT_2017.pdf">Understanding Appliance Power Consumption Without Sensors</a>.<br/>
-                    In Poster Session at the 3rd Annual <a href="https://ic-impacts.com">IC-IMPACTS</a> Research Conference, 2017.<br/>
-                    <script>document.write(meta('cneuo_UAAAAJ:QIV2ME_5wuYC'));</script>
-                </li>
-
-                <li>
-                    Md. Zulfiquar Ali Bhotto, <strong>Stephen Makonin</strong>, Ivan V. Bajic.<br/>
-                    <a href="doc/TCAS2_64(7).pdf">Load disaggregation based on aided linear integer programming</a>.<br/>
-                    IEEE Transactions on Circuits and Systems II: Express Briefs, vol. 64, no. 7, pp. 792-796 (2016).
-                    <script>document.write(meta('cneuo_UAAAAJ:_kc_bZDykSQC'));</script>
-                    <a href="http://dx.doi.org/10.1109/TCSII.2016.2603479"><i class="icon-link"></i></a>
-                </li>
-
-                <li>
-                    <strong>Stephen Makonin</strong>.<br/>
-                    <a href="doc/CCECE_2016.pdf">Investigating the Switch Continuity Principle Assumed in Non-Intrusive Load Monitoring (NILM)</a>.<br/>
-                    Proceedings of the 29th Annual IEEE Canadian Conference on Electrical and Computer Engineering (CCECE), 2016.
-                    <script>document.write(meta('cneuo_UAAAAJ:ULOm3_A8WrAC'));</script>
-                    <a href="http://dx.doi.org/10.1109/CCECE.2016.7726787"><i class="icon-link"></i></a>
-                </li>
-
-                <li>
-                    <strong>Stephen Makonin</strong>, Fred Popowich, Ivan V. Bajic, Bob Gill, Lyn Bartram.<br/>
-                    <a href="doc/TSG_7(6).pdf">Exploiting HMM Sparsity to Perform Online Real-Time Nonintrusive Load Monitoring</a>.<br/>
-                    IEEE Transactions on Smart Grid, vol. 7, no. 6, pp. 2575-2585 (2016).
-                    <script>document.write(meta('cneuo_UAAAAJ:kNdYIx-mwKoC'));</script>
-                    <a href="http://dx.doi.org/10.1109/TSG.2015.2494592"><i class="icon-link"></i></a>
-                </li>
-
-                <li>
-                    Bradley Ellert, <strong>Stephen Makonin</strong>, Fred Popowich.<br/>
-                    <a href="doc/BigDASC_2015.pdf">Appliance Water Disaggregation via Non-Intrusive Load Monitoring (NILM)</a>.<br/>
-                    Proceedings of the EAI International Conference on Big Data and Analytics for Smart Cities (BigDASC), 2015.
-                    <script>document.write(meta('cneuo_UAAAAJ:0EnyYjriUFMC'));</script>
-                    <a href="http://dx.doi.org/10.1007/978-3-319-33681-7_38"><i class="icon-link"></i></a>
-                </li>
-
-                <li>
-                    <strong>Stephen Makonin</strong>, Fred Popowich.<br/>
-                    <a href="doc/ENEF_8(4).pdf">Nonintrusive Load Monitoring (NILM) Performance Evaluation</a>.<br/>
-                    Energy Efficiency, vol. 8, no. 4, pp. 809–814 (2015).
-                    <script>document.write(meta('cneuo_UAAAAJ:ufrVoPGSRksC'));</script>
-                    <a href="http://dx.doi.org/10.1007/s12053-014-9306-2"><i class="icon-link"></i></a>
-                </li>
-
-                <li>
-                    <strong>Stephen Makonin</strong>.<br/>
-                    <a href="doc/Thesis_SMakonin_PhD.pdf">Real-Time Embedded Low-Frequency Load Disaggregation</a>.<br/>
-                    PhD Thesis, Simon Fraser University, School of Computing Science, 2014.
-                    <script>document.write(meta('cneuo_UAAAAJ:WF5omc3nYNoC'));</script>
-                    <a href="http://summit.sfu.ca/item/14410"><i class="icon-link"></i></a>
-                </li>
-
-                <li>
-                    <strong>Stephen Makonin</strong>, Ivan V. Bajic, Fred Popowich.<br/>
-                    <a href="doc/NILM_2014.pdf">Efficient Sparse Matrix Processing for Nonintrusive Load Monitoring (NILM)</a>.<br/>
-                    Proceedings of the 2nd International Workshop on Non-Intrusive Load Monitoring, 2014.
-                    <script>document.write(meta('cneuo_UAAAAJ:YsMSGLbcyi4C'));</script>
-                    <a href="http://nilmworkshop.org/schedule/"><i class="icon-link"></i></a>
-                </li>
-
-                <li>
-                    <strong>Stephen Makonin</strong>, Laura Guzman Flores, Robyn Gill, Roger Alex Clapp, Lyn Bartram, Bob Gill.<br/>
-                    <a href="doc/IHTC_2014a.pdf">A Consumer Bill of Rights for Energy Conservation</a>.<br/>
-                    Proceedings of the IEEE Canada International Humanitarian Technology Conference (IHTC), 2014.
-                    <script>document.write(meta('cneuo_UAAAAJ:eQOLeE2rZwMC'));</script>
-                    <a href="http://dx.doi.org/10.1109/IHTC.2014.7147535"><i class="icon-link"></i></a>
-                </li>
-
-                <li>
-                    <strong>Stephen Makonin</strong><br/>
-                    <a href="doc/VanAGM_2014.pdf">Nonintrusive Load Monitoring (NILM): What an algorithm can tell you about your energy consumption</a>.<br/>
-                    In Poster Session at SFU Postdoctoral Research Day, 2016.<br/>
-                    In Poster Session at IEEE Vancouver Section Annual General Meeting, 2014.<br/>
-                </li>
-
-                <li>
-                    <strong>Stephen Makonin</strong>, William Sung, Ryan Dela Cruz, Brett Yarrow, Bob Gill, Fred Popowich, Ivan V. Bajic.<br/>
-                    <a href="doc/APPEEC_2013.pdf">Inspiring Energy Conservation Through Open Source Metering Hardware and Embedded Real-Time Load Disaggregation</a>.<br/>
-                    Proceedings of the 5th IEEE PES Asia-Pacific Power and Energy Engineering Conference (APPEEC), 2013.
-                    <script>document.write(meta('cneuo_UAAAAJ:W7OEmFMy1HYC'));</script>
-                    <a href="http://dx.doi.org/10.1109/APPEEC.2013.6837120"><i class="icon-link"></i></a>
-                </li>
-
-                <li>
-                    <strong>Stephen Makonin</strong>, Fred Popowich, Bob Gill.<br/>
-                    <a href="doc/CCECE_2013.pdf">The Cognitive Power Meter: Looking Beyond the Smart Meter</a>.<br/>
-                    Proceedings of the 26th Annual IEEE Canadian Conference on Electrical and Computer Engineering (CCECE), 2013.
-                    <script>document.write(meta('cneuo_UAAAAJ:Y0pCki6q_DkC'));</script>
-                    <a href="http://dx.doi.org/10.1109/CCECE.2013.6567686"><i class="icon-link"></i></a>
-                </li>
-
-                <li>
-                    <strong>Stephen Makonin</strong>.<br/>
-                    <a href="doc/DepthReport_2012.pdf">Approaches to Non-Intrusive Load Monitoring (NILM) in the Home</a>.<br/>
-                    PhD depth report, Simon Fraser University, School of Computing Science, 2012.
-                    <script>document.write(meta('cneuo_UAAAAJ:_FxGoFyzp5QC'));</script>
-                    <a href="http://summit.sfu.ca/item/14475"><i class="icon-link"></i></a>
-                </li>
-            </ol>
-
-            <h2>Data Engineering, Public Datasets &amp; Big Data</h2>
-            <ol>
-                <li>
-                    Mostafa Farrokhabadi, Jethro Browell, Yi Wang, <strong>Stephen Makonin</strong>, Wencong Su, Hamidreza Zareipour.<br/>
-                    <a href="https://doi.org/10.1109/OAJPE.2022.3161101">Day-Ahead Electricity Demand Forecasting Competition: Post-COVID Paradigm</a>.<br/>
-                    IEEE Open Access Journal of Power and Energy, <em>Early Access</em> (2022),
-                    <script>document.write(meta('cneuo_UAAAAJ:_xSYboBqXhAC'));</script>
-                    <a href="https://doi.org/10.1109/OAJPE.2022.3161101"><i class="icon-link"></i></a>
-                </li>
-
-                <li>
-                    Christoph Klemenjak, Andreas Reinhardt, Lucas Pereira, <strong>Stephen Makonin</strong>, Mario Bergés, Wilfried Elmenreich.<br/>
-                    <a href="doc/BuildSys_2019.pdf">Electricity Consumption Data Sets: Pitfalls and Opportunities</a>.<br/>
-                    Proceedings of the 6th ACM International Conference on Systems for Energy-Efficient Built Environments, Cities, and Transportation (BuildSys), 2019.
-                    <script>document.write(meta('cneuo_UAAAAJ:NaGl4SEjCO4C'));</script>
-                    <a href="https://doi.org/10.1145/3360322.3360867"><i class="icon-link"></i></a>
-                </li>
-
-                <li>
-                    <strong>Stephen Makonin</strong>.<br/>
-                    <a href="doc/DIB_23(103744).pdf">HUE: The Hourly Usage of Energy Dataset for Buildings in British Columbia</a>.<br/>
-                    Data in Brief, vol. 23, no. 103744, pp. 1-4 (2019).
-                    <script>document.write(meta('cneuo_UAAAAJ:NMxIlDl6LWMC'));</script>
-                    <a href="https://doi.org/10.7910/DVN/N3HGRN"><i class="fa fa-database"></i></a>
-                    <a href="https://doi.org/10.1016/j.dib.2019.103744"><i class="icon-link"></i></a>
-                </li>
-
-                <li>
-                    <strong>Stephen Makonin</strong>, Z. Jane Wang, Chris Tumpach.<br/>
-                    <a href="doc/MDPI-Data_3(1).pdf">RAE: The Rainforest Automation Energy Dataset for Smart Grid Meter Data Analysis</a>.<br/>
-                    Data, vol. 3, no. 1, article 7, pp. 1-9 (2018)
-                    <script>document.write(meta('cneuo_UAAAAJ:mVmsd5A6BfQC'));</script>
-                    <a href="http://dx.doi.org/10.7910/DVN/ZJW4LC"><i class="fa fa-database"></i></a>
-                    <a href="http://dx.doi.org/10.3390/data3010008"><i class="icon-link"></i></a>
-                </li>
-
-                <li>
-                    <strong>Stephen Makonin</strong>, Bradley Ellert, Ivan V. Bajic, Fred Popowich.<br/>
-                    <a href="doc/SciData_3(160037).pdf">Electricity, water, and natural gas consumption of a residential house in Canada from 2012 to 2014</a>.<br/>
-                     Scientific Data, vol. 3, no. 160037, pp. 1-12 (2016).
-                     <script>document.write(meta('cneuo_UAAAAJ:Zph67rFs4hoC'));</script>
-                    <a href="http://dx.doi.org/10.7910/DVN/FIE0S4"><i class="fa fa-database"></i></a>
-                    <a href="http://dx.doi.org/10.1038/sdata.2016.37"><i class="icon-link"></i></a>
-                </li>
-
-                <li>
-                    <strong>Stephen Makonin</strong>, Fred Popowich, Lyn Bartram, Bob Gill, Ivan V. Bajic.<br/>
-                    <a href="doc/EPEC_2013.pdf">AMPds: A Public Dataset for Load Disaggregation and Eco-Feedback Research</a>.<br/>
-                    Proceedings of the 2013 IEEE Electrical Power and Energy Conference (EPEC), 2013.
-                    <script>document.write(meta('cneuo_UAAAAJ:zYLM7Y9cAGgC'));</script>
-                    <a href="http://dx.doi.org/10.7910/DVN/MXB7VO"><i class="fa fa-database"></i></a>
-                    <a href="http://dx.doi.org/10.1109/EPEC.2013.6802949"><i class="icon-link"></i></a>
-                </li>
-
-                <li>
-                    <strong>Stephen Makonin</strong>.<br/>
-                    <a href="http://dx.doi.org/10.7910/DVN/2K9FFE">ODDs: Occupancy Detection Dataset</a>.<br/>
-                    Harvard Dataverse, V1, 2010.
-                    <script>document.write(meta('cneuo_UAAAAJ:cFHS6HbyZ2cC'));</script>
-                    <a href="http://dx.doi.org/10.7910/DVN/2K9FFE"><i class="fa fa-database"></i></a>
-                    <a href="http://dl6.globalstf.org/index.php/joc/article/view/711"><i class="icon-link"></i></a>
-                </li>
-            </ol>
-
-            <h2>Software Engineering, incl. ECE \amp; ICT</h2>
-            <ol>
-                <li>
-                    <strong>Stephen Makonin</strong>, Laura U. Marks, Radek Przedpelski, Alejandro Rodriguez-Silva, Ramy ElMallah.<br/>
-                    <a href="doc/LIMITS_2022.pdf">Calculating the Carbon Footprint of Streaming Media: Beyond the Myth of Efficiency</a>.<br/>
-                    Proceedings of LIMITS 2022, Eighth Workshop on Computing within Limits, 2022.
-                    <a href="https://doi.org/10.21428/bf6fb269.7625cc76"><i class="icon-link"></i></a>
-                </li>
-
-                <li>
-                    <strong>Stephen Makonin</strong>.<br/>
-                    <a href="https://www.elsevier.com/books/start-up-creation/pacheco-torgal/978-0-12-819946-6">Start-Up Creation: The Smart Eco-Efficient Built Environment</a>.<br/>
-                    Editors: Fernando Pacheco-Torgal, Erik Rasmussen, Claes-Goran Granqvist, Volodymyr Ivanov, Arturas Kaklauskas, <strong>Stephen Makonin</strong>.<br/>
-                    1st Ed. Woodhead Publishing, ISBN: 978-0-08-100546-0 (hardcover), 978-0-08-100549-1 (ebook), 2016. <br/>
-                    2st Ed. Woodhead Publishing, ISBN: 978-0-12-819946-6 (paperback), 978-0-12-819947-3 (ebook), 2020.
-                    <script>document.write(meta('cneuo_UAAAAJ:YOwf2qJgpHMC'));</script>
-                    <a href="https://www.elsevier.com/books/start-up-creation/pacheco-torgal/978-0-12-819946-6"><i class="icon-link"></i></a>
-                </li>
-
-                <li>
-                    Laura Guzman, <strong>Stephen Makonin</strong>, Roger Alex Clapp.<br/>
-                    <a href="doc/SocialSens_2019.pdf">CarbonKit: Designing A Personal Carbon Tracking Platform</a>.<br/>
-                    Proceedings of SocialSense ’19: Fourth International Workshop on Social Sensing, pp. 24-29, 2019.
-                    <script>document.write(meta('cneuo_UAAAAJ:M3ejUd6NZC8C'));</script>
-                    <a href="http://doi.acm.org/10.1145/3313294.3313385"><i class="icon-link"></i></a>
-                </li>
-
-                <li>
-                    Joanna Wallace, Kyle Richardson, Bob Gill, <strong>Stephen Makonin</strong>.<br/>
-                    <a href="doc/WECON_2015.pdf">Cognitive Radio Technology: System Evolution</a>.<br/>
-                    Proceedings of the 4th International Conference On Wireless Networks and Embedded Systems (WECON), 2015.
-                    <script>document.write(meta('cneuo_UAAAAJ:Se3iqnhoufwC'));</script>
-                </li>
-
-                <li>
-                    Reza Filsoof, Alison Bodine, Bob Gill, <strong>Stephen Makonin</strong>, Robert Nicholson.<br/>
-                    <a href="doc/IHTC_2014b.pdf">Transmitting Patient Vitals Over a Reliable ZigBee Mesh Network</a>.<br/>
-                    Proceedings of the IEEE Canada International Humanitarian Technology Conference (IHTC), 2014.
-                    <script>document.write(meta('cneuo_UAAAAJ:LkGwnXOMwfcC'));</script>
-                    <a href="http://dx.doi.org/10.1109/IHTC.2014.7147531"><i class="icon-link"></i></a>
-                </li>
-
-                <li>
-                    David Bennett, <strong>Stephen Makonin</strong>, Vincent W. Mayfield, Ted Neustaedter, Mark R. Wrenn.<br/>
-                    <a href="http://amzn.com/0672310317">Visual C++ 5.0 Developer's Guide</a>.<br/>
-                    Sams Publishing, ISBN: 978-0-672-31031-7, 1996.
-                    <script>document.write(meta('cneuo_UAAAAJ:UebtZRa9Y70C'));</script>
-                    <a href="http://amzn.com/0672310317"><i class="icon-link"></i></a>
-                </li>
-            </ol>
-
-            <h2>Visualization &amp; Human-Computer Interaction (HCI)</h2>
-            <ol>
-                <li>
-                    <strong>Stephen Makonin</strong>, Daniel McVeigh, Wolfgang Stuerzlinger, Khoa Tran, Fred Popowich.<br/>
-                    <a href="doc/HICSS_2016.pdf">Mixed-Initiative for Big Data: The Intersection of Human + Visual Analytics + Prediction</a>.<br/>
-                    Proceedings of the 49th Hawaii International Conference on System Sciences (HICSS), pp. 1427-1436, 2016.
-                    <script>document.write(meta('cneuo_UAAAAJ:hqOjcs7Dif8C'));</script>
-                    <a href="http://dx.doi.org/10.1109/HICSS.2016.181"><i class="icon-link"></i></a>
-                </li>
-
-                <li>
-                    <strong>Stephen Makonin</strong>, Lyn Bartram, Fred Popowich.<br/>
-                    <a href="doc/PvC_12(1).pdf">A Smarter Smart Home: Case Studies of Ambient Intelligence</a>.<br/>
-                    IEEE Pervasive Computing, vol. 12, no. 1, pp. 58–66 (2013).
-                    <script>document.write(meta('cneuo_UAAAAJ:2osOgNQ5qMEC'));</script>
-                    <a href="http://dx.doi.org/10.1109/MPRV.2012.58"><i class="icon-link"></i></a>
-                </li>
-
-                <li>
-                    <strong>Stephen Makonin</strong>, Fred Popowich, TaeJin Moon, Bob Gill.<br/>
-                    <a href="doc/PES-GM_2013.pdf">Inspiring Energy Conservation Through Open Source Power Monitoring and In-Home Display</a>.<br/>
-                    Proceedings of the IEEE Power and Energy Society General Meeting, 2013.
-                    <script>document.write(meta('cneuo_UAAAAJ:Tyk-4Ss8FVUC'));</script>
-                    <a href="http://dx.doi.org/10.1109/PESMG.2013.6672619"><i class="icon-link"></i></a>
-                </li>
-
-                <li>
-                    <strong>Stephen Makonin</strong>, Fred Popowich.<br/>
-                    <a href="doc/GSTF-JoC_2(1).pdf">Home Occupancy Agent: Occupancy and Sleep Detection</a>.<br/>
-                    GSTF Journal on Computing, vol. 2, no. 1, pp. 182–186 (2012).
-                    <script>document.write(meta('cneuo_UAAAAJ:d1gkVwhDpl0C'));</script>
-                    <a href="http://dl6.globalstf.org/index.php/joc/article/view/711"><i class="icon-link"></i></a>
-                </li>
-
-                <li>
-                    <strong>Stephen Makonin</strong>, Maryam H. Kashani, Lyn Bartram.<br/>
-                    <a href="doc/CGI_2012.pdf">The Affect of Lifestyle Factors on Eco-Visualization Design</a>.<br/>
-                    Proceedings of Computer Graphics International (CGI), 2012.
-                    <script>document.write(meta('cneuo_UAAAAJ:9yKSN-GCB0IC'));</script>
-                    <a href="http://blogs.bournemouth.ac.uk/cgi2012/"><i class="icon-link"></i></a>
-                </li>
-
-                <li>
-                    <strong>Stephen Makonin</strong>, Philippe Pasquier, Lyn Bartram.<br/>
-                    <a href="doc/SG_2011.pdf">Elements of Consumption: An abstract visualization of household consumption</a>.<br/>
-                    Proceedings of the 11th International Symposium on Smart Graphics, LNSC 6815:194–198, 2011.
-                    <script>document.write(meta('cneuo_UAAAAJ:u-x6o8ySG0sC'));</script>
-                    <a href="http://dx.doi.org/10.1007/978-3-642-22571-0_25"><i class="icon-link"></i></a>
-                </li>
-
-                <li>
-                    <strong>Stephen Makonin</strong>, Fred Popowich.<br/>
-                    <a href="doc/ICOST_2011.pdf">An intelligent agent for determining home occupancy using power monitors and light sensors</a>.<br/>
-                    Proceedings of the 9th International Conference on Smart Homes and Health Telematics (ICOST), LNSC 6719:236–240, 2011.
-                    <script>document.write(meta('cneuo_UAAAAJ:u5HHmVD_uO8C'));</script>
-                    <a href="http://dx.doi.org/10.1007/978-3-642-21535-3_33"><i class="icon-link"></i></a>
-                </li>
-            </ol>
-
-            <h1 id="academic_exp">Academic Exploits</h1>
-
-            <h2>Current Supervision</h2>
-            <ul>
-                <li>
-                    <strong>Maria Tu</strong> &mdash; MASc Thesis (Senior Supervisor, Jan/2021 to present) <br/>
-                    Thesis: tbd (subject area: NILM, Modelling, Data and Software Engineering) <br/>
-                </li>
+            <ul class="quick-list">
+              <li>Professional Engineer, EGBC</li>
+              <li>Senior Member, IEEE</li>
+              <li>Founding EiC, IEEE Data Descriptions</li>
+              <li>Director, Digital Supply Chain Lab</li>
+              <li>Vice-Chair, IEEE SA P2957</li>
             </ul>
+          </div>
+        </aside>
+      </div>
+    </section>
 
-            <h2>Past Supervision</h2>
-            <ul>
-                <li>
-                    <strong>Md. Zulfiquar Ali Bhotto</strong> &mdash; Postdoctoral Fellow (Co-Supervisor, Dec/2017 to Dec/2021) <br/>
-                    Research subject area: Adaptive Filters, Optimization, Machine Learning, Power Grid<br/>
-                </li>
-                <li>
-                    <strong>Alejandro Rodriguez-Silva</strong> &mdash; MASc Thesis (Senior Supervisor, Jan/2018 to Dec/2021) <br/>
-                    Thesis: <a href="https://summit.sfu.ca/item/21723">Filtering in Non-Intrusive Load Monitoring</a><br/>
-                </li>
-                <li>
-                    <strong>Richard Jones</strong> &mdash; MASc Thesis (Senior Supervisor, May/2019 to Dec/2020) <br/>
-                    Thesis: <a href="https://summit.sfu.ca/item/21707">Non-Parametric Modeling in Non-Intrusive Load Monitoring</a><br/>
-                    Awards: GDES Entrance Scholarship, NSERC CGS-M <br/>
-                </li>
-                <li>
-                    <strong>Alon Harell</strong> &mdash; MASc Thesis (Co-Supervisor, May/2018 to Aug/2020) <br/>
-                    Thesis: <a href="https://theses.lib.sfu.ca/6013/show">Deep Learning Applications in Non-Intrusive Load Monitoring</a><br/>
-                    Awards: NSERC CGS-M <br/>
-                </li>
-                <li>
-                    <strong>Bradley Ellert</strong> &mdash; MSc Thesis (Co-Supervisor, defended Aug 17, 2015) <br/>
-                    Thesis: <a href="http://summit.sfu.ca/item/15509">Leveraging Submetered Electricity Loads to Disaggregate Household Water-Use</a>
-                </li>
-            </ul>
-
-            <h2>Visiting Scholars</h2>
-            <ul>
-                <li>
-                    <strong>Keke Li (李可可)</strong> &mdash; Visiting Masters Scholar from Northeastern University, China (Sep/2020 to now, virtual) <br/>
-                </li>
-                <li>
-                    <strong>David Murray</strong> &mdash; Visiting PhD Scholar from University of Strathclyde, UK (Jul/2019 to Aug/2019, 2 months) <br/>
-                </li>
-                <li>
-                    <strong>Bundit Buddhahai</strong> &mdash; Visiting PhD Scholar from KMUTT, Thailand (May/2019 to Oct/2019, 6 months) <br/>
-                </li>
-                <li>
-                    <strong>Christoph Klemenjak</strong> &mdash; Visiting PhD Scholar from University of Klagenfurt, Austria (May/2019 to Aug/2019, 3 months) <br/>
-                </li>
-                <li>
-                    <strong>Shikha Singh</strong> &mdash; Visiting PhD Scholar from IIIT-Delhi, India (Jul/2018, &frac12; month) <br/>
-                    Grant: <a href="http://ic-impacts.com">IC-IMPACTS NCE</a> and India DST
-                </li>
-                <li>
-                    <strong>Megha Gaur</strong> &mdash; Visiting PhD Scholar from IIIT-Delhi, India (Sep/2017 to Feb/2018, 6 months) <br/>
-                    Grant: <a href="http://ic-impacts.com">IC-IMPACTS NCE</a> and India DST
-                </li>
-            </ul>
-
-            <h2>
-                Research Grants
-                <span style="font-size:0.7em;">[PI = Principal Investigator]</span>
-            </h2>
-            <ul>
-                <li><strong>Co-Principal Investigator</strong> &mdash; SSHRC Knowledge Synthesis Grant ($50,000 over 1 year), 2020 <br/>
-                    Title: Tackling the Carbon Footprint of Streaming Media</li>
-                <li><strong>Principal Investigator</strong> &mdash; NSERC Engage Grant ($25,000 over 6 months), 2019 <br/>
-                    Title: Inferring power grid transformer to meter association using inconsistent geospatial data</li>
-                <li><strong>Investigator</strong> &mdash; European Commission Horizon2020 Grant (2 years) <br/>
-                    Title: SENSors and Intelligence in BuLt Environment (SENSIBLE) project <br/>
-                    <span style="font-size:0.8em;">[<em>indirect moneys to allow for grad student visits</em>]</span></li>
-                <li><strong>Principal Investigator</strong> &mdash; NSERC Discovery Launch Supplement Award ($12,500), 2019</li>
-                <li><strong>Principal Investigator</strong> &mdash; NSERC Discovery Grant ($140,000 over 5 years), 2018<br/>
-                    Title: Non-Intrusive Load Monitoring </li>
-                <li><strong>Postdoc</strong> &mdash; IC-IMPACTS NCE Project Grant ($133,000, 2 years, 11.2% success rate) <br/>
-                    Title: Energy and Water Disaggregation for Non-Intrusive Load Monitoring in Buildings <br/>
-                    <span style="font-size:0.8em;">[<em>I was a main author and organizer of grant but could not be co-PI due to funding rules</em>]</span></li>
-                <li><strong>PhD Candidate</strong> &mdash; SFU GSS Professional Development Grant ($500), 2014</li>
-                <li><strong>Principal Investigator</strong> &mdash; BCIT School of Energy Research Seed Funding ($10,000 over 4 months), 2013 <br/>
-                    Title: Branch Circuit Ammeter and Data Logger for Smart Grid/Home Application</li>
-                <li><strong>PhD Candidate</strong> &mdash; SFU GSS Professional Development Grant ($500), 2012</li>
-            </ul>
-
-            <h2>Course Instruction</h2>
-            <ul>
-                <li>
-                    <a href="https://www.sfu.ca/big-data/data-fellowships.html/">SFU Data Fellowships</a> - A series of short, part-time courses that offers foundational data science and AI concepts.<br/>
-                    Simon Fraser University, SFU'S Big Data Hub: 2021 (Feb/Apr/Jun/Oct)
-                </li>
-                <li>
-                    CMPT 165 - Introduction to the Internet and the World Wide Web<br/>
-                    Simon Fraser University, School of Computing Science: Fall/2014, Spring/2015.
-                </li>
-            </ul>
-
-            <h1 id="awards">Awards &amp; Achievements</h1>
-
-            <div class="events">
-                <div class="date">2017.09</div><div class="descr">IEEE Signal Processing Society Appreciation Certificate &mdash; Dedicated Leadership &amp; Support</div>
-                <div class="date">2015.04</div><div class="descr">IEEE Vancouver Section Leadership and Contribution Award &mdash; Initiative</div>
-            </div>
-
-            <h1 id="service">Service To Profession</h1>
-
-            <h2>Advisory Boards/Committees</h2>
-            <ul>
-                <li>
-                    Advisory Board Member, <em>IEEE DataPort</em>, 2020 &mdash; <em>now</em>
-                    <a href="https://ieee-dataport.org"><i class="icon-link"></i></a>
-                </li>
-                <li>
-                    Faculty Advisory Member, <em>SFU Sustainability Advisory Council (S-AC)</em>, 2021 &mdash; <em>now</em>
-                    <a href="https://www.sfu.ca/sustainability/sfu2025/sustainability-advisory-council.html"><i class="icon-link"></i></a>
-                </li>
-            </ul>
-
-            <h2>Journal Editorship</h2>
-            <ul>
-              <li>
-                  Editor in Chief, <em>Metadata Review Board</em>,IEEE DataPort, 2020 &mdash; <em>now</em>
-                  <a href="https://ieee-dataport.org"><i class="icon-link"></i></a>
-              </li>
-                <li>
-                    Editorial Board Member, <em>Scientific Data</em>, Nature, 2019 &mdash; <em>now</em>
-                    <a href="https://www.nature.com/sdata/"><i class="icon-link"></i></a>
-                </li>
-                <li>
-                    Guest Editorial Board Member, <em>Open Access Journal of Power and Energy</em>,IEEE, 2021 &mdash; <em>now</em>
-                    <a href="https://www.ieee-pes.org/publications/open-access-journal-of-power-and-energy"><i class="icon-link"></i></a>
-                    <br/>
-                    Special Section: COVID-19 Impact on Electrical Grid Operation: Analysis and Mitigation
-                </li>
-            </ul>
-
-            <h2>Standards Associations</h2>
-            <ul>
-                <li>
-                  Voting Member, <em>Big Data Governance and Metadata Management</em> (IEEE P2957 BDGMMWG)
-                    <a href="https://sagroups.ieee.org/2957/"><i class="icon-link"></i></a>
-                    <br/>
-                    Chiar, <em>Implementation Testbed Subgroup</em>
-                    <br/>
-                    IEEE Standards Association (IEEE SA) & NIST (USA)
-                </li>
-            </ul>
-
-            <h2>General Chair/Co-Chair &amp; Organizer</h2>
-            <ul>
-                <li>
-                    5th International Workshop on Non-Intrusive Load Monitoring (NILM), Yokohama Japan, 2020
-                    <a href="http://nilmworkshop.org/2020/"><i class="icon-link"></i></a>
-                </li>
-                <li>
-                    Advanced Signal Processing for Non-intrusive Load Monitoring Special Session at ICASSP, Brighton UK, 2019
-                    <a href="https://cmsworkshops.com/ICASSP2019/Papers/PublicSessionIndex3.asp?Sessionid=1177"><i class="icon-link"></i></a>
-                </li>
-                <li>
-                    4th International Workshop on Non-Intrusive Load Monitoring (NILM), Austin USA, 2018
-                    <a href="http://nilmworkshop.org/2018/"><i class="icon-link"></i></a>
-                </li>
-                <li>
-                    The Plenty of Fish (POF) 24hr Hackathon, Vancouver Canada, 2017
-                    <a href="doc/POFHachathon.pdf"><i class="icon-link"></i></a>
-                </li>
-                <li>
-                    3rd International Workshop on Non-Intrusive Load Monitoring (NILM), Vancouver Canada, 2016
-                    <a href="http://nilmworkshop.org/2016/"><i class="icon-link"></i></a>
-                </li>
-                <li>
-                    IEEE Vancouver Windows 10 Hackathon (28-hours), Vancouver Canada, 2015
-                    <a href="doc/Win10Hackathon.pdf"><i class="icon-link"></i></a>
-                </li>
-                <li>
-                    IEEE Vancouver Kinect and Structure Sensor Hackathon (28-hours), Vancouver Canada, 2014
-                    <a href="doc/KinectHackathon.pdf"><i class="icon-link"></i></a>
-                </li>
-            </ul>
-
-            <h2>Website &amp; Social Media Chair</h2>
-            <ul>
-                <li>
-                    14th IEEE International NEW Circuits And Systems (NEWCAS) Conference, 2016
-                    <a href="http://newcas2016.ieee.ca/"><i class="icon-link"></i></a>
-                </li>
-                <li>
-                    29th Annual IEEE Canadian Conference on Electrical and Computer Engineering (CCECE), 2016
-                    <a href="http://ccece2016.ieee.ca/"><i class="icon-link"></i></a>
-                </li>
-                <li>
-                    IEEE 15th International Conference on High Performance Switching and Routing (HPSR), 2014
-                    <a href="http://www.ieee-hpsr.org/2014/"><i class="icon-link"></i></a>
-                </li>
-            </ul>
-
-            <h2>Local Arrangements Chair</h2>
-            <ul>
-                <li>
-                    IEEE 20th International Workshop on Multimedia Signal Processing (MMSP), 2018
-                    <a href="http://www.ece.ubc.ca/~mmsp2018/"><i class="icon-link"></i></a>
-                </li>
-                <li>
-                    IEEE World Congress on Computational Intelligence (WCCI), 2016
-                    <a href="http://www.wcci2016.org/"><i class="icon-link"></i></a>
-                </li>
-            </ul>
-
-            <h2>Technical Program Committee</h2>
-            <ul>
-                <li>
-                    eSim 2020 Conference, International Building Performance Simulation Association (IBPSA-Canada): 2020
-                    <a href="http://esim2020.sala.ubc.ca"><i class="icon-link"></i></a>
-                </li>
-                <li>
-                    11th IEEE PES Asia-Pacific Power and Energy Engineering Conference (APPEEC): 2019
-                    <a href="http://www.ieee-appeec-2019.org/index.html"><i class="icon-link"></i></a>
-                </li>
-                <li>
-                    5th IFIP Conference on Sustainable Internet and ICT for Sustainability (SustainIT): 2017
-                    <a href="https://sustainit2017.m-iti.org"><i class="icon-link"></i></a>
-                </li>
-                <li>
-                    IEEE Workshop on Pervasive Energy Services (PerEnergy): 2015, 2016, 2017
-                    <a href="http://perenergy2016.cs.uni-bonn.de/"><i class="icon-link"></i></a>
-                </li>
-                <li>
-                    3rd International Workshop on Computational Energy Management in Smart Grids (CEMiSG): 2016
-                    <a href="http://upfzone.net/cemisg2016/"><i class="icon-link"></i></a>
-                </li>
-                <li>
-                    EAI International Conference on Big Data and Analytics for Smart Cities (BigDASC): 2015
-                    <a href="http://bigdasc.org/2015/show/home"><i class="icon-link"></i></a>
-                </li>
-                <li>International Conference on Ubiquitous Computing &amp; Ambient Intelligence (UCAmI): 2011&mdash;2015</li>
-                <li>IEEE International Conference on Power and Energy (PECON): 2012</li>
-            </ul>
-
-            <h1 id="service">Software Engineering Services</h1>
-
-            <p>
-                Long before he completed his graduate studies, Dr. Makonin founded his professions consulting company in 1996. Since then, he has earned prestige for its development of complex billing, manufacturing and customer care systems and its streamlining of mass dynamic data and legacy system conversions. Highly regarded as an expert architect of high-speed data conversion tools and processing utilities, Dr. Makonin is also respected for his research scientist, project management, data engineering, and software engineering skills; this includes technical writing and editing. An ability to master emerging languages and technologies on the fly gives him the edge in today's fast-paced work environments.
-            </p>
-
-            <p>
-                Dr. Makonin is proud of his reputation and continues to build upon that reputation by supplying distinctive, quality components, libraries, and applications. HE has provided quality solutions and is committed to excellence and customer satisfaction. His innovative solutions are: constructed to ease the burden of unwieldy administration; developed using the latest, progressive technology; as dynamic-looking as they are functional; designed for 99% uptime on mission-critical applications; reliable and secure; fully documented; and cost-effective.
-            </p>
-
-            <h2>Full SDLC Services for Application and Web Development including:</h2>
-            <ul>
-                <li><strong>Conceptual Phase</strong>  &mdash; preliminary evaluation including feasibility studies and preliminary risk assessments;</li>
-                <li><strong>Definition Phase</strong> &mdash; definition of requisite resources, time cost and performance estimates;</li>
-                <li><strong>Production Phase</strong> &mdash; building the end product including support documentation;</li>
-                <li><strong>Operation Phase</strong> &mdash; integration of the end product into the organizational environment; and,</li>
-                <li><strong>Divestment Phase</strong> &mdash; reallocation of resources and post-implementation evaluation.</li>
-
-            </ul>
-
-            <h2>Application Design and Development including:</h2>
-            <p>Development and design of components, databases, applications, tools and internet features including but not limited to:</p>
-            <ul>
-                <li>audits and authentication of user logins;</li>
-                <li>batch programs to FTP and email files to and from the server;</li>
-                <li>batch programs to streamline databases;</li>
-                <li>billing and bill inquiry systems including internet billing, auto-billing mailouts, billing engines, and built-in secure encryption modules;</li>
-                <li>conversions (database to server, binary switch data to ASCII records, legacy systems to client-server);</li>
-                <li>customer care systems;</li>
-                <li>data maintenance applications;</li>
-                <li>database synchronization applications;</li>
-                <li>high-speed data conversion tools;</li>
-                <li>interactive games;</li>
-                <li>libraries to import address book formats into the mail system;</li>
-                <li>mail activity logs including reports detailing usage statistics;</li>
-                <li>mass dynamic data conversion;</li>
-                <li>n-tier solutions;</li>
-                <li>objects, screens and screen prototypes;</li>
-                <li>optimized database access to eliminate speed issues;</li>
-                <li>processing utilities;</li>
-                <li>promotions and new service offerings;</li>
-                <li>returned merchandise authorization;</li>
-                <li>test utilities to simulate user load on servers;</li>
-                <li>utilities to resolve binary compatibility issues or to compile projects;</li>
-                <li>validation and/or formatting of data; and,</li>
-                <li>workflows to automate communication and eliminate paperwork.</li>
-            </ul>
-
-            <h2>Internet Development including:</h2>
-            <ul>
-                <li>Creation of internet calendars for internal and/or external organizations;</li>
-                <li>Development of internetwork order tracking systems that can be easily utilized by employees;</li>
-                <li>Building of intranets containing contact information and valuable features specific to the client environment;</li>
-                <li>Setup of newsgroups to facilitate workplace discussions;</li>
-                <li>Design of screens for any web-based application;</li>
-                <li>Hosting setup and enhancement of internet access capabilities;</li>
-                <li>Design of websites for data querying and server/scheduler configuration;</li>
-                <li>User and affiliate sign up utilities; and,</li>
-                <li>Modification of current websites or site construction from scratch.</li>
-            </ul>
-
+    <section class="metrics" aria-label="Research impact snapshot">
+      <div class="container metrics-grid">
+        <div class="metric-card">
+          <strong>60+</strong>
+          <span>peer-reviewed publications</span>
         </div>
+        <div class="metric-card">
+          <strong>3,000+</strong>
+          <span>Google Scholar citations</span>
+        </div>
+        <div class="metric-card">
+          <strong>4+</strong>
+          <span>major public energy datasets</span>
+        </div>
+        <div class="metric-card">
+          <strong>1</strong>
+          <span>granted U.S. patent</span>
+        </div>
+      </div>
+      <p class="container metrics-note">Citation snapshot should be updated manually from Google Scholar before publishing.</p>
+    </section>
 
-<!-- Start of StatCounter Code for Default Guide -->
-<script type="text/javascript">
-var sc_project=477942;
-var sc_invisible=1;
-var sc_security="";
-var scJsHost = (("https:" == document.location.protocol) ?
-"https://secure." : "http://www.");
-document.write("<sc"+"ript type='text/javascript' src='" +
-scJsHost+
-"statcounter.com/counter/counter.js'></"+"script>");
-</script>
-<noscript><div class="statcounter"><a title="shopify
-analytics" href="http://statcounter.com/shopify/"
-target="_blank"><img class="statcounter"
-src="http://c.statcounter.com/477942/0//1/" alt="shopify
-analytics"></a></div></noscript>
-<!-- End of StatCounter Code for Default Guide -->
-    </body>
+    <section id="about" class="section-pad">
+      <div class="container two-col">
+        <div>
+          <p class="section-kicker">About</p>
+          <h2>Research leadership for data-intensive sustainability systems.</h2>
+        </div>
+        <div class="body-copy">
+          <p>
+            Dr. Stephen Makonin is an Adjunct Professor in the School of Engineering Science at Simon Fraser University and a professional engineer with deep experience in energy data analytics, non-intrusive load monitoring, public datasets, software systems, digital supply-chain intelligence, and applied machine learning.
+          </p>
+          <p>
+            His work connects research, engineering, and data governance: from appliance-level energy intelligence and open benchmark datasets to digital supply-chain decision support, editorial leadership, metadata standards, and practical AI systems for high-impact domains.
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <section id="research" class="section-pad section-muted">
+      <div class="container">
+        <div class="section-heading">
+          <p class="section-kicker">Research themes</p>
+          <h2>Current areas of work</h2>
+        </div>
+        <div class="card-grid three">
+          <article class="card">
+            <h3>Energy intelligence &amp; NILM</h3>
+            <p>Appliance-level energy modelling, compressor degradation, cold-load validation, load disaggregation, and energy feedback systems.</p>
+            <a class="card-link" href="https://compsust.fas.sfu.ca/">Visit Comp-Sust Lab →</a>
+          </article>
+          <article class="card">
+            <h3>Open datasets &amp; reproducibility</h3>
+            <p>Public energy datasets, data descriptions, metadata quality, benchmarking, and reusable scientific data infrastructure.</p>
+            <a class="card-link" href="https://www.ieee-data.org/">Visit IEEE Data Descriptions →</a>
+          </article>
+          <article class="card">
+            <h3>Applied AI &amp; data governance</h3>
+            <p>Responsible AI workflows, operational analytics, common data models, privacy-aware data sharing, supply-chain data governance, and data standards.</p>
+            <a class="card-link" href="https://www.sfu.ca/big-data.html">Visit SFU Big Data Hub →</a>
+          </article>
+          <article class="card feature-card">
+            <h3>Digital Supply Chain Lab</h3>
+            <p>Research and partner-facing work on supply-chain data sharing, disruption impact modelling, trusted operational data, and AI-enabled logistics decision support.</p>
+            <a class="card-link" href="https://dscl.fas.sfu.ca/">Visit DSCL →</a>
+          </article>
+          <article class="card">
+            <h3>EV charging behaviour</h3>
+            <p>Charging-session datasets, parking-lot usage efficiency, adoption modelling, infrastructure planning, and grid impacts.</p>
+          </article>
+          <article class="card">
+            <h3>Brain-signal modelling</h3>
+            <p>EEG and BCI data modelling, activity classification, privacy-aware neurodata, and interpretable signal-analysis pipelines.</p>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <section id="publications" class="section-pad">
+      <div class="container split-heading">
+        <div>
+          <p class="section-kicker">Selected publications</p>
+          <h2>Representative work</h2>
+        </div>
+        <a class="text-link" href="https://scholar.google.ca/citations?user=X75SjF8AAAAJ">Full list on Google Scholar →</a>
+      </div>
+
+      <div class="container publication-list">
+        <article class="publication">
+          <p class="pub-year">2021</p>
+          <div>
+            <h3><a href="https://doi.org/10.1109/TSG.2021.3078695">TraceGAN: Synthesizing Appliance Power Signatures Using Generative Adversarial Networks</a></h3>
+            <p>IEEE Transactions on Smart Grid. Generative modelling for synthetic appliance-level energy signatures and NILM data augmentation.</p>
+          </div>
+        </article>
+        <article class="publication">
+          <p class="pub-year">2016</p>
+          <div>
+            <h3><a href="https://doi.org/10.1109/TSG.2015.2494592">Exploiting HMM Sparsity to Perform Online Real-Time Nonintrusive Load Monitoring</a></h3>
+            <p>IEEE Transactions on Smart Grid. Sparse super-state HMM methods for practical real-time non-intrusive load monitoring.</p>
+          </div>
+        </article>
+        <article class="publication">
+          <p class="pub-year">2016</p>
+          <div>
+            <h3><a href="https://www.nature.com/articles/sdata201637">Electricity, water, and natural gas consumption of a residential house in Canada from 2012 to 2014</a></h3>
+            <p>Scientific Data. The AMPds2 dataset, a widely used benchmark for energy-disaggregation and eco-feedback research.</p>
+          </div>
+        </article>
+        <article class="publication">
+          <p class="pub-year">2015</p>
+          <div>
+            <h3><a href="https://doi.org/10.1007/s12053-014-9306-2">Nonintrusive Load Monitoring Performance Evaluation</a></h3>
+            <p>Energy Efficiency. A concise framework for evaluating NILM and energy-disaggregation performance.</p>
+          </div>
+        </article>
+      </div>
+    </section>
+
+    <section id="datasets" class="section-pad section-muted">
+      <div class="container">
+        <div class="section-heading">
+          <p class="section-kicker">Datasets & software</p>
+          <h2>Open infrastructure for energy and data research</h2>
+        </div>
+        <div class="card-grid four">
+          <a class="card link-card" href="http://ampds.org/">
+            <h3>AMPds</h3>
+            <p>Appliance-level electricity, water, and natural gas data for load disaggregation and eco-feedback research.</p>
+          </a>
+          <a class="card link-card" href="https://doi.org/10.3390/data3010008">
+            <h3>RAE</h3>
+            <p>Rainforest Automation Energy dataset for residential smart-grid meter data analysis.</p>
+          </a>
+          <a class="card link-card" href="https://doi.org/10.1016/j.dib.2019.103744">
+            <h3>HUE</h3>
+            <p>Hourly Usage of Energy dataset for buildings in British Columbia.</p>
+          </a>
+          <a class="card link-card" href="https://github.com/smakonin">
+            <h3>GitHub</h3>
+            <p>Research code, website source, and software projects.</p>
+          </a>
+        </div>
+      </div>
+    </section>
+
+    <section id="leadership" class="section-pad">
+      <div class="container two-col">
+        <div>
+          <p class="section-kicker">Leadership & service</p>
+          <h2>Editorial, standards, and professional contributions.</h2>
+        </div>
+        <div class="timeline">
+          <article>
+            <span>2024–present</span>
+            <h3>Founding Editor-in-Chief, IEEE Data Descriptions</h3>
+            <p>Leading a gold open-access journal focused on high-quality, reusable, well-described engineering datasets.</p>
+          </article>
+          <article>
+            <span>SFU</span>
+            <h3>Director, Digital Supply Chain Lab</h3>
+            <p>Advancing applied research on supply-chain data infrastructure, resilience, partner engagement, and responsible AI-enabled decision support.</p>
+          </article>
+          <article>
+            <span>IEEE SA</span>
+            <h3>Vice-Chair, Big Data Governance & Metadata Management Working Group</h3>
+            <p>Supporting standards work for metadata, data governance, and reusable data infrastructure.</p>
+          </article>
+          <article>
+            <span>Professional service</span>
+            <h3>IEEE, EGBC, SCC, and research community roles</h3>
+            <p>Contributing to engineering practice, data standards, open science, and interdisciplinary research communities.</p>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <section id="contact" class="section-pad contact-section">
+      <div class="container contact-card">
+        <div>
+          <p class="section-kicker">Contact</p>
+          <h2>Connect with Stephen</h2>
+          <p>For research collaboration, editorial service, data standards, consulting, or student supervision inquiries.</p>
+        </div>
+        <div class="contact-links">
+          <a href="mailto:smakonin@sfu.ca">smakonin@sfu.ca</a>
+          <a href="https://orcid.org/0000-0002-7818-8301">ORCID</a>
+          <a href="https://www.linkedin.com/in/smakonin/">LinkedIn</a>
+          <a href="https://github.com/smakonin">GitHub</a>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container footer-grid">
+      <p>© 2026 Stephen Makonin</p>
+      <p>Built with GitHub Pages. Last content refresh: July 2026.</p>
+    </div>
+  </footer>
+</body>
 </html>
