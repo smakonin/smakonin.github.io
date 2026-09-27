@@ -1,0 +1,85 @@
+/* Page-specific layout; colours and common components come from ../style.css. */
+:root { scroll-padding-top: 110px; }
+h1 { font-size: clamp(3.8rem, 7.5vw, 6.7rem); }
+.hero-subtitle { color: var(--muted); max-width: 44rem; }
+.hero-grid { grid-template-columns: 1.3fr 1fr; gap: 64px; }
+.button.primary { color: #07110d; }
+a:focus-visible, [tabindex]:focus-visible { outline: 3px solid var(--accent-dark); outline-offset: 5px; }
+.skip-link { background: var(--surface-strong); color: var(--text); }
+.signal-card { border: 1px solid var(--line); border-radius: var(--radius); padding: 30px; background: var(--surface); box-shadow: var(--shadow); }
+.signal-card h2 { font-size: 1.8rem; line-height: 1.15; letter-spacing: -.035em; }
+.signal-card svg { display: block; width: 100%; margin: 24px 0; }
+.inference-label { text-align: center; color: var(--accent-dark); font-size: .9rem; font-weight: 700; padding: 12px; border: 1px dashed var(--line); border-radius: 8px; }
+.load-list { padding: 0; list-style: none; }
+.load-list li { display: flex; justify-content: space-between; gap: 12px; padding: 10px 0; border-bottom: 1px solid var(--line); }
+.load-list li span:last-child { color: var(--muted); font-size: .85rem; }
+.small, .source-note, .section-note { color: var(--muted); font-size: .92rem; }
+.source-note { max-width: 900px; border-left: 3px solid var(--accent); padding-left: 20px; }
+.guide-toc { display: flex; flex-wrap: wrap; gap: 10px; margin: 32px 0 16px; }
+.guide-toc a { padding: 8px 14px; border: 1px solid var(--line); border-radius: 24px; text-decoration: none; font-size: .87rem; }
+.guide-toc a:hover { background: var(--surface-strong); }
+.guide-block { display: grid; grid-template-columns: 100px minmax(0, 1fr); gap: 28px; padding: 46px 0; border-bottom: 1px solid var(--line); }
+.guide-block:last-child { border: 0; padding-bottom: 0; }
+.chapter-label { color: var(--accent-dark); font-size: 1.2rem; font-variant-numeric: tabular-nums; }
+.guide-block h3 { font-size: clamp(1.5rem, 2.5vw, 2rem); margin-bottom: 20px; }
+.guide-block p { max-width: 85ch; color: var(--muted); }
+.guide-block strong { color: var(--text); }
+.guide-block p:last-child { margin-bottom: 0; }
+.guide-block a, .source-note a, .section-note a, .source-panel a { text-decoration-color: var(--accent); text-underline-offset: 4px; }
+.learning-grid, .card-grid.two { display: grid; grid-template-columns: repeat(2,minmax(0,1fr)); gap: 20px; }
+.learning-grid { margin: 24px 0; }
+.inset { background: var(--surface); border: 1px solid var(--line); border-radius: 14px; padding: 24px; }
+h4 { margin: 0 0 12px; color: var(--accent-dark); font-size: 1.1rem; }
+.pipeline { display: grid; grid-template-columns: repeat(5,minmax(0,1fr)); gap: 10px; padding: 0; list-style: none; margin: 24px 0 18px; counter-reset: step; }
+.pipeline li { counter-increment: step; padding: 15px 12px; border: 1px solid var(--line); border-radius: 10px; background: var(--surface); }
+.pipeline li::before { content: counter(step, decimal-leading-zero); display: block; color: var(--accent); font-size: .8rem; margin-bottom: 12px; }
+.pipeline strong { font-size: .92rem; line-height: 1.3; display: block; }
+.pipeline span { display: block; color: var(--muted); font-size: .8rem; line-height: 1.5; margin-top: 10px; }
+.table-wrap { max-width: 100%; overflow-x: auto; margin: 24px 0; border: 1px solid var(--line); border-radius: 12px; }
+table { border-collapse: collapse; width: 100%; min-width: 500px; text-align: left; }
+caption { text-align: left; padding: 16px 20px; color: var(--muted); font-size: .88rem; }
+th,td { padding: 15px 20px; border-top: 1px solid var(--line); vertical-align: top; }
+thead { background: var(--surface-strong); }
+td { color: var(--muted); }
+.reading-list { padding-left: 22px; color: var(--muted); }
+.reading-list li { margin-bottom: 14px; padding-left: 6px; }
+.tag { color: var(--accent-dark) !important; font-size: .72rem; text-transform: uppercase; letter-spacing: .08em; font-weight: 750; margin-bottom: 15px !important; }
+.card { box-shadow: none; }
+.card h3 { font-size: 1.35rem; }
+.section-note { margin: 28px 0 0; }
+.publication h3 { font-size: 1.18rem; line-height: 1.35; }
+.publication h3 a { text-decoration: none; }
+.publication h3 a:hover { text-decoration: underline; }
+.publication .pub-year { color: var(--accent-dark); }
+.publication .pub-authors { font-size: .88rem; margin: 8px 0; }
+.resource-links { display: flex; flex-wrap: wrap; gap: 10px 20px; margin-top: 20px; font-size: .9rem; }
+.resource-links a { color: var(--accent-dark); text-underline-offset: 4px; }
+.play-mark { display: grid; place-items: center; width: 48px; height: 48px; background: var(--surface-strong); color: var(--accent-dark); border: 1px solid var(--line); border-radius: 50%; margin-bottom: 24px; }
+.source-panel { border-left: 3px solid var(--accent); padding-left: 30px; }
+.source-panel h2 { max-width: 800px; }
+@media(max-width: 960px) {
+  :root { scroll-padding-top: 150px; }
+  .hero-grid { grid-template-columns: 1fr; gap: 36px; }
+  .signal-card { max-width: 650px; }
+  .guide-block { grid-template-columns: 55px minmax(0,1fr); gap: 18px; }
+  .pipeline { grid-template-columns: 1fr; }
+  .pipeline li { display: grid; grid-template-columns: 28px 145px 1fr; align-items: start; gap: 10px; }
+  .pipeline li::before, .pipeline span { margin: 0; }
+}
+@media(max-width: 640px) {
+  .brand-text { display: inline; font-size: .87rem; }
+  .nav { gap: 14px; }
+  .nav-links { gap: 20px; font-size: .9rem; }
+  .hero { padding-top: 60px; }
+  .signal-card { padding: 22px; }
+  .guide-block { display: block; padding: 32px 0; }
+  .chapter-label { margin-bottom: 12px; }
+  .learning-grid, .card-grid.two { grid-template-columns: 1fr; }
+  .pipeline li { grid-template-columns: 24px minmax(0,1fr); }
+  .pipeline span { grid-column: 2; }
+  .text-link { white-space: normal; }
+}
+@media(prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } .button:hover { transform: none; } }
+@media(max-width: 640px) {
+  .nav-links { flex-wrap: wrap; gap: 10px 16px; overflow: visible; font-size: .85rem; }
+}
