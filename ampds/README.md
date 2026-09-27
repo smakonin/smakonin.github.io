@@ -21,3 +21,9 @@ All 11 local HTML/CSS references resolve, including the four font URLs and root 
 External checks: Nature and HUE article URLs and Google Translate/StatCounter endpoints returned HTTP 200. MDPI returned HTTP 403 to automated checks. Dataset DOIs resolve to Harvard Dataverse (HTTP 202); direct CSV/HDF5 download checks returned HTTP 403, including a ranged GET attempt. These external-service restrictions could not be resolved by this static-site migration. The dataset DOI link remains the alternative route to downloads. No dataset binaries were present in the source repository to migrate. Translation and analytics remain dependent on their third-party services; translation beyond selector rendering and analytics account reporting were not verified.
 
 Follow-up verification: all three /Publications/papers/ PDF URLs returned HTTP 200 with application/pdf. The migrated page now uses these instead of publisher landing pages; the RIS citation retains its DOI.
+
+## Shared-theme update (2026-09-27)
+
+The page now loads ../style.css and uses the same forest-green palette, portrait navigation, typography, buttons, cards and footer as the rest of makonin.com. ampds/style.css now contains only page-specific layout and responsive/accessibility overrides; the historical font files are retained but no longer loaded. The original logo, all link destinations, and verbatim BibTeX/RIS records are retained. Downloads appear before the citation section, with anchor navigation and a keyboard skip link. Google Translate is in the footer; StatCounter is retained. Earlier fixed-width-layout verification above describes the initial migration, superseded by this responsive update.
+
+Checked desktop and 390px mobile rendering, local image loading, fragment targets, and preservation of original links/citation records. Mobile document width equals viewport width (no horizontal page overflow). Shared site files and homepage are unchanged.

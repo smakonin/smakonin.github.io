@@ -1,38 +1,33 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
 <head>
-    <title>AMPds (The Almanac of Minutely Power Dataset)</title>
-
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <meta name="author" content="Stephen Makonin">
-    <meta name="copyright" content="Stephen Makonin">
-    <meta name="description" content="AMPds: The Almanac of Minutely Power Dataset (including water and natural gas consumption). A public dataset for load disaggregation and eco-feedback research." />
-    <meta name="keywords" content="dataset, disaggregation, eco-feedback, time series, power, energy, electricity, water, natural gas, consumption" />
-    <meta name="google-translate-customization" content="e10aa9a55e3e319e-36dfb51549306991-ge4f0f56a4ab0b68e-9" />
-
-    <link rel="canonical" href="https://makonin.com/ampds/">
-    <link rel="shortcut icon" href="favicon.ico">
-    <link href="font/font.css" rel="stylesheet" type='text/css'>
-    <link href="style.css" rel="stylesheet" type='text/css'>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="AMPds: The Almanac of Minutely Power Dataset. Electricity, water, and natural gas measurements for load disaggregation and eco-feedback research.">
+  <meta name="theme-color" content="#07110d">
+  <meta name="author" content="Stephen Makonin">
+  <link rel="canonical" href="https://makonin.com/ampds/">
+  <title>AMPds | Prof. Stephen Makonin</title>
+  <link rel="icon" href="favicon.ico">
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <div id="body">
-        <img id="logo" src="AMPds_logo.png" alt="AMPds"/>
-
-        <div id="google_translate_element" style="float:right;"></div>
-        <script type="text/javascript">
-        function googleTranslateElementInit() {
-          new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.HORIZONTAL}, 'google_translate_element');
-        }
-        </script><script type="text/javascript" src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
-
-        <p style="margin-top:3em;"><b>The AMPds dataset</b> has been release to help <a href="/nilm/">load disaggregation/NILM</a> and eco-feedback researchers test their algorithms, models, systems, and prototypes. AMPds contains electricity, water, and natural gas measurements at one minute intervals &mdash; a total of 1,051,200 readings per meter for 2 years of monitoring. Weather data from Environment Canada's YVR weather station has also been added. This hourly weather data covers the same period of time as AMPds and includes a summary of <q>climate normals</q> observed from the years between 1981-2010. Utility billing data is also included for cost analyses.</p>
-
-        <h2>Citation Information</h2>
-
-        <p>For details about AMPds please read my <a href="/Publications/papers/makonin2016electricity.pdf">Nature's Scientific Data journal paper</a>. If you use this dataset in your research you must cite this journal paper. Here are example references, the BibTeX record, and the RIS record:</p>
-
-        <blockquote class="#p">
+<a class="skip-link" href="#main">Skip to content</a>
+<header class="site-header"><nav class="nav container" aria-label="Primary navigation">
+  <a class="brand" href="/" aria-label="Stephen Makonin home"><img class="brand-photo" src="../images/stephen-makonin.jpg" alt=""><span class="brand-text">Prof. Stephen Makonin, PEng</span></a>
+  <div class="nav-links"><a href="#overview">Overview</a><a href="#downloads">Downloads</a><a href="#citation">Citation</a><a href="/nilm/">NILM guide</a></div>
+</nav></header>
+<main id="main">
+<section class="hero section-pad" id="overview"><div class="container hero-grid">
+  <div><p class="eyebrow">Open data · Energy intelligence</p><h1>AMPds</h1><p class="lede">The Almanac of Minutely Power Dataset</p><p class="body-copy">Two years of electricity, water, and natural gas measurements. A foundation for load disaggregation and eco-feedback research.</p><div class="hero-actions"><a class="button primary" href="#downloads">Download the dataset</a><a class="button" href="#citation">Cite AMPds</a></div></div>
+  <aside class="dataset-summary" aria-label="Dataset at a glance"><div class="ampds-logo"><img src="AMPds_logo.png" alt="AMPds — the Almanac of Minutely Power Dataset"></div><dl><div><dt>Monitoring period</dt><dd>2012–2014</dd></div><div><dt>Sampling interval</dt><dd>1 minute</dd></div><div><dt>Readings per meter</dt><dd>1,051,200</dd></div></dl></aside>
+</div></section>
+<section class="section-pad section-muted"><div class="container overview-copy"><p class="section-kicker">01 / About the data</p><h2>One house. Three utilities.</h2><p><b>The AMPds dataset</b> has been released to help <a href="/nilm/">load disaggregation/NILM</a> and eco-feedback researchers test their algorithms, models, systems, and prototypes. AMPds contains electricity, water, and natural gas measurements at one minute intervals &mdash; a total of 1,051,200 readings per meter for 2 years of monitoring. Weather data from Environment Canada's YVR weather station has also been added. This hourly weather data covers the same period of time as AMPds and includes a summary of <q>climate normals</q> observed from the years between 1981-2010. Utility billing data is also included for cost analyses.</p></div></section>
+<section id="downloads" class="section-pad"><div class="container"><div class="section-heading"><p class="section-kicker">02 / Downloads</p><h2>Start with AMPds2.</h2><p class="lede">The dataset files are hosted by Harvard Dataverse and available without a password.</p></div>
+<div class="download-panel"><h3>AMPds Version 2</h3><p>Download the complete dataset, or choose the power-data and NILMTK files below.</p><div class="hero-actions"><a class="button primary" href="https://doi.org/10.7910/DVN/FIE0S4">Open AMPds2 on Dataverse</a><a class="button" href="https://dataverse.harvard.edu/api/access/datafile/2741425?format=original">Electricity_P.csv</a><a class="button" href="https://dataverse.harvard.edu/api/access/datafile/3446605">AMPds.h5 · NILMTK</a></div><p class="download-note">Electricity_P.csv combines all sub-/meter power data in one file. AMPds.h5 provides the HDF5 file for NILMTK.</p><p class="permalink">Permanent link: <a href="https://doi.org/10.7910/DVN/FIE0S4">doi.org/10.7910/DVN/FIE0S4</a></p></div>
+<h3 class="related-heading">Related data &amp; earlier releases</h3><div class="related-grid"><article class="card"><strong>Hourly Data:</strong> For long-term hourly data from this same house download House 1 of the <a href="/Publications/papers/makonin2019hue.pdf">HUE dataset</a> from Harvard Dataverse (no password required): <a href="https://doi.org/10.7910/DVN/N3HGRN">https://doi.org/10.7910/DVN/N3HGRN</a>.</article><article class="card"><strong>1Hz Data:</strong> For a sample of 1Hz (per second) data from this same house download House 1 of the <a href="/Publications/papers/makonin2018rae.pdf">RAE dataset</a> from Harvard Dataverse (no password required): <a href="https://doi.org/10.7910/DVN/ZJW4LC">https://doi.org/10.7910/DVN/ZJW4LC</a>.</article><article class="card"><strong>Version 1:</strong> The original AMPds (R2013) dataset can be downloaded from Harvard Dataverse (no password required): <a href="https://doi.org/10.7910/DVN/MXB7VO">https://doi.org/10.7910/DVN/MXB7VO</a>.</article><article class="card"><strong>Pre-Version:</strong> Also available, a 2010 dataset called ODDs from the same test house can be downloaded from Harvard Dataverse (no password required): <a href="https://doi.org/10.7910/DVN/2K9FFE">https://doi.org/10.7910/DVN/2K9FFE</a>.</article></div></div></section>
+<section id="citation" class="section-pad section-muted"><div class="container"><div class="section-heading"><p class="section-kicker">03 / Citation</p><h2>Build on the data. Cite the work.</h2><p>For details about AMPds, read the <a href="/Publications/papers/makonin2016electricity.pdf">Scientific Data journal paper (PDF)</a>. If you use this dataset in your research, you must cite this paper.</p></div><div class="citation-records">
             <strong>APA Example:</strong><br/>
             <br/>
             Makonin, S., Ellert, B., Bajic, I. V., and Popowich, F. (2016).
@@ -78,28 +73,16 @@ M3  - Data Descriptor
 L3  -
 ER  -</pre>
 
-        </blockquote>
+        </div></div></section>
+</main>
+<footer class="site-footer"><div class="container footer-grid"><p>Copyright &copy; 2013–2019 <a href="/">Stephen Makonin</a>. All Rights Reserved.</p><a href="/nilm/">Explore the NILM guide →</a></div><div class="container translation"><div id="google_translate_element"></div>
+        <script type="text/javascript">
+        function googleTranslateElementInit() {
+          new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.HORIZONTAL}, 'google_translate_element');
+        }
+        </script><script type="text/javascript" src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 
-        <h2>Download Dataset</h2>
-
-        <p>This site no longer hosts the dataset files. <strong>AMPds Version 2</strong> is now availible for download from Harvard Dataverse at this permalink (no password required):
-        <pre class="permalink"><a href="https://doi.org/10.7910/DVN/FIE0S4">https://doi.org/10.7910/DVN/FIE0S4</a></pre>
-        </p>
-
-        <p><strong style="color:red;">NILM Researchers Note:</strong> If you only want a single file with all the sub-/meter power data you can directly download the <a href="https://dataverse.harvard.edu/api/access/datafile/2741425?format=original">Electricity_P.csv</a> file. If you use NILMTK you can download the HDF5 file <a href="https://dataverse.harvard.edu/api/access/datafile/3446605">AMPds.h5</a>.</p>
-
-        <p><strong>Hourly Data:</strong> For long-term hourly data from this same house download House 1 of the <a href="/Publications/papers/makonin2019hue.pdf">HUE dataset</a> to Harvard Dataverse (no password required): <a href="https://doi.org/10.7910/DVN/N3HGRN">https://doi.org/10.7910/DVN/N3HGRN</a>.</p>
-
-        <p><strong>1Hz Data:</strong> For a smaple of 1Hz (per second) data from this same house download House 1 of the <a href="/Publications/papers/makonin2018rae.pdf">RAE dataset</a> to Harvard Dataverse (no password required): <a href="https://doi.org/10.7910/DVN/ZJW4LC">https://doi.org/10.7910/DVN/ZJW4LC</a>.</p>
-
-        <p><strong>Version 1:</strong> The original AMPds (R2013) dataset can be downloaded from Harvard Dataverse (no password required): <a href="https://doi.org/10.7910/DVN/MXB7VO">https://doi.org/10.7910/DVN/MXB7VO</a>.</p>
-
-        <p><strong>Pre-Version:</strong> Also avalible, a 2010 dataset called ODDs from the same test house can be downloaded from Harvard Dataverse (no password required): <a href="https://doi.org/10.7910/DVN/2K9FFE">https://doi.org/10.7910/DVN/2K9FFE</a>.</p>
-
-    <footer>
-            Copyright &copy; 2013&mdash;2019 <a href="/">Stephen Makonin</a>. All Rights Reserved.
-        </footer>
-    </div>
+        </div></footer>
 <!-- Start of StatCounter Code for Default Guide -->
 <script type="text/javascript">
 var sc_project=10228161;
