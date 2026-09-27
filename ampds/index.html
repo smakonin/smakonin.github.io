@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>AMPds (The Almanac of Minutely Power Dataset)</title>
+
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="author" content="Stephen Makonin">
+    <meta name="copyright" content="Stephen Makonin">
+    <meta name="description" content="AMPds: The Almanac of Minutely Power Dataset (including water and natural gas consumption). A public dataset for load disaggregation and eco-feedback research." />
+    <meta name="keywords" content="dataset, disaggregation, eco-feedback, time series, power, energy, electricity, water, natural gas, consumption" />
+    <meta name="google-translate-customization" content="e10aa9a55e3e319e-36dfb51549306991-ge4f0f56a4ab0b68e-9" />
+
+    <link rel="canonical" href="https://makonin.com/ampds/">
+    <link rel="shortcut icon" href="favicon.ico">
+    <link href="font/font.css" rel="stylesheet" type='text/css'>
+    <link href="style.css" rel="stylesheet" type='text/css'>
+</head>
+<body>
+    <div id="body">
+        <img id="logo" src="AMPds_logo.png" alt="AMPds"/>
+
+        <div id="google_translate_element" style="float:right;"></div>
+        <script type="text/javascript">
+        function googleTranslateElementInit() {
+          new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.HORIZONTAL}, 'google_translate_element');
+        }
+        </script><script type="text/javascript" src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
+        <p style="margin-top:3em;"><b>The AMPds dataset</b> has been release to help <a href="/nilm/">load disaggregation/NILM</a> and eco-feedback researchers test their algorithms, models, systems, and prototypes. AMPds contains electricity, water, and natural gas measurements at one minute intervals &mdash; a total of 1,051,200 readings per meter for 2 years of monitoring. Weather data from Environment Canada's YVR weather station has also been added. This hourly weather data covers the same period of time as AMPds and includes a summary of <q>climate normals</q> observed from the years between 1981-2010. Utility billing data is also included for cost analyses.</p>
+
+        <h2>Citation Information</h2>
+
+        <p>For details about AMPds please read my <a href="https://doi.org/10.1038/sdata.2016.37">Nature's Scientific Data journal paper</a>. If you use this dataset in your research you must cite this journal paper. Here are example references, the BibTeX record, and the RIS record:</p>
+
+        <blockquote class="#p">
+            <strong>APA Example:</strong><br/>
+            <br/>
+            Makonin, S., Ellert, B., Bajic, I. V., and Popowich, F. (2016).
+            Electricity, water, and natural gas consumption of a residential house in Canada from 2012 to 2014.
+            <em>Scientific Data</em>, 3(160037):1–12.<br/>
+            <br/>
+            <strong>IEEE Example:</strong><br/>
+            <br/>
+            S. Makonin, B. Ellert, I. V. Bajic, and F. Popowich,
+            “Electricity, water, and natural gas consumption of a residential house in Canada from 2012 to 2014,”
+            <em>Scientific Data</em>, vol. 3, no. 160037, pp. 1–12, 2016.<br/>
+            <br/>
+            <strong>BibTeX Record:</strong><br/>
+
+<pre>@article{makonin2016ampds,
+Author = {Stephen Makonin and Bradley Ellert and Ivan V. Bajic and Fred Popowich},
+Title = {{Electricity, water, and natural gas consumption of a residential house in Canada from 2012 to 2014}},
+Journal = {Scientific Data},
+Volume = {3},
+Number = {160037},
+Pages = {1--12},
+Year = {2016}}</pre>
+
+            <br/>
+            <strong>RIS Record:</strong><br/>
+
+<pre>TY  - JOUR
+AU  - Makonin, Stephen
+AU  - Ellert, Bradley
+AU  - Bajić, Ivan V.
+AU  - Popowich, Fred
+TI  - Electricity, water, and natural gas consumption of a residential house in Canada from 2012 to 2014
+JA  - Scientific Data
+PY  - 2016/06/07/online
+VL  - 3
+SP  - 160037
+EP  -
+PB  - Macmillan Publishers Limited
+SN  -
+UR  - https://doi.org/10.1038/sdata.2016.37
+L3  - 10.1038/sdata.2016.37
+M3  - Data Descriptor
+L3  -
+ER  -</pre>
+
+        </blockquote>
+
+        <h2>Download Dataset</h2>
+
+        <p>This site no longer hosts the dataset files. <strong>AMPds Version 2</strong> is now availible for download from Harvard Dataverse at this permalink (no password required):
+        <pre class="permalink"><a href="https://doi.org/10.7910/DVN/FIE0S4">https://doi.org/10.7910/DVN/FIE0S4</a></pre>
+        </p>
+
+        <p><strong style="color:red;">NILM Researchers Note:</strong> If you only want a single file with all the sub-/meter power data you can directly download the <a href="https://dataverse.harvard.edu/api/access/datafile/2741425?format=original">Electricity_P.csv</a> file. If you use NILMTK you can download the HDF5 file <a href="https://dataverse.harvard.edu/api/access/datafile/3446605">AMPds.h5</a>.</p>
+
+        <p><strong>Hourly Data:</strong> For long-term hourly data from this same house download House 1 of the <a href="https://doi.org/10.1016/j.dib.2019.103744">HUE dataset</a> to Harvard Dataverse (no password required): <a href="https://doi.org/10.7910/DVN/N3HGRN">https://doi.org/10.7910/DVN/N3HGRN</a>.</p>
+
+        <p><strong>1Hz Data:</strong> For a smaple of 1Hz (per second) data from this same house download House 1 of the <a href="https://doi.org/10.3390/data3010008">RAE dataset</a> to Harvard Dataverse (no password required): <a href="https://doi.org/10.7910/DVN/ZJW4LC">https://doi.org/10.7910/DVN/ZJW4LC</a>.</p>
+
+        <p><strong>Version 1:</strong> The original AMPds (R2013) dataset can be downloaded from Harvard Dataverse (no password required): <a href="https://doi.org/10.7910/DVN/MXB7VO">https://doi.org/10.7910/DVN/MXB7VO</a>.</p>
+
+        <p><strong>Pre-Version:</strong> Also avalible, a 2010 dataset called ODDs from the same test house can be downloaded from Harvard Dataverse (no password required): <a href="https://doi.org/10.7910/DVN/2K9FFE">https://doi.org/10.7910/DVN/2K9FFE</a>.</p>
+
+    <footer>
+            Copyright &copy; 2013&mdash;2019 <a href="/">Stephen Makonin</a>. All Rights Reserved.
+        </footer>
+    </div>
+<!-- Start of StatCounter Code for Default Guide -->
+<script type="text/javascript">
+var sc_project=10228161;
+var sc_invisible=1;
+var sc_security="f4ec4699";
+var scJsHost = (("https:" == document.location.protocol) ?
+"https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" +
+scJsHost+
+"statcounter.com/counter/counter.js'></"+"script>");
+</script>
+<noscript><div class="statcounter"><a title="website
+statistics" href="https://statcounter.com/"
+target="_blank"><img class="statcounter"
+src="https://c.statcounter.com/10228161/0/f4ec4699/1/"
+alt="website statistics"></a></div></noscript>
+<!-- End of StatCounter Code for Default Guide -->
+</body>
+</html>
